@@ -1,0 +1,1441 @@
+"Year" "Month" "County" "Pollutant" "P_Mean" "Count"
+"2004" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 31.8363445971897 331
+"2004" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 27.06552024 306
+"2004" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 30.2732329227166 250
+"2004" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 21.3925731228501 253
+"2004" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 20.3649989930233 249
+"2004" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 18.749237446384 183
+"2004" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 21.8547906906977 169
+"2004" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 23.3122447746479 201
+"2004" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 25.7390294951923 206
+"2004" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 25.2447040932401 204
+"2004" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 27.5894725606796 227
+"2004" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 27.7663512847059 247
+"2005" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 24.5236337610209 281
+"2005" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 21.2738306769231 288
+"2005" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 22.3549635023041 280
+"2005" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 21.5275556442308 242
+"2005" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 18.1658882332506 269
+"2005" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 17.355460848329 213
+"2005" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 21.5917946666667 211
+"2005" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 22.5224563101737 204
+"2005" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 24.6528779870466 176
+"2005" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 26.1855785375 215
+"2005" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 29.6375047216495 232
+"2005" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 27.9091109503722 382
+"2006" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 23.2155586766169 345
+"2006" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 28.733779978022 266
+"2006" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8631962781955 280
+"2006" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 16.7848594352332 258
+"2006" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 17.2195997971014 240
+"2006" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 20.7432707595908 202
+"2006" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 20.0099996643519 244
+"2006" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 20.40225108 186
+"2006" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 25.2975748452088 202
+"2006" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 24.5414534147465 188
+"2006" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 31.4756885095238 219
+"2006" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 26.1459818251748 258
+"2007" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 27.359745 258
+"2007" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 25.3496703161954 286
+"2007" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 25.0374377880184 297
+"2007" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 19.1432087238095 245
+"2007" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 17.3637984009217 227
+"2007" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 19.0448224449761 225
+"2007" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 18.2746549515012 210
+"2007" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 21.7320005889145 200
+"2007" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 20.5647798442211 204
+"2007" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 28.0304838756614 213
+"2007" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 31.092069852381 215
+"2007" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 23.6500360322581 230
+"2008" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 22.7180939976581 326
+"2008" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 24.189007 357
+"2008" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 24.4205199721578 317
+"2008" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 19.6075298077859 286
+"2008" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 16.7455513957346 257
+"2008" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 18.2108186625616 241
+"2008" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 17.3670103064516 229
+"2008" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 17.9780548915663 220
+"2008" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 21.4783435346062 192
+"2008" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 28.4973195368664 198
+"2008" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 27.3504810071429 220
+"2008" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 24.4543357813954 239
+"2009" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 26.0871197775176 280
+"2009" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 21.2017147251309 283
+"2009" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 19.6494456533666 291
+"2009" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 16.8432887662651 270
+"2009" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 14.999269400463 257
+"2009" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 13.5461332613909 261
+"2009" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 16.6407023487298 226
+"2009" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 18.7053163571429 216
+"2009" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 21.0575764605911 196
+"2009" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 21.413968842723 286
+"2009" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 28.4063888004926 254
+"2009" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 25.2759132224824 263
+"2010" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 25.6414740390456 273
+"2010" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 22.15847595 262
+"2010" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 18.7874383333333 291
+"2010" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 14.2367425777778 244
+"2010" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 13.1786242603939 253
+"2010" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 12.9541447136465 179
+"2010" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 14.7945374874715 206
+"2010" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8837613209302 226
+"2010" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 21.9529664942792 218
+"2010" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 17.9378649694118 190
+"2010" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 21.5448722843137 230
+"2010" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 22.4725119364303 231
+"2011" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 24.9755586153846 304
+"2011" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 19.9768797189873 282
+"2011" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 17.6410830047059 336
+"2011" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 13.4429141383929 307
+"2011" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 12.5979609282407 254
+"2011" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 12.3861864469697 223
+"2011" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 12.8131822351598 229
+"2011" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 16.9616197925 227
+"2011" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 18.3035313491272 175
+"2011" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 21.4332443006834 237
+"2011" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 21.4892589763033 227
+"2011" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 26.6358715364238 281
+"2012" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 25.5190940154242 258
+"2012" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 20.167933796875 271
+"2012" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 16.3573529376443 291
+"2012" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 14.7537827335092 273
+"2012" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 12.2093535742857 230
+"2012" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 11.1286306288952 197
+"2012" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 12.1994218802228 225
+"2012" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 14.8610296754098 185
+"2012" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 18.5230564455128 193
+"2012" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 18.4028385661376 198
+"2012" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 22.1695774645669 220
+"2012" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8777596361186 253
+"2013" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 21.2472749096573 360
+"2013" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 19.4764987446808 351
+"2013" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 16.6945185837838 284
+"2013" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 11.5500542674095 264
+"2013" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 11.0769009125964 215
+"2013" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 10.7542328567901 215
+"2013" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 13.3617151782609 223
+"2013" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 14.9092301691974 196
+"2013" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 15.8798522477679 184
+"2013" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8945528804878 214
+"2013" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 21.6436653809524 248
+"2013" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 24.5445649282297 256
+"2014" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 29.6219736314496 316
+"2014" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 19.7412552142857 253
+"2014" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 14.5280240928571 256
+"2014" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 13.5747895188917 234
+"2014" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 11.755682352657 221
+"2014" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 9.96756625 220
+"2014" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 10.7716719455959 197
+"2014" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 12.0648177493606 232
+"2014" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 14.1387393961749 213
+"2014" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 18.5139480945274 197
+"2014" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 19.4570534699739 211
+"2014" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 18.0644830125 278
+"2015" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 22.9722609850746 358
+"2015" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 20.0297898300283 284
+"2015" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 16.9437530843672 297
+"2015" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 14.1246295142857 254
+"2015" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 9.18705463788969 276
+"2015" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 12.1196772009685 212
+"2015" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 9.54096760240964 205
+"2015" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 11.4567980510949 220
+"2015" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 14.0569992352941 220
+"2015" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 16.2767697892272 207
+"2015" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 19.765592471464 226
+"2015" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 21.5310905034965 280
+"2016" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 19.5726705093458 326
+"2016" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 22.5678634901478 351
+"2016" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 14.1579695437788 344
+"2016" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 12.8236854880952 281
+"2016" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 8.61618974641148 252
+"2016" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 11.4304542619048 223
+"2016" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 10.6203820529954 225
+"2016" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 12.1353034622642 227
+"2016" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 14.0707047710843 199
+"2016" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 17.1200305858824 241
+"2016" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 22.3089058568019 227
+"2016" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 19.0195593087558 283
+"2017" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 16.6953294802784 365
+"2017" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 14.7755398571429 287
+"2017" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 17.0681949389671 283
+"2017" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 11.9139840309524 290
+"2017" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 10.5756041016166 264
+"2017" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 11.2960481442543 222
+"2017" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 10.6134902009804 227
+"2017" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 12.013831031401 222
+"2017" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 13.6659633187661 226
+"2017" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8939158783069 224
+"2017" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 20.9947585842105 222
+"2017" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 27.5549823682796 297
+"2018" "1" "Los Angeles" "Nitrogen dioxide (NO2)" 22.689070638404 395
+"2018" "2" "Los Angeles" "Nitrogen dioxide (NO2)" 18.8419299616368 305
+"2018" "3" "Los Angeles" "Nitrogen dioxide (NO2)" 14.1160431638142 323
+"2018" "4" "Los Angeles" "Nitrogen dioxide (NO2)" 12.607233599455 248
+"2018" "5" "Los Angeles" "Nitrogen dioxide (NO2)" 9.2409636957606 240
+"2018" "6" "Los Angeles" "Nitrogen dioxide (NO2)" 9.67242948963731 214
+"2018" "7" "Los Angeles" "Nitrogen dioxide (NO2)" 9.73345708353222 240
+"2018" "8" "Los Angeles" "Nitrogen dioxide (NO2)" 10.5681862850467 219
+"2018" "9" "Los Angeles" "Nitrogen dioxide (NO2)" 12.5200818357488 198
+"2018" "10" "Los Angeles" "Nitrogen dioxide (NO2)" 15.4737241059908 223
+"2018" "11" "Los Angeles" "Nitrogen dioxide (NO2)" 20.2941387444169 227
+"2018" "12" "Los Angeles" "Nitrogen dioxide (NO2)" 19.7448564503464 277
+"2004" "1" "San Diego" "Nitrogen dioxide (NO2)" 25.9788657195122 149
+"2004" "10" "San Diego" "Nitrogen dioxide (NO2)" 16.2050914395161 70
+"2004" "11" "San Diego" "Nitrogen dioxide (NO2)" 22.2825237291667 85
+"2004" "12" "San Diego" "Nitrogen dioxide (NO2)" 22.8744648427419 104
+"2004" "2" "San Diego" "Nitrogen dioxide (NO2)" 21.3453253577586 113
+"2004" "3" "San Diego" "Nitrogen dioxide (NO2)" 19.459478291498 116
+"2004" "4" "San Diego" "Nitrogen dioxide (NO2)" 14.0888803855932 99
+"2004" "5" "San Diego" "Nitrogen dioxide (NO2)" 12.5232301290323 73
+"2004" "6" "San Diego" "Nitrogen dioxide (NO2)" 10.4189467291667 67
+"2004" "7" "San Diego" "Nitrogen dioxide (NO2)" 11.7444015766129 67
+"2004" "8" "San Diego" "Nitrogen dioxide (NO2)" 12.6857778064516 72
+"2004" "9" "San Diego" "Nitrogen dioxide (NO2)" 15.7846424583333 57
+"2005" "1" "San Diego" "Nitrogen dioxide (NO2)" 20.9144393333333 115
+"2005" "10" "San Diego" "Nitrogen dioxide (NO2)" 19.1212040327869 85
+"2005" "11" "San Diego" "Nitrogen dioxide (NO2)" 24.6380913286385 93
+"2005" "12" "San Diego" "Nitrogen dioxide (NO2)" 25.9841161693548 130
+"2005" "2" "San Diego" "Nitrogen dioxide (NO2)" 18.2421059054054 90
+"2005" "3" "San Diego" "Nitrogen dioxide (NO2)" 15.9015253319328 107
+"2005" "4" "San Diego" "Nitrogen dioxide (NO2)" 16.0599185833333 90
+"2005" "5" "San Diego" "Nitrogen dioxide (NO2)" 12.161555641129 106
+"2005" "6" "San Diego" "Nitrogen dioxide (NO2)" 10.7508382815126 81
+"2005" "7" "San Diego" "Nitrogen dioxide (NO2)" 12.6010389467213 81
+"2005" "8" "San Diego" "Nitrogen dioxide (NO2)" 13.3907180080972 97
+"2005" "9" "San Diego" "Nitrogen dioxide (NO2)" 16.5066026302521 67
+"2006" "1" "San Diego" "Nitrogen dioxide (NO2)" 22.4127258548387 100
+"2006" "10" "San Diego" "Nitrogen dioxide (NO2)" 17.9473810693878 88
+"2006" "11" "San Diego" "Nitrogen dioxide (NO2)" 23.9887788908297 74
+"2006" "12" "San Diego" "Nitrogen dioxide (NO2)" 24.2522678956522 76
+"2006" "2" "San Diego" "Nitrogen dioxide (NO2)" 24.2335937633929 118
+"2006" "3" "San Diego" "Nitrogen dioxide (NO2)" 14.9505156612245 89
+"2006" "4" "San Diego" "Nitrogen dioxide (NO2)" 12.8483411291667 109
+"2006" "5" "San Diego" "Nitrogen dioxide (NO2)" 11.5547946857143 92
+"2006" "6" "San Diego" "Nitrogen dioxide (NO2)" 13.013881965368 90
+"2006" "7" "San Diego" "Nitrogen dioxide (NO2)" 10.7068014430894 83
+"2006" "8" "San Diego" "Nitrogen dioxide (NO2)" 11.2936667206478 82
+"2006" "9" "San Diego" "Nitrogen dioxide (NO2)" 14.5530525454545 71
+"2007" "1" "San Diego" "Nitrogen dioxide (NO2)" 21.5264243681818 120
+"2007" "10" "San Diego" "Nitrogen dioxide (NO2)" 19.1326149758065 83
+"2007" "11" "San Diego" "Nitrogen dioxide (NO2)" 21.5149138916667 89
+"2007" "12" "San Diego" "Nitrogen dioxide (NO2)" 19.7841636895161 66
+"2007" "2" "San Diego" "Nitrogen dioxide (NO2)" 19.0443303409091 91
+"2007" "3" "San Diego" "Nitrogen dioxide (NO2)" 17.4141280082988 99
+"2007" "4" "San Diego" "Nitrogen dioxide (NO2)" 11.2366065333333 106
+"2007" "5" "San Diego" "Nitrogen dioxide (NO2)" 10.1118406285714 80
+"2007" "6" "San Diego" "Nitrogen dioxide (NO2)" 10.5199858666667 81
+"2007" "7" "San Diego" "Nitrogen dioxide (NO2)" 10.3038213252033 68
+"2007" "8" "San Diego" "Nitrogen dioxide (NO2)" 11.0333481788618 82
+"2007" "9" "San Diego" "Nitrogen dioxide (NO2)" 12.2334295515695 70
+"2008" "1" "San Diego" "Nitrogen dioxide (NO2)" 18.6833630284553 108
+"2008" "10" "San Diego" "Nitrogen dioxide (NO2)" 22.5954970685484 70
+"2008" "11" "San Diego" "Nitrogen dioxide (NO2)" 21.777933325 63
+"2008" "12" "San Diego" "Nitrogen dioxide (NO2)" 18.6024047268908 86
+"2008" "2" "San Diego" "Nitrogen dioxide (NO2)" 19.0388276849315 113
+"2008" "3" "San Diego" "Nitrogen dioxide (NO2)" 17.4026889395161 137
+"2008" "4" "San Diego" "Nitrogen dioxide (NO2)" 13.9867735125 111
+"2008" "5" "San Diego" "Nitrogen dioxide (NO2)" 9.7636908875 75
+"2008" "6" "San Diego" "Nitrogen dioxide (NO2)" 10.6149327873303 67
+"2008" "7" "San Diego" "Nitrogen dioxide (NO2)" 9.39839575210084 86
+"2008" "8" "San Diego" "Nitrogen dioxide (NO2)" 9.37626376271187 79
+"2008" "9" "San Diego" "Nitrogen dioxide (NO2)" 12.6091989307359 72
+"2009" "1" "San Diego" "Nitrogen dioxide (NO2)" 22.5399680305677 88
+"2009" "10" "San Diego" "Nitrogen dioxide (NO2)" 16.103681766129 69
+"2009" "11" "San Diego" "Nitrogen dioxide (NO2)" 21.4730379875 98
+"2009" "12" "San Diego" "Nitrogen dioxide (NO2)" 19.2795562298387 81
+"2009" "2" "San Diego" "Nitrogen dioxide (NO2)" 17.7922924642857 81
+"2009" "3" "San Diego" "Nitrogen dioxide (NO2)" 13.8155701417004 121
+"2009" "4" "San Diego" "Nitrogen dioxide (NO2)" 11.8042087342995 93
+"2009" "5" "San Diego" "Nitrogen dioxide (NO2)" 9.03042454883721 77
+"2009" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.84408093333333 69
+"2009" "7" "San Diego" "Nitrogen dioxide (NO2)" 9.02421948582996 70
+"2009" "8" "San Diego" "Nitrogen dioxide (NO2)" 11.5062450734694 70
+"2009" "9" "San Diego" "Nitrogen dioxide (NO2)" 12.7165375443038 62
+"2010" "1" "San Diego" "Nitrogen dioxide (NO2)" 20.809862275 115
+"2010" "10" "San Diego" "Nitrogen dioxide (NO2)" 12.7563006393443 75
+"2010" "11" "San Diego" "Nitrogen dioxide (NO2)" 17.2216604261603 65
+"2010" "12" "San Diego" "Nitrogen dioxide (NO2)" 18.3465144233871 97
+"2010" "2" "San Diego" "Nitrogen dioxide (NO2)" 15.6951421232877 95
+"2010" "3" "San Diego" "Nitrogen dioxide (NO2)" 14.0374224808511 121
+"2010" "4" "San Diego" "Nitrogen dioxide (NO2)" 9.98088103004292 108
+"2010" "5" "San Diego" "Nitrogen dioxide (NO2)" 8.58625060816327 98
+"2010" "6" "San Diego" "Nitrogen dioxide (NO2)" 7.96116685833333 83
+"2010" "7" "San Diego" "Nitrogen dioxide (NO2)" 8.27332785483871 88
+"2010" "8" "San Diego" "Nitrogen dioxide (NO2)" 10.0831043967611 81
+"2010" "9" "San Diego" "Nitrogen dioxide (NO2)" 13.0508777106383 68
+"2011" "1" "San Diego" "Nitrogen dioxide (NO2)" 19.8430146638298 134
+"2011" "10" "San Diego" "Nitrogen dioxide (NO2)" 15.9418418932039 67
+"2011" "11" "San Diego" "Nitrogen dioxide (NO2)" 16.2931730182648 61
+"2011" "12" "San Diego" "Nitrogen dioxide (NO2)" 19.0649270483871 111
+"2011" "2" "San Diego" "Nitrogen dioxide (NO2)" 14.6120195169082 95
+"2011" "3" "San Diego" "Nitrogen dioxide (NO2)" 14.2601942857143 123
+"2011" "4" "San Diego" "Nitrogen dioxide (NO2)" 9.48522893392071 81
+"2011" "5" "San Diego" "Nitrogen dioxide (NO2)" 8.40244255555556 84
+"2011" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.77421976724138 83
+"2011" "7" "San Diego" "Nitrogen dioxide (NO2)" 6.43904315789474 78
+"2011" "8" "San Diego" "Nitrogen dioxide (NO2)" 8.42465001209677 79
+"2011" "9" "San Diego" "Nitrogen dioxide (NO2)" 10.0965170484581 72
+"2012" "1" "San Diego" "Nitrogen dioxide (NO2)" 20.2130401290323 116
+"2012" "10" "San Diego" "Nitrogen dioxide (NO2)" 14.6406748266129 89
+"2012" "11" "San Diego" "Nitrogen dioxide (NO2)" 16.7089985916667 72
+"2012" "12" "San Diego" "Nitrogen dioxide (NO2)" 14.896836233871 113
+"2012" "2" "San Diego" "Nitrogen dioxide (NO2)" 14.3956779155556 78
+"2012" "3" "San Diego" "Nitrogen dioxide (NO2)" 11.2113789465021 102
+"2012" "4" "San Diego" "Nitrogen dioxide (NO2)" 9.97353881304348 92
+"2012" "5" "San Diego" "Nitrogen dioxide (NO2)" 7.2792411512605 93
+"2012" "6" "San Diego" "Nitrogen dioxide (NO2)" 7.19130273529412 84
+"2012" "7" "San Diego" "Nitrogen dioxide (NO2)" 7.2537228 61
+"2012" "8" "San Diego" "Nitrogen dioxide (NO2)" 8.65450451428571 80
+"2012" "9" "San Diego" "Nitrogen dioxide (NO2)" 11.4342389148936 68
+"2013" "1" "San Diego" "Nitrogen dioxide (NO2)" 18.4858902757202 123
+"2013" "10" "San Diego" "Nitrogen dioxide (NO2)" 12.822064334728 80
+"2013" "11" "San Diego" "Nitrogen dioxide (NO2)" 18.0262188413462 88
+"2013" "12" "San Diego" "Nitrogen dioxide (NO2)" 19.3917410297872 94
+"2013" "2" "San Diego" "Nitrogen dioxide (NO2)" 15.6270711261261 112
+"2013" "3" "San Diego" "Nitrogen dioxide (NO2)" 11.2907219717742 119
+"2013" "4" "San Diego" "Nitrogen dioxide (NO2)" 7.8347534875 100
+"2013" "5" "San Diego" "Nitrogen dioxide (NO2)" 6.35145907531381 89
+"2013" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.143431 74
+"2013" "7" "San Diego" "Nitrogen dioxide (NO2)" 6.86777971238938 77
+"2013" "8" "San Diego" "Nitrogen dioxide (NO2)" 7.85468080769231 71
+"2013" "9" "San Diego" "Nitrogen dioxide (NO2)" 9.67949010878661 87
+"2014" "1" "San Diego" "Nitrogen dioxide (NO2)" 20.6446160464135 109
+"2014" "10" "San Diego" "Nitrogen dioxide (NO2)" 11.8092941733871 75
+"2014" "11" "San Diego" "Nitrogen dioxide (NO2)" 14.0189816724138 82
+"2014" "12" "San Diego" "Nitrogen dioxide (NO2)" 13.8067875668016 66
+"2014" "2" "San Diego" "Nitrogen dioxide (NO2)" 14.272085852381 79
+"2014" "3" "San Diego" "Nitrogen dioxide (NO2)" 9.69448933179724 100
+"2014" "4" "San Diego" "Nitrogen dioxide (NO2)" 9.33586171428571 87
+"2014" "5" "San Diego" "Nitrogen dioxide (NO2)" 7.27756950236967 98
+"2014" "6" "San Diego" "Nitrogen dioxide (NO2)" 4.84750402631579 89
+"2014" "7" "San Diego" "Nitrogen dioxide (NO2)" 5.93444450840336 82
+"2014" "8" "San Diego" "Nitrogen dioxide (NO2)" 7.01137306882591 75
+"2014" "9" "San Diego" "Nitrogen dioxide (NO2)" 7.14828293248945 64
+"2015" "1" "San Diego" "Nitrogen dioxide (NO2)" 15.9678082540984 123
+"2015" "10" "San Diego" "Nitrogen dioxide (NO2)" 11.302482412844 67
+"2015" "11" "San Diego" "Nitrogen dioxide (NO2)" 13.8056717106383 73
+"2015" "12" "San Diego" "Nitrogen dioxide (NO2)" 14.9367431008065 98
+"2015" "2" "San Diego" "Nitrogen dioxide (NO2)" 12.5713228818182 109
+"2015" "3" "San Diego" "Nitrogen dioxide (NO2)" 11.483266515748 96
+"2015" "4" "San Diego" "Nitrogen dioxide (NO2)" 8.82684861710037 86
+"2015" "5" "San Diego" "Nitrogen dioxide (NO2)" 5.12257303249097 69
+"2015" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.50947370037453 79
+"2015" "7" "San Diego" "Nitrogen dioxide (NO2)" 5.3750774384058 73
+"2015" "8" "San Diego" "Nitrogen dioxide (NO2)" 6.78549890545455 81
+"2015" "9" "San Diego" "Nitrogen dioxide (NO2)" 8.54878839574468 70
+"2016" "1" "San Diego" "Nitrogen dioxide (NO2)" 12.9878824796748 111
+"2016" "10" "San Diego" "Nitrogen dioxide (NO2)" 11.2766706428571 71
+"2016" "11" "San Diego" "Nitrogen dioxide (NO2)" 13.6861681626794 92
+"2016" "12" "San Diego" "Nitrogen dioxide (NO2)" 11.8909561198157 99
+"2016" "2" "San Diego" "Nitrogen dioxide (NO2)" 15.5599908461538 105
+"2016" "3" "San Diego" "Nitrogen dioxide (NO2)" 9.00629748535565 111
+"2016" "4" "San Diego" "Nitrogen dioxide (NO2)" 8.61073811440678 85
+"2016" "5" "San Diego" "Nitrogen dioxide (NO2)" 4.72440175609756 98
+"2016" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.55899947083333 65
+"2016" "7" "San Diego" "Nitrogen dioxide (NO2)" 5.76798376356589 76
+"2016" "8" "San Diego" "Nitrogen dioxide (NO2)" 5.60084854054054 63
+"2016" "9" "San Diego" "Nitrogen dioxide (NO2)" 8.546663575 89
+"2017" "1" "San Diego" "Nitrogen dioxide (NO2)" 10.4384481674641 89
+"2017" "10" "San Diego" "Nitrogen dioxide (NO2)" 10.333791953917 72
+"2017" "11" "San Diego" "Nitrogen dioxide (NO2)" 13.4844295778894 80
+"2017" "12" "San Diego" "Nitrogen dioxide (NO2)" 15.9153538341014 115
+"2017" "2" "San Diego" "Nitrogen dioxide (NO2)" 9.15342040206186 97
+"2017" "3" "San Diego" "Nitrogen dioxide (NO2)" 11.0764641981567 104
+"2017" "4" "San Diego" "Nitrogen dioxide (NO2)" 7.53365069109948 94
+"2017" "5" "San Diego" "Nitrogen dioxide (NO2)" 5.48649001428571 101
+"2017" "6" "San Diego" "Nitrogen dioxide (NO2)" 6.12173122857143 87
+"2017" "7" "San Diego" "Nitrogen dioxide (NO2)" 5.30568408333333 71
+"2017" "8" "San Diego" "Nitrogen dioxide (NO2)" 5.79617529953917 67
+"2017" "9" "San Diego" "Nitrogen dioxide (NO2)" 6.63627414423077 65
+"2018" "1" "San Diego" "Nitrogen dioxide (NO2)" 13.3961218202765 123
+"2018" "10" "San Diego" "Nitrogen dioxide (NO2)" 9.28440283255814 69
+"2018" "11" "San Diego" "Nitrogen dioxide (NO2)" 11.1354766201923 72
+"2018" "12" "San Diego" "Nitrogen dioxide (NO2)" 12.2430254884793 92
+"2018" "2" "San Diego" "Nitrogen dioxide (NO2)" 10.5159958263158 94
+"2018" "3" "San Diego" "Nitrogen dioxide (NO2)" 8.22066869072165 90
+"2018" "4" "San Diego" "Nitrogen dioxide (NO2)" 5.65681663106796 90
+"2018" "5" "San Diego" "Nitrogen dioxide (NO2)" 4.20562271962617 98
+"2018" "6" "San Diego" "Nitrogen dioxide (NO2)" 4.44693088571429 76
+"2018" "7" "San Diego" "Nitrogen dioxide (NO2)" 4.87758429953917 83
+"2018" "8" "San Diego" "Nitrogen dioxide (NO2)" 5.1420260875576 73
+"2018" "9" "San Diego" "Nitrogen dioxide (NO2)" 5.91131838095238 72
+"2004" "1" "Riverside" "Nitrogen dioxide (NO2)" 23.1518232741935 100
+"2004" "2" "Riverside" "Nitrogen dioxide (NO2)" 16.85517717 100
+"2004" "3" "Riverside" "Nitrogen dioxide (NO2)" 19.4075926206897 88
+"2004" "4" "Riverside" "Nitrogen dioxide (NO2)" 13.3423971666667 78
+"2004" "5" "Riverside" "Nitrogen dioxide (NO2)" 10.806957525 65
+"2004" "6" "Riverside" "Nitrogen dioxide (NO2)" 9.203606 60
+"2004" "7" "Riverside" "Nitrogen dioxide (NO2)" 12.6993755042017 72
+"2004" "8" "Riverside" "Nitrogen dioxide (NO2)" 13.2257372580645 60
+"2004" "9" "Riverside" "Nitrogen dioxide (NO2)" 14.4431816440678 58
+"2004" "10" "Riverside" "Nitrogen dioxide (NO2)" 15.8894721271186 62
+"2004" "11" "Riverside" "Nitrogen dioxide (NO2)" 18.1136788389831 65
+"2004" "12" "Riverside" "Nitrogen dioxide (NO2)" 16.7118909516129 94
+"2005" "1" "Riverside" "Nitrogen dioxide (NO2)" 16.1789110630631 67
+"2005" "2" "Riverside" "Nitrogen dioxide (NO2)" 13.9797768660714 73
+"2005" "3" "Riverside" "Nitrogen dioxide (NO2)" 13.4865133790323 90
+"2005" "4" "Riverside" "Nitrogen dioxide (NO2)" 13.5156647916667 72
+"2005" "5" "Riverside" "Nitrogen dioxide (NO2)" 11.773050733871 90
+"2005" "6" "Riverside" "Nitrogen dioxide (NO2)" 9.98399080833333 60
+"2005" "7" "Riverside" "Nitrogen dioxide (NO2)" 13.6842047016129 67
+"2005" "8" "Riverside" "Nitrogen dioxide (NO2)" 14.9635445483871 74
+"2005" "9" "Riverside" "Nitrogen dioxide (NO2)" 18.259067225 64
+"2005" "10" "Riverside" "Nitrogen dioxide (NO2)" 17.8558092741935 78
+"2005" "11" "Riverside" "Nitrogen dioxide (NO2)" 22.1327868 62
+"2005" "12" "Riverside" "Nitrogen dioxide (NO2)" 23.4853154516129 135
+"2006" "1" "Riverside" "Nitrogen dioxide (NO2)" 18.1480760666667 106
+"2006" "2" "Riverside" "Nitrogen dioxide (NO2)" 20.5345899821429 99
+"2006" "3" "Riverside" "Nitrogen dioxide (NO2)" 12.204431516129 71
+"2006" "4" "Riverside" "Nitrogen dioxide (NO2)" 10.2535084416667 60
+"2006" "5" "Riverside" "Nitrogen dioxide (NO2)" 12.5138012258065 83
+"2006" "6" "Riverside" "Nitrogen dioxide (NO2)" 13.755154825 52
+"2006" "7" "Riverside" "Nitrogen dioxide (NO2)" 11.7763399596774 69
+"2006" "8" "Riverside" "Nitrogen dioxide (NO2)" 12.4576819919355 45
+"2006" "9" "Riverside" "Nitrogen dioxide (NO2)" 15.3166122017544 63
+"2006" "10" "Riverside" "Nitrogen dioxide (NO2)" 14.4874972592593 57
+"2006" "11" "Riverside" "Nitrogen dioxide (NO2)" 23.3511807833333 79
+"2006" "12" "Riverside" "Nitrogen dioxide (NO2)" 19.9527619758065 69
+"2007" "1" "Riverside" "Nitrogen dioxide (NO2)" 16.8367823739837 105
+"2007" "2" "Riverside" "Nitrogen dioxide (NO2)" 17.1912643660714 94
+"2007" "3" "Riverside" "Nitrogen dioxide (NO2)" 17.4962360483871 103
+"2007" "4" "Riverside" "Nitrogen dioxide (NO2)" 13.239899225 86
+"2007" "5" "Riverside" "Nitrogen dioxide (NO2)" 11.5135170645161 92
+"2007" "6" "Riverside" "Nitrogen dioxide (NO2)" 12.5077289416667 62
+"2007" "7" "Riverside" "Nitrogen dioxide (NO2)" 11.6773588548387 68
+"2007" "8" "Riverside" "Nitrogen dioxide (NO2)" 13.3868050322581 63
+"2007" "9" "Riverside" "Nitrogen dioxide (NO2)" 11.6152933142857 54
+"2007" "10" "Riverside" "Nitrogen dioxide (NO2)" 17.3192243064516 62
+"2007" "11" "Riverside" "Nitrogen dioxide (NO2)" 22.7347718916667 79
+"2007" "12" "Riverside" "Nitrogen dioxide (NO2)" 16.3780831854839 86
+"2008" "1" "Riverside" "Nitrogen dioxide (NO2)" 16.3208568870968 88
+"2008" "2" "Riverside" "Nitrogen dioxide (NO2)" 17.7372367356322 118
+"2008" "3" "Riverside" "Nitrogen dioxide (NO2)" 16.7359386182796 108
+"2008" "4" "Riverside" "Nitrogen dioxide (NO2)" 13.2503000722222 87
+"2008" "5" "Riverside" "Nitrogen dioxide (NO2)" 10.4970201612903 75
+"2008" "6" "Riverside" "Nitrogen dioxide (NO2)" 14.0573907388889 62
+"2008" "7" "Riverside" "Nitrogen dioxide (NO2)" 11.2212952176166 59
+"2008" "8" "Riverside" "Nitrogen dioxide (NO2)" 10.7612444700461 57
+"2008" "9" "Riverside" "Nitrogen dioxide (NO2)" 14.0160824516129 56
+"2008" "10" "Riverside" "Nitrogen dioxide (NO2)" 18.7637758937198 63
+"2008" "11" "Riverside" "Nitrogen dioxide (NO2)" 18.0279160460251 70
+"2008" "12" "Riverside" "Nitrogen dioxide (NO2)" 18.1967316008065 71
+"2009" "1" "Riverside" "Nitrogen dioxide (NO2)" 15.1985423836735 82
+"2009" "2" "Riverside" "Nitrogen dioxide (NO2)" 15.9098573590909 75
+"2009" "3" "Riverside" "Nitrogen dioxide (NO2)" 14.8163445 85
+"2009" "4" "Riverside" "Nitrogen dioxide (NO2)" 11.5294050253165 81
+"2009" "5" "Riverside" "Nitrogen dioxide (NO2)" 10.7530882333333 80
+"2009" "6" "Riverside" "Nitrogen dioxide (NO2)" 8.28903690434783 66
+"2009" "7" "Riverside" "Nitrogen dioxide (NO2)" 9.46193667204301 52
+"2009" "8" "Riverside" "Nitrogen dioxide (NO2)" 12.9402571735537 52
+"2009" "9" "Riverside" "Nitrogen dioxide (NO2)" 13.7247495188285 58
+"2009" "10" "Riverside" "Nitrogen dioxide (NO2)" 14.0038329433198 81
+"2009" "11" "Riverside" "Nitrogen dioxide (NO2)" 18.8861543733906 59
+"2009" "12" "Riverside" "Nitrogen dioxide (NO2)" 18.2164107181818 81
+"2010" "1" "Riverside" "Nitrogen dioxide (NO2)" 18.9952081681818 88
+"2010" "2" "Riverside" "Nitrogen dioxide (NO2)" 14.7650381448598 87
+"2010" "3" "Riverside" "Nitrogen dioxide (NO2)" 12.6167643606557 89
+"2010" "4" "Riverside" "Nitrogen dioxide (NO2)" 8.92495904901961 83
+"2010" "5" "Riverside" "Nitrogen dioxide (NO2)" 7.85025630845771 79
+"2010" "6" "Riverside" "Nitrogen dioxide (NO2)" 8.01860368487395 64
+"2010" "7" "Riverside" "Nitrogen dioxide (NO2)" 8.70068052419355 65
+"2010" "8" "Riverside" "Nitrogen dioxide (NO2)" 11.28759732 64
+"2010" "9" "Riverside" "Nitrogen dioxide (NO2)" 15.2258346593886 64
+"2010" "10" "Riverside" "Nitrogen dioxide (NO2)" 11.4370271222707 56
+"2010" "11" "Riverside" "Nitrogen dioxide (NO2)" 13.8917972532751 68
+"2010" "12" "Riverside" "Nitrogen dioxide (NO2)" 17.0898963364486 91
+"2011" "1" "Riverside" "Nitrogen dioxide (NO2)" 16.6869314722222 84
+"2011" "2" "Riverside" "Nitrogen dioxide (NO2)" 13.446856175 106
+"2011" "3" "Riverside" "Nitrogen dioxide (NO2)" 14.1865462216216 107
+"2011" "4" "Riverside" "Nitrogen dioxide (NO2)" 10.330551974359 77
+"2011" "5" "Riverside" "Nitrogen dioxide (NO2)" 8.77966106451613 75
+"2011" "6" "Riverside" "Nitrogen dioxide (NO2)" 7.81739604761905 83
+"2011" "7" "Riverside" "Nitrogen dioxide (NO2)" 8.43659835714286 71
+"2011" "8" "Riverside" "Nitrogen dioxide (NO2)" 9.65299420125786 79
+"2011" "9" "Riverside" "Nitrogen dioxide (NO2)" 11.3599881871921 80
+"2011" "10" "Riverside" "Nitrogen dioxide (NO2)" 15.0038478431373 67
+"2011" "11" "Riverside" "Nitrogen dioxide (NO2)" 13.7639734174757 70
+"2011" "12" "Riverside" "Nitrogen dioxide (NO2)" 16.1945486448598 81
+"2012" "1" "Riverside" "Nitrogen dioxide (NO2)" 16.1177255911602 103
+"2012" "2" "Riverside" "Nitrogen dioxide (NO2)" 11.171757591954 92
+"2012" "3" "Riverside" "Nitrogen dioxide (NO2)" 9.93204022702703 87
+"2012" "4" "Riverside" "Nitrogen dioxide (NO2)" 9.24986273298429 81
+"2012" "5" "Riverside" "Nitrogen dioxide (NO2)" 7.39569137560976 96
+"2012" "6" "Riverside" "Nitrogen dioxide (NO2)" 7.52987463809524 65
+"2012" "7" "Riverside" "Nitrogen dioxide (NO2)" 8.7119687202381 67
+"2012" "8" "Riverside" "Nitrogen dioxide (NO2)" 9.19960840394089 63
+"2012" "9" "Riverside" "Nitrogen dioxide (NO2)" 11.1088222307692 72
+"2012" "10" "Riverside" "Nitrogen dioxide (NO2)" 12.6401716165803 61
+"2012" "11" "Riverside" "Nitrogen dioxide (NO2)" 15.3928433961353 77
+"2012" "12" "Riverside" "Nitrogen dioxide (NO2)" 13.2297751176471 82
+"2013" "1" "Riverside" "Nitrogen dioxide (NO2)" 13.4527385625 110
+"2013" "2" "Riverside" "Nitrogen dioxide (NO2)" 11.8325667797619 107
+"2013" "3" "Riverside" "Nitrogen dioxide (NO2)" 10.1897534367816 88
+"2013" "4" "Riverside" "Nitrogen dioxide (NO2)" 7.40807407142857 87
+"2013" "5" "Riverside" "Nitrogen dioxide (NO2)" 6.82939253048781 67
+"2013" "6" "Riverside" "Nitrogen dioxide (NO2)" 7.31043702380952 68
+"2013" "7" "Riverside" "Nitrogen dioxide (NO2)" 8.42303185514019 79
+"2013" "8" "Riverside" "Nitrogen dioxide (NO2)" 9.01764216826923 88
+"2013" "9" "Riverside" "Nitrogen dioxide (NO2)" 10.0214881701031 70
+"2013" "10" "Riverside" "Nitrogen dioxide (NO2)" 13.4863159128205 79
+"2013" "11" "Riverside" "Nitrogen dioxide (NO2)" 13.3804786941748 71
+"2013" "12" "Riverside" "Nitrogen dioxide (NO2)" 14.9717001981567 84
+"2014" "1" "Riverside" "Nitrogen dioxide (NO2)" 17.3456269579439 120
+"2014" "2" "Riverside" "Nitrogen dioxide (NO2)" 13.3171533406593 95
+"2014" "3" "Riverside" "Nitrogen dioxide (NO2)" 9.21232552631579 97
+"2014" "4" "Riverside" "Nitrogen dioxide (NO2)" 8.25867525961539 75
+"2014" "5" "Riverside" "Nitrogen dioxide (NO2)" 7.12612666666667 76
+"2014" "6" "Riverside" "Nitrogen dioxide (NO2)" 6.12959472857143 63
+"2014" "7" "Riverside" "Nitrogen dioxide (NO2)" 6.80702849275362 65
+"2014" "8" "Riverside" "Nitrogen dioxide (NO2)" 8.11726962745098 53
+"2014" "9" "Riverside" "Nitrogen dioxide (NO2)" 9.29250479310345 74
+"2014" "10" "Riverside" "Nitrogen dioxide (NO2)" 13.3314164351852 73
+"2014" "11" "Riverside" "Nitrogen dioxide (NO2)" 13.0915104761905 72
+"2014" "12" "Riverside" "Nitrogen dioxide (NO2)" 14.0878150322581 91
+"2015" "1" "Riverside" "Nitrogen dioxide (NO2)" 13.0761913796296 122
+"2015" "2" "Riverside" "Nitrogen dioxide (NO2)" 11.6306921785714 101
+"2015" "3" "Riverside" "Nitrogen dioxide (NO2)" 10.1784948306878 98
+"2015" "4" "Riverside" "Nitrogen dioxide (NO2)" 7.16210245555556 107
+"2015" "5" "Riverside" "Nitrogen dioxide (NO2)" 4.59231750282486 87
+"2015" "6" "Riverside" "Nitrogen dioxide (NO2)" 6.48859799401198 89
+"2015" "7" "Riverside" "Nitrogen dioxide (NO2)" 5.2245584040404 76
+"2015" "8" "Riverside" "Nitrogen dioxide (NO2)" 6.24492743778802 67
+"2015" "9" "Riverside" "Nitrogen dioxide (NO2)" 7.44163548571429 58
+"2015" "10" "Riverside" "Nitrogen dioxide (NO2)" 8.55643822065728 75
+"2015" "11" "Riverside" "Nitrogen dioxide (NO2)" 10.1070989380952 79
+"2015" "12" "Riverside" "Nitrogen dioxide (NO2)" 12.1636668341014 83
+"2016" "1" "Riverside" "Nitrogen dioxide (NO2)" 12.1324722914573 107
+"2016" "2" "Riverside" "Nitrogen dioxide (NO2)" 11.4537143762376 84
+"2016" "3" "Riverside" "Nitrogen dioxide (NO2)" 8.14522854166667 130
+"2016" "4" "Riverside" "Nitrogen dioxide (NO2)" 6.87028846666667 96
+"2016" "5" "Riverside" "Nitrogen dioxide (NO2)" 4.37316540758294 90
+"2016" "6" "Riverside" "Nitrogen dioxide (NO2)" 5.63214493333333 50
+"2016" "7" "Riverside" "Nitrogen dioxide (NO2)" 5.16978658525346 70
+"2016" "8" "Riverside" "Nitrogen dioxide (NO2)" 6.40173795852535 67
+"2016" "9" "Riverside" "Nitrogen dioxide (NO2)" 8.067835825 57
+"2016" "10" "Riverside" "Nitrogen dioxide (NO2)" 10.1755527696078 87
+"2016" "11" "Riverside" "Nitrogen dioxide (NO2)" 12.1153086294416 86
+"2016" "12" "Riverside" "Nitrogen dioxide (NO2)" 10.7312485920398 81
+"2017" "1" "Riverside" "Nitrogen dioxide (NO2)" 8.08105493548387 104
+"2017" "2" "Riverside" "Nitrogen dioxide (NO2)" 8.55068916326531 98
+"2017" "3" "Riverside" "Nitrogen dioxide (NO2)" 8.64321874193548 97
+"2017" "4" "Riverside" "Nitrogen dioxide (NO2)" 6.88208494285714 82
+"2017" "5" "Riverside" "Nitrogen dioxide (NO2)" 6.05179493264249 83
+"2017" "6" "Riverside" "Nitrogen dioxide (NO2)" 6.53883203398058 88
+"2017" "7" "Riverside" "Nitrogen dioxide (NO2)" 5.73958755299539 76
+"2017" "8" "Riverside" "Nitrogen dioxide (NO2)" 6.78757808294931 60
+"2017" "9" "Riverside" "Nitrogen dioxide (NO2)" 7.16797834285714 76
+"2017" "10" "Riverside" "Nitrogen dioxide (NO2)" 9.14417223963134 63
+"2017" "11" "Riverside" "Nitrogen dioxide (NO2)" 12.4897874782609 68
+"2017" "12" "Riverside" "Nitrogen dioxide (NO2)" 13.1300765118483 89
+"2018" "1" "Riverside" "Nitrogen dioxide (NO2)" 13.0921187934272 159
+"2018" "2" "Riverside" "Nitrogen dioxide (NO2)" 10.7976909222798 105
+"2018" "3" "Riverside" "Nitrogen dioxide (NO2)" 8.21914771428571 110
+"2018" "4" "Riverside" "Nitrogen dioxide (NO2)" 6.71533898492462 99
+"2018" "5" "Riverside" "Nitrogen dioxide (NO2)" 4.92550300465116 89
+"2018" "6" "Riverside" "Nitrogen dioxide (NO2)" 5.42347708095238 77
+"2018" "7" "Riverside" "Nitrogen dioxide (NO2)" 5.94766008780488 89
+"2018" "8" "Riverside" "Nitrogen dioxide (NO2)" 6.69371176536313 73
+"2018" "9" "Riverside" "Nitrogen dioxide (NO2)" 7.76940010731707 69
+"2018" "10" "Riverside" "Nitrogen dioxide (NO2)" 9.18765862962963 87
+"2018" "11" "Riverside" "Nitrogen dioxide (NO2)" 11.6916342288557 89
+"2018" "12" "Riverside" "Nitrogen dioxide (NO2)" 12.865052147619 100
+"2004" "1" "Orange" "Nitrogen dioxide (NO2)" 32.0629648387097 110
+"2004" "2" "Orange" "Nitrogen dioxide (NO2)" 26.1023726091954 70
+"2004" "3" "Orange" "Nitrogen dioxide (NO2)" 22.8203068625 91
+"2004" "4" "Orange" "Nitrogen dioxide (NO2)" 16.2398857325581 78
+"2004" "5" "Orange" "Nitrogen dioxide (NO2)" 12.9984256853933 72
+"2004" "6" "Orange" "Nitrogen dioxide (NO2)" 10.288410816092 57
+"2004" "7" "Orange" "Nitrogen dioxide (NO2)" 12.7196580215054 55
+"2004" "8" "Orange" "Nitrogen dioxide (NO2)" 13.0330922840909 60
+"2004" "9" "Orange" "Nitrogen dioxide (NO2)" 18.9313125131579 70
+"2004" "10" "Orange" "Nitrogen dioxide (NO2)" 21.5992490215054 50
+"2004" "11" "Orange" "Nitrogen dioxide (NO2)" 27.2269175111111 73
+"2004" "12" "Orange" "Nitrogen dioxide (NO2)" 27.6075211827957 80
+"2005" "1" "Orange" "Nitrogen dioxide (NO2)" 26.1199749012346 112
+"2005" "2" "Orange" "Nitrogen dioxide (NO2)" 19.3373882682927 88
+"2005" "3" "Orange" "Nitrogen dioxide (NO2)" 17.7190542258065 79
+"2005" "4" "Orange" "Nitrogen dioxide (NO2)" 17.5339413555556 79
+"2005" "5" "Orange" "Nitrogen dioxide (NO2)" 12.2397039569892 73
+"2005" "6" "Orange" "Nitrogen dioxide (NO2)" 11.5775527111111 71
+"2005" "7" "Orange" "Nitrogen dioxide (NO2)" 12.8900293548387 59
+"2005" "8" "Orange" "Nitrogen dioxide (NO2)" 13.781586311828 62
+"2005" "9" "Orange" "Nitrogen dioxide (NO2)" 20.5686951111111 68
+"2005" "10" "Orange" "Nitrogen dioxide (NO2)" 23.1207183010753 56
+"2005" "11" "Orange" "Nitrogen dioxide (NO2)" 30.6395837222222 67
+"2005" "12" "Orange" "Nitrogen dioxide (NO2)" 29.7418241827957 93
+"2006" "1" "Orange" "Nitrogen dioxide (NO2)" 24.7958894193548 114
+"2006" "2" "Orange" "Nitrogen dioxide (NO2)" 30.869571202381 72
+"2006" "3" "Orange" "Nitrogen dioxide (NO2)" 17.1520038709677 89
+"2006" "4" "Orange" "Nitrogen dioxide (NO2)" 13.3526199534884 84
+"2006" "5" "Orange" "Nitrogen dioxide (NO2)" 10.514052311828 71
+"2006" "6" "Orange" "Nitrogen dioxide (NO2)" 12.2017567444444 57
+"2006" "7" "Orange" "Nitrogen dioxide (NO2)" 11.5981135978261 66
+"2006" "8" "Orange" "Nitrogen dioxide (NO2)" 12.1563533098592 73
+"2006" "9" "Orange" "Nitrogen dioxide (NO2)" 17.2368217294118 58
+"2006" "10" "Orange" "Nitrogen dioxide (NO2)" 20.4196664946237 70
+"2006" "11" "Orange" "Nitrogen dioxide (NO2)" 27.2333333333333 64
+"2006" "12" "Orange" "Nitrogen dioxide (NO2)" 27.71635 74
+"2007" "1" "Orange" "Nitrogen dioxide (NO2)" 25.0380751505376 93
+"2007" "2" "Orange" "Nitrogen dioxide (NO2)" 22.3502177380952 95
+"2007" "3" "Orange" "Nitrogen dioxide (NO2)" 21.809881311828 81
+"2007" "4" "Orange" "Nitrogen dioxide (NO2)" 14.2876045111111 76
+"2007" "5" "Orange" "Nitrogen dioxide (NO2)" 11.4681341290323 86
+"2007" "6" "Orange" "Nitrogen dioxide (NO2)" 9.50243733333333 70
+"2007" "7" "Orange" "Nitrogen dioxide (NO2)" 9.51768989247312 63
+"2007" "8" "Orange" "Nitrogen dioxide (NO2)" 13.7811204301075 59
+"2007" "9" "Orange" "Nitrogen dioxide (NO2)" 15.2321982444444 59
+"2007" "10" "Orange" "Nitrogen dioxide (NO2)" 22.519919 73
+"2007" "11" "Orange" "Nitrogen dioxide (NO2)" 26.9942227555556 79
+"2007" "12" "Orange" "Nitrogen dioxide (NO2)" 24.3485118924731 73
+"2008" "1" "Orange" "Nitrogen dioxide (NO2)" 21.8293960652174 105
+"2008" "2" "Orange" "Nitrogen dioxide (NO2)" 23.1140106666667 143
+"2008" "3" "Orange" "Nitrogen dioxide (NO2)" 19.7149449892473 115
+"2008" "4" "Orange" "Nitrogen dioxide (NO2)" 15.9222953777778 87
+"2008" "5" "Orange" "Nitrogen dioxide (NO2)" 10.8271236931818 79
+"2008" "6" "Orange" "Nitrogen dioxide (NO2)" 10.5530390555556 77
+"2008" "7" "Orange" "Nitrogen dioxide (NO2)" 9.4290472688172 67
+"2008" "8" "Orange" "Nitrogen dioxide (NO2)" 10.1401887526882 59
+"2008" "9" "Orange" "Nitrogen dioxide (NO2)" 15.6401383 57
+"2008" "10" "Orange" "Nitrogen dioxide (NO2)" 25.3556677311828 69
+"2008" "11" "Orange" "Nitrogen dioxide (NO2)" 27.8635587888889 78
+"2008" "12" "Orange" "Nitrogen dioxide (NO2)" 25.4976701397849 65
+"2009" "1" "Orange" "Nitrogen dioxide (NO2)" 27.5213064623656 92
+"2009" "2" "Orange" "Nitrogen dioxide (NO2)" 21.9803783095238 74
+"2009" "3" "Orange" "Nitrogen dioxide (NO2)" 16.8516613763441 96
+"2009" "4" "Orange" "Nitrogen dioxide (NO2)" 13.0112874777778 79
+"2009" "5" "Orange" "Nitrogen dioxide (NO2)" 8.91455607526882 76
+"2009" "6" "Orange" "Nitrogen dioxide (NO2)" 8.21477951111111 67
+"2009" "7" "Orange" "Nitrogen dioxide (NO2)" 9.83653641935484 69
+"2009" "8" "Orange" "Nitrogen dioxide (NO2)" 13.1576565483871 71
+"2009" "9" "Orange" "Nitrogen dioxide (NO2)" 14.5447501222222 53
+"2009" "10" "Orange" "Nitrogen dioxide (NO2)" 18.6490807849462 73
+"2009" "11" "Orange" "Nitrogen dioxide (NO2)" 26.2133754888889 67
+"2009" "12" "Orange" "Nitrogen dioxide (NO2)" 26.1992570967742 88
+"2010" "1" "Orange" "Nitrogen dioxide (NO2)" 27.9992628494624 98
+"2010" "2" "Orange" "Nitrogen dioxide (NO2)" 20.7820493928571 91
+"2010" "3" "Orange" "Nitrogen dioxide (NO2)" 17.2721782173913 96
+"2010" "4" "Orange" "Nitrogen dioxide (NO2)" 11.055035253012 87
+"2010" "5" "Orange" "Nitrogen dioxide (NO2)" 6.87955873134328 74
+"2010" "6" "Orange" "Nitrogen dioxide (NO2)" 6.38989061797753 82
+"2010" "7" "Orange" "Nitrogen dioxide (NO2)" 5.90833120967742 84
+"2010" "8" "Orange" "Nitrogen dioxide (NO2)" 8.79267761290323 74
+"2010" "9" "Orange" "Nitrogen dioxide (NO2)" 13.8144491333333 61
+"2010" "10" "Orange" "Nitrogen dioxide (NO2)" 13.1185667391304 71
+"2010" "11" "Orange" "Nitrogen dioxide (NO2)" 23.4224294444444 67
+"2010" "12" "Orange" "Nitrogen dioxide (NO2)" 22.999694 82
+"2011" "1" "Orange" "Nitrogen dioxide (NO2)" 27.1474575483871 89
+"2011" "2" "Orange" "Nitrogen dioxide (NO2)" 19.3201424047619 101
+"2011" "3" "Orange" "Nitrogen dioxide (NO2)" 16.5757037096774 108
+"2011" "4" "Orange" "Nitrogen dioxide (NO2)" 9.47784724444444 92
+"2011" "5" "Orange" "Nitrogen dioxide (NO2)" 7.33579296774194 73
+"2011" "6" "Orange" "Nitrogen dioxide (NO2)" 5.85143794444444 67
+"2011" "7" "Orange" "Nitrogen dioxide (NO2)" 7.41654743661972 64
+"2011" "8" "Orange" "Nitrogen dioxide (NO2)" 8.99184529508197 78
+"2011" "9" "Orange" "Nitrogen dioxide (NO2)" 14.0226042638889 65
+"2011" "10" "Orange" "Nitrogen dioxide (NO2)" 20.69004006 88
+"2011" "11" "Orange" "Nitrogen dioxide (NO2)" 22.0814637333333 75
+"2011" "12" "Orange" "Nitrogen dioxide (NO2)" 23.9007231428571 96
+"2012" "1" "Orange" "Nitrogen dioxide (NO2)" 25.7848631397849 89
+"2012" "2" "Orange" "Nitrogen dioxide (NO2)" 17.8653976551724 88
+"2012" "3" "Orange" "Nitrogen dioxide (NO2)" 13.2639039101124 83
+"2012" "4" "Orange" "Nitrogen dioxide (NO2)" 10.4345978111111 87
+"2012" "5" "Orange" "Nitrogen dioxide (NO2)" 5.45196441558442 85
+"2012" "6" "Orange" "Nitrogen dioxide (NO2)" 6.56512584210526 54
+"2012" "7" "Orange" "Nitrogen dioxide (NO2)" 9.10420082666667 64
+"2012" "8" "Orange" "Nitrogen dioxide (NO2)" 9.37728539784946 70
+"2012" "9" "Orange" "Nitrogen dioxide (NO2)" 13.2567373444444 66
+"2012" "10" "Orange" "Nitrogen dioxide (NO2)" 16.8914908494624 75
+"2012" "11" "Orange" "Nitrogen dioxide (NO2)" 19.7922308888889 85
+"2012" "12" "Orange" "Nitrogen dioxide (NO2)" 19.8379602150538 88
+"2013" "1" "Orange" "Nitrogen dioxide (NO2)" 24.799210421875 110
+"2013" "2" "Orange" "Nitrogen dioxide (NO2)" 20.1768232857143 120
+"2013" "3" "Orange" "Nitrogen dioxide (NO2)" 12.3505491868132 97
+"2013" "4" "Orange" "Nitrogen dioxide (NO2)" 6.06107288372093 93
+"2013" "5" "Orange" "Nitrogen dioxide (NO2)" 7.00308530952381 72
+"2013" "6" "Orange" "Nitrogen dioxide (NO2)" 6.50905327906977 73
+"2013" "7" "Orange" "Nitrogen dioxide (NO2)" 7.46831974193548 74
+"2013" "8" "Orange" "Nitrogen dioxide (NO2)" 7.483197828125 64
+"2013" "9" "Orange" "Nitrogen dioxide (NO2)" 12.3730339411765 86
+"2013" "10" "Orange" "Nitrogen dioxide (NO2)" 16.3967956344086 78
+"2013" "11" "Orange" "Nitrogen dioxide (NO2)" 22.4692103506494 68
+"2013" "12" "Orange" "Nitrogen dioxide (NO2)" 27.676723974359 88
+"2014" "1" "Orange" "Nitrogen dioxide (NO2)" 30.7843591885246 104
+"2014" "2" "Orange" "Nitrogen dioxide (NO2)" 20.9545808839286 97
+"2014" "3" "Orange" "Nitrogen dioxide (NO2)" 16.5505893298969 83
+"2014" "4" "Orange" "Nitrogen dioxide (NO2)" 15.0411326416667 84
+"2014" "5" "Orange" "Nitrogen dioxide (NO2)" 12.6710662016129 62
+"2014" "6" "Orange" "Nitrogen dioxide (NO2)" 9.899140125 77
+"2014" "7" "Orange" "Nitrogen dioxide (NO2)" 10.1236703934426 85
+"2014" "8" "Orange" "Nitrogen dioxide (NO2)" 11.1283006612903 55
+"2014" "9" "Orange" "Nitrogen dioxide (NO2)" 14.2694299083333 59
+"2014" "10" "Orange" "Nitrogen dioxide (NO2)" 20.2589620967742 52
+"2014" "11" "Orange" "Nitrogen dioxide (NO2)" 22.9548478275862 72
+"2014" "12" "Orange" "Nitrogen dioxide (NO2)" 21.0851240887097 90
+"2015" "1" "Orange" "Nitrogen dioxide (NO2)" 26.1773736513761 107
+"2015" "2" "Orange" "Nitrogen dioxide (NO2)" 21.2779262972973 99
+"2015" "3" "Orange" "Nitrogen dioxide (NO2)" 18.5925542096774 84
+"2015" "4" "Orange" "Nitrogen dioxide (NO2)" 14.0644484583333 96
+"2015" "5" "Orange" "Nitrogen dioxide (NO2)" 10.2836241083333 73
+"2015" "6" "Orange" "Nitrogen dioxide (NO2)" 10.7982865221239 86
+"2015" "7" "Orange" "Nitrogen dioxide (NO2)" 9.06746568852459 76
+"2015" "8" "Orange" "Nitrogen dioxide (NO2)" 10.2285706097561 72
+"2015" "9" "Orange" "Nitrogen dioxide (NO2)" 13.7947508 57
+"2015" "10" "Orange" "Nitrogen dioxide (NO2)" 17.6989740526316 72
+"2015" "11" "Orange" "Nitrogen dioxide (NO2)" 24.0856597833333 69
+"2015" "12" "Orange" "Nitrogen dioxide (NO2)" 24.9472202822581 107
+"2016" "1" "Orange" "Nitrogen dioxide (NO2)" 22.9065156166667 101
+"2016" "2" "Orange" "Nitrogen dioxide (NO2)" 24.5479586637931 104
+"2016" "3" "Orange" "Nitrogen dioxide (NO2)" 14.7641468373984 99
+"2016" "4" "Orange" "Nitrogen dioxide (NO2)" 12.9613413853211 82
+"2016" "5" "Orange" "Nitrogen dioxide (NO2)" 8.55536131092437 72
+"2016" "6" "Orange" "Nitrogen dioxide (NO2)" 9.75657059166667 64
+"2016" "7" "Orange" "Nitrogen dioxide (NO2)" 9.59795379816514 82
+"2016" "8" "Orange" "Nitrogen dioxide (NO2)" 10.1433903467742 67
+"2016" "9" "Orange" "Nitrogen dioxide (NO2)" 13.6631075178571 62
+"2016" "10" "Orange" "Nitrogen dioxide (NO2)" 17.6933190967742 62
+"2016" "11" "Orange" "Nitrogen dioxide (NO2)" 24.0910713666667 73
+"2016" "12" "Orange" "Nitrogen dioxide (NO2)" 19.8396139756098 84
+"2017" "1" "Orange" "Nitrogen dioxide (NO2)" 17.4104999677419 122
+"2017" "2" "Orange" "Nitrogen dioxide (NO2)" 15.3468256964286 115
+"2017" "3" "Orange" "Nitrogen dioxide (NO2)" 17.5925863548387 124
+"2017" "4" "Orange" "Nitrogen dioxide (NO2)" 11.5844109 95
+"2017" "5" "Orange" "Nitrogen dioxide (NO2)" 9.72112681451613 83
+"2017" "6" "Orange" "Nitrogen dioxide (NO2)" 9.72123079166667 80
+"2017" "7" "Orange" "Nitrogen dioxide (NO2)" 10.2533562365591 73
+"2017" "8" "Orange" "Nitrogen dioxide (NO2)" 11.6388514623656 70
+"2017" "9" "Orange" "Nitrogen dioxide (NO2)" 14.7232253666667 70
+"2017" "10" "Orange" "Nitrogen dioxide (NO2)" 20.9533020967742 64
+"2017" "11" "Orange" "Nitrogen dioxide (NO2)" 25.6768704222222 65
+"2017" "12" "Orange" "Nitrogen dioxide (NO2)" 30.8254585061728 90
+"2018" "1" "Orange" "Nitrogen dioxide (NO2)" 25.3624910107527 141
+"2018" "2" "Orange" "Nitrogen dioxide (NO2)" 22.3280243452381 100
+"2018" "3" "Orange" "Nitrogen dioxide (NO2)" 16.2680805517241 106
+"2018" "4" "Orange" "Nitrogen dioxide (NO2)" 12.6160741012658 97
+"2018" "5" "Orange" "Nitrogen dioxide (NO2)" 9.42000693548387 77
+"2018" "6" "Orange" "Nitrogen dioxide (NO2)" 8.73040104444445 66
+"2018" "7" "Orange" "Nitrogen dioxide (NO2)" 8.95918658064516 57
+"2018" "8" "Orange" "Nitrogen dioxide (NO2)" 10.2722785268817 80
+"2018" "9" "Orange" "Nitrogen dioxide (NO2)" 12.6957913111111 60
+"2018" "10" "Orange" "Nitrogen dioxide (NO2)" 17.2868009032258 68
+"2018" "11" "Orange" "Nitrogen dioxide (NO2)" 21.8912190333333 66
+"2018" "12" "Orange" "Nitrogen dioxide (NO2)" 23.5260612365591 81
+"2004" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 24.707546811828 129
+"2004" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 20.3269615057471 77
+"2004" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 23.9038667311828 84
+"2004" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 18.9653270611111 80
+"2004" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 17.4600154032258 67
+"2004" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 19.3996159704142 59
+"2004" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 24.4075310282486 52
+"2004" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 23.5479647236842 61
+"2004" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 23.8562311987952 52
+"2004" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 23.4938099946237 53
+"2004" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 21.3757747111111 71
+"2004" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 21.6047321612903 74
+"2005" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 20.3872124277778 83
+"2005" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 18.7287503818182 86
+"2005" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 20.2507214139785 75
+"2005" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 20.5198317055556 61
+"2005" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 19.5569608763441 85
+"2005" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 20.5790988448276 60
+"2005" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 24.954596576087 55
+"2005" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 27.165456964497 56
+"2005" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 25.654557122093 52
+"2005" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 23.5518353369565 59
+"2005" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 24.4451241166667 64
+"2005" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 24.9173207580645 114
+"2006" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 20.71374175 84
+"2006" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 24.9117458452381 88
+"2006" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 18.0007223567568 80
+"2006" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 16.5945514055556 68
+"2006" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 19.9486176810811 78
+"2006" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 21.9545143257143 55
+"2006" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 19.3442280125 78
+"2006" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 22.9733517135135 75
+"2006" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 24.21908215 48
+"2006" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 21.9121742977528 73
+"2006" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 25.8737266944444 65
+"2006" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 22.0767826277778 68
+"2007" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 20.3720527459459 71
+"2007" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 21.6082034355828 82
+"2007" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 21.5568058225806 78
+"2007" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 17.3362514222222 64
+"2007" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 17.7440490217391 66
+"2007" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 18.628854505618 58
+"2007" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 18.977909125 57
+"2007" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 18.1270658066667 61
+"2007" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 17.9228760670391 57
+"2007" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 19.1997746404494 51
+"2007" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 24.0453636022727 54
+"2007" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 17.8592864742857 65
+"2008" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 17.1535544673913 104
+"2008" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 17.615893494186 100
+"2008" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 16.3166618924731 114
+"2008" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 15.0238606171429 62
+"2008" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 15.0979946483516 64
+"2008" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 16.6042542555556 55
+"2008" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 18.9461899462366 79
+"2008" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 16.8588135189189 54
+"2008" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 17.4126003555556 60
+"2008" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 19.0399825322581 52
+"2008" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 20.2421754833333 67
+"2008" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 19.7678055107527 72
+"2009" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 18.3667154247312 74
+"2009" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 16.811603672619 83
+"2009" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 16.5376482365591 78
+"2009" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 14.0340479055556 61
+"2009" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 14.6938622826087 70
+"2009" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 13.533614396648 64
+"2009" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 16.0263993763441 61
+"2009" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 17.3798224086022 76
+"2009" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 19.1433314111111 60
+"2009" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 16.3625102717391 69
+"2009" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 21.4763490111111 77
+"2009" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 19.7245444782609 68
+"2010" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 19.6201620437158 79
+"2010" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 17.3008154025974 68
+"2010" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 14.909832496732 84
+"2010" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 12.081078244186 85
+"2010" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 11.9964308486486 85
+"2010" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 13.9328986 51
+"2010" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 14.9647653173653 74
+"2010" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 17.575433983871 68
+"2010" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 20.9507012111111 63
+"2010" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 16.036532556213 57
+"2010" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 17.632190252809 66
+"2010" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 19.135409811828 63
+"2011" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 18.879098827957 69
+"2011" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 14.9342544166667 112
+"2011" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 17.1154519448276 91
+"2011" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 13.1356678466667 66
+"2011" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 13.3783294451613 68
+"2011" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 14.7722810588235 77
+"2011" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 16.1061592026144 76
+"2011" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 16.1928979263804 59
+"2011" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 19.8477536060606 42
+"2011" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 19.2626235321637 59
+"2011" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 17.4226424044944 63
+"2011" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 22.8092821397059 72
+"2012" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 21.2677007888199 84
+"2012" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 16.2820955714286 77
+"2012" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 16.2210718275862 91
+"2012" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 14.8007377430556 92
+"2012" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 14.3346743377483 59
+"2012" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 14.7331581985816 78
+"2012" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 15.6310595697674 78
+"2012" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 16.9169710294118 73
+"2012" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 18.5752024350282 89
+"2012" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 17.4776144293478 72
+"2012" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 20.7295271538462 62
+"2012" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 16.6764158820225 72
+"2013" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 16.8291156330935 87
+"2013" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 15.9626745178571 90
+"2013" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 14.7129167073171 95
+"2013" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 10.6295249833333 67
+"2013" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 10.3134039569892 74
+"2013" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 13.3021876888889 56
+"2013" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 14.629374920904 70
+"2013" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 15.1129688993711 71
+"2013" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 14.8116425253165 68
+"2013" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 18.2419503539326 73
+"2013" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 18.0323871436782 77
+"2013" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 20.0735619569892 91
+"2014" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 22.7453605274725 90
+"2014" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 16.5100425628743 71
+"2014" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 12.7814948494624 83
+"2014" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 11.9308632752809 80
+"2014" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 9.51551720555556 81
+"2014" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 10.8936051754386 55
+"2014" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 12.5999109569892 75
+"2014" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 12.1888667634409 76
+"2014" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 14.165013877193 75
+"2014" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 18.4158444623656 70
+"2014" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 16.6618252241379 54
+"2014" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 14.9748993233533 66
+"2015" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 20.1482446018519 99
+"2015" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 19.3986982704082 99
+"2015" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 16.691486359447 105
+"2015" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 13.5257491617647 91
+"2015" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 11.9388910900474 67
+"2015" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 14.6538008405797 77
+"2015" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 11.4669755571429 65
+"2015" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 16.4702453801653 69
+"2015" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 17.1824397446809 75
+"2015" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 18.6811601652893 76
+"2015" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 19.6858144285714 61
+"2015" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 20.777613 70
+"2016" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 20.0386164308943 93
+"2016" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 21.8591578528139 102
+"2016" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 17.4520878663968 98
+"2016" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 14.0338564788136 73
+"2016" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 11.8399896491935 57
+"2016" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 15.1612515550847 79
+"2016" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 15.2592889596774 71
+"2016" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 17.1104944403292 73
+"2016" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 18.5852813122363 77
+"2016" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 19.1379802892562 73
+"2016" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 21.358925628821 59
+"2016" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 18.0423194717742 87
+"2017" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 15.7901719702128 113
+"2017" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 16.1149888248848 87
+"2017" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 17.9973372672065 94
+"2017" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 15.2061171041667 75
+"2017" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 14.3758317419355 97
+"2017" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 16.7776018547009 75
+"2017" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 16.3265025105485 69
+"2017" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 17.6952259471545 82
+"2017" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 16.6837048595745 63
+"2017" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 20.5443905447154 61
+"2017" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 22.0865363433476 62
+"2017" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 22.7357930645161 94
+"2018" "1" "San Bernardino" "Nitrogen dioxide (NO2)" 21.9622811280992 122
+"2018" "2" "San Bernardino" "Nitrogen dioxide (NO2)" 18.92022296875 100
+"2018" "3" "San Bernardino" "Nitrogen dioxide (NO2)" 15.9359881265306 93
+"2018" "4" "San Bernardino" "Nitrogen dioxide (NO2)" 15.1920884194915 83
+"2018" "5" "San Bernardino" "Nitrogen dioxide (NO2)" 13.0210664876033 76
+"2018" "6" "San Bernardino" "Nitrogen dioxide (NO2)" 15.0942995826087 65
+"2018" "7" "San Bernardino" "Nitrogen dioxide (NO2)" 14.8459248270042 55
+"2018" "8" "San Bernardino" "Nitrogen dioxide (NO2)" 15.4934710168067 79
+"2018" "9" "San Bernardino" "Nitrogen dioxide (NO2)" 18.1231703655462 53
+"2018" "10" "San Bernardino" "Nitrogen dioxide (NO2)" 15.7896218041667 65
+"2018" "11" "San Bernardino" "Nitrogen dioxide (NO2)" 19.8528763819742 64
+"2018" "12" "San Bernardino" "Nitrogen dioxide (NO2)" 20.0900739233871 82
+"2004" "1" "Sacramento" "Nitrogen dioxide (NO2)" 14.7836373483871 58
+"2004" "2" "Sacramento" "Nitrogen dioxide (NO2)" 14.174538137931 72
+"2004" "3" "Sacramento" "Nitrogen dioxide (NO2)" 13.3050797096774 64
+"2004" "4" "Sacramento" "Nitrogen dioxide (NO2)" 11.1212135405405 43
+"2004" "5" "Sacramento" "Nitrogen dioxide (NO2)" 8.3451156516129 38
+"2004" "6" "Sacramento" "Nitrogen dioxide (NO2)" 8.09073101273885 38
+"2004" "7" "Sacramento" "Nitrogen dioxide (NO2)" 8.01221840860215 39
+"2004" "8" "Sacramento" "Nitrogen dioxide (NO2)" 9.46470775882353 53
+"2004" "9" "Sacramento" "Nitrogen dioxide (NO2)" 15.1302187765363 44
+"2004" "10" "Sacramento" "Nitrogen dioxide (NO2)" 15.0247126538462 45
+"2004" "11" "Sacramento" "Nitrogen dioxide (NO2)" 15.8753341438356 37
+"2004" "12" "Sacramento" "Nitrogen dioxide (NO2)" 15.4922571213873 59
+"2005" "1" "Sacramento" "Nitrogen dioxide (NO2)" 14.0841542150538 44
+"2005" "2" "Sacramento" "Nitrogen dioxide (NO2)" 13.7301967321429 64
+"2005" "3" "Sacramento" "Nitrogen dioxide (NO2)" 11.4759314702703 61
+"2005" "4" "Sacramento" "Nitrogen dioxide (NO2)" 9.48777733333333 50
+"2005" "5" "Sacramento" "Nitrogen dioxide (NO2)" 7.76884831460674 69
+"2005" "6" "Sacramento" "Nitrogen dioxide (NO2)" 7.25758638961039 37
+"2005" "7" "Sacramento" "Nitrogen dioxide (NO2)" 8.0212657826087 31
+"2005" "8" "Sacramento" "Nitrogen dioxide (NO2)" 10.3793669516129 42
+"2005" "9" "Sacramento" "Nitrogen dioxide (NO2)" 12.6916456882353 39
+"2005" "10" "Sacramento" "Nitrogen dioxide (NO2)" 14.397130983871 42
+"2005" "11" "Sacramento" "Nitrogen dioxide (NO2)" 16.8636813275862 40
+"2005" "12" "Sacramento" "Nitrogen dioxide (NO2)" 14.3107443709677 54
+"2006" "1" "Sacramento" "Nitrogen dioxide (NO2)" 14.4625793387097 77
+"2006" "2" "Sacramento" "Nitrogen dioxide (NO2)" 16.7036685416667 51
+"2006" "3" "Sacramento" "Nitrogen dioxide (NO2)" 9.95973038709677 64
+"2006" "4" "Sacramento" "Nitrogen dioxide (NO2)" 8.28800635 64
+"2006" "5" "Sacramento" "Nitrogen dioxide (NO2)" 8.35781838172043 43
+"2006" "6" "Sacramento" "Nitrogen dioxide (NO2)" 8.48123331818182 41
+"2006" "7" "Sacramento" "Nitrogen dioxide (NO2)" 9.42700390967742 41
+"2006" "8" "Sacramento" "Nitrogen dioxide (NO2)" 10.1461248857143 40
+"2006" "9" "Sacramento" "Nitrogen dioxide (NO2)" 12.7930018163265 46
+"2006" "10" "Sacramento" "Nitrogen dioxide (NO2)" 16.1685704580645 48
+"2006" "11" "Sacramento" "Nitrogen dioxide (NO2)" 14.2624725534591 50
+"2006" "12" "Sacramento" "Nitrogen dioxide (NO2)" 15.7376452972973 45
+"2007" "1" "Sacramento" "Nitrogen dioxide (NO2)" 18.7384413978495 55
+"2007" "2" "Sacramento" "Nitrogen dioxide (NO2)" 13.0478221688312 56
+"2007" "3" "Sacramento" "Nitrogen dioxide (NO2)" 12.738756188172 42
+"2007" "4" "Sacramento" "Nitrogen dioxide (NO2)" 9.06469207821229 41
+"2007" "5" "Sacramento" "Nitrogen dioxide (NO2)" 7.66200182258065 46
+"2007" "6" "Sacramento" "Nitrogen dioxide (NO2)" 7.48318233888889 32
+"2007" "7" "Sacramento" "Nitrogen dioxide (NO2)" 6.74158209883721 41
+"2007" "8" "Sacramento" "Nitrogen dioxide (NO2)" 7.87921076136364 42
+"2007" "9" "Sacramento" "Nitrogen dioxide (NO2)" 9.9832045 30
+"2007" "10" "Sacramento" "Nitrogen dioxide (NO2)" 14.34238155 38
+"2007" "11" "Sacramento" "Nitrogen dioxide (NO2)" 17.5328564770115 31
+"2007" "12" "Sacramento" "Nitrogen dioxide (NO2)" 13.8744940697674 50
+"2008" "1" "Sacramento" "Nitrogen dioxide (NO2)" 13.2885338833333 55
+"2008" "2" "Sacramento" "Nitrogen dioxide (NO2)" 14.471828816092 69
+"2008" "3" "Sacramento" "Nitrogen dioxide (NO2)" 10.0331484408602 57
+"2008" "4" "Sacramento" "Nitrogen dioxide (NO2)" 8.86816793296089 44
+"2008" "5" "Sacramento" "Nitrogen dioxide (NO2)" 6.52332469354839 36
+"2008" "6" "Sacramento" "Nitrogen dioxide (NO2)" 7.93541673825503 42
+"2008" "7" "Sacramento" "Nitrogen dioxide (NO2)" 7.71191496629213 39
+"2008" "8" "Sacramento" "Nitrogen dioxide (NO2)" 7.26894422 52
+"2008" "9" "Sacramento" "Nitrogen dioxide (NO2)" 10.2443615555556 32
+"2008" "10" "Sacramento" "Nitrogen dioxide (NO2)" 15.3806001857143 34
+"2008" "11" "Sacramento" "Nitrogen dioxide (NO2)" 13.2442873515152 38
+"2008" "12" "Sacramento" "Nitrogen dioxide (NO2)" 13.267356983871 45
+"2009" "1" "Sacramento" "Nitrogen dioxide (NO2)" 15.2788085322581 56
+"2009" "2" "Sacramento" "Nitrogen dioxide (NO2)" 10.624284327381 42
+"2009" "3" "Sacramento" "Nitrogen dioxide (NO2)" 9.23447085245902 39
+"2009" "4" "Sacramento" "Nitrogen dioxide (NO2)" 7.52523989325843 57
+"2009" "5" "Sacramento" "Nitrogen dioxide (NO2)" 7.08943730769231 49
+"2009" "6" "Sacramento" "Nitrogen dioxide (NO2)" 5.52955002285714 32
+"2009" "7" "Sacramento" "Nitrogen dioxide (NO2)" 6.29444061271676 37
+"2009" "8" "Sacramento" "Nitrogen dioxide (NO2)" 7.33760034782609 34
+"2009" "9" "Sacramento" "Nitrogen dioxide (NO2)" 10.8919913 36
+"2009" "10" "Sacramento" "Nitrogen dioxide (NO2)" 10.4084890107527 47
+"2009" "11" "Sacramento" "Nitrogen dioxide (NO2)" 14.0956224555556 45
+"2009" "12" "Sacramento" "Nitrogen dioxide (NO2)" 13.3432189615385 44
+"2010" "1" "Sacramento" "Nitrogen dioxide (NO2)" 11.2755694395604 74
+"2010" "2" "Sacramento" "Nitrogen dioxide (NO2)" 9.66764917857143 64
+"2010" "3" "Sacramento" "Nitrogen dioxide (NO2)" 8.70451328494624 73
+"2010" "4" "Sacramento" "Nitrogen dioxide (NO2)" 7.06055496648045 51
+"2010" "5" "Sacramento" "Nitrogen dioxide (NO2)" 5.46970090217391 65
+"2010" "6" "Sacramento" "Nitrogen dioxide (NO2)" 5.16850504907976 34
+"2010" "7" "Sacramento" "Nitrogen dioxide (NO2)" 4.82823072677596 41
+"2010" "8" "Sacramento" "Nitrogen dioxide (NO2)" 6.05057880434783 41
+"2010" "9" "Sacramento" "Nitrogen dioxide (NO2)" 9.79026054285714 42
+"2010" "10" "Sacramento" "Nitrogen dioxide (NO2)" 10.8764140702703 49
+"2010" "11" "Sacramento" "Nitrogen dioxide (NO2)" 11.3252010903955 43
+"2010" "12" "Sacramento" "Nitrogen dioxide (NO2)" 10.4690401989247 61
+"2011" "1" "Sacramento" "Nitrogen dioxide (NO2)" 12.1906662365591 54
+"2011" "2" "Sacramento" "Nitrogen dioxide (NO2)" 10.4010246768293 66
+"2011" "3" "Sacramento" "Nitrogen dioxide (NO2)" 6.93012950837989 61
+"2011" "4" "Sacramento" "Nitrogen dioxide (NO2)" 4.9308874972067 49
+"2011" "5" "Sacramento" "Nitrogen dioxide (NO2)" 4.69164797837838 55
+"2011" "6" "Sacramento" "Nitrogen dioxide (NO2)" 5.56614963483146 41
+"2011" "7" "Sacramento" "Nitrogen dioxide (NO2)" 5.20199037634409 52
+"2011" "8" "Sacramento" "Nitrogen dioxide (NO2)" 6.51209333870968 31
+"2011" "9" "Sacramento" "Nitrogen dioxide (NO2)" 10.0568516145251 42
+"2011" "10" "Sacramento" "Nitrogen dioxide (NO2)" 11.1580389503106 43
+"2011" "11" "Sacramento" "Nitrogen dioxide (NO2)" 10.9012174388889 44
+"2011" "12" "Sacramento" "Nitrogen dioxide (NO2)" 16.5454713804348 46
+"2012" "1" "Sacramento" "Nitrogen dioxide (NO2)" 14.8210726827957 53
+"2012" "2" "Sacramento" "Nitrogen dioxide (NO2)" 9.91748082142857 52
+"2012" "3" "Sacramento" "Nitrogen dioxide (NO2)" 7.320948 65
+"2012" "4" "Sacramento" "Nitrogen dioxide (NO2)" 5.91938829824561 65
+"2012" "5" "Sacramento" "Nitrogen dioxide (NO2)" 5.06213763586956 37
+"2012" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.3564552259887 37
+"2012" "7" "Sacramento" "Nitrogen dioxide (NO2)" 4.87795622043011 33
+"2012" "8" "Sacramento" "Nitrogen dioxide (NO2)" 6.49350491935484 38
+"2012" "9" "Sacramento" "Nitrogen dioxide (NO2)" 8.79663568333333 47
+"2012" "10" "Sacramento" "Nitrogen dioxide (NO2)" 9.86183270967742 38
+"2012" "11" "Sacramento" "Nitrogen dioxide (NO2)" 10.4613903111111 42
+"2012" "12" "Sacramento" "Nitrogen dioxide (NO2)" 8.88860552459016 46
+"2013" "1" "Sacramento" "Nitrogen dioxide (NO2)" 14.5939874462366 78
+"2013" "2" "Sacramento" "Nitrogen dioxide (NO2)" 10.9683777346939 65
+"2013" "3" "Sacramento" "Nitrogen dioxide (NO2)" 7.40320836 73
+"2013" "4" "Sacramento" "Nitrogen dioxide (NO2)" 5.44658317647059 51
+"2013" "5" "Sacramento" "Nitrogen dioxide (NO2)" 3.98973624683544 56
+"2013" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.17292784242424 47
+"2013" "7" "Sacramento" "Nitrogen dioxide (NO2)" 4.38725306486486 39
+"2013" "8" "Sacramento" "Nitrogen dioxide (NO2)" 4.52175589784946 37
+"2013" "9" "Sacramento" "Nitrogen dioxide (NO2)" 6.89770579888268 41
+"2013" "10" "Sacramento" "Nitrogen dioxide (NO2)" 12.6263408451613 55
+"2013" "11" "Sacramento" "Nitrogen dioxide (NO2)" 13.6126076949153 44
+"2013" "12" "Sacramento" "Nitrogen dioxide (NO2)" 16.309529125 55
+"2014" "1" "Sacramento" "Nitrogen dioxide (NO2)" 17.6056695464481 65
+"2014" "2" "Sacramento" "Nitrogen dioxide (NO2)" 8.36738932727273 52
+"2014" "3" "Sacramento" "Nitrogen dioxide (NO2)" 6.48595248924731 48
+"2014" "4" "Sacramento" "Nitrogen dioxide (NO2)" 5.68975270786517 60
+"2014" "5" "Sacramento" "Nitrogen dioxide (NO2)" 4.19498965806452 57
+"2014" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.0175432 50
+"2014" "7" "Sacramento" "Nitrogen dioxide (NO2)" 3.63852755414013 38
+"2014" "8" "Sacramento" "Nitrogen dioxide (NO2)" 3.90957595555556 51
+"2014" "9" "Sacramento" "Nitrogen dioxide (NO2)" 5.99760005 35
+"2014" "10" "Sacramento" "Nitrogen dioxide (NO2)" 10.3835075888889 61
+"2014" "11" "Sacramento" "Nitrogen dioxide (NO2)" 11.2096564294118 45
+"2014" "12" "Sacramento" "Nitrogen dioxide (NO2)" 7.22543945604396 43
+"2015" "1" "Sacramento" "Nitrogen dioxide (NO2)" 11.9098905810056 77
+"2015" "2" "Sacramento" "Nitrogen dioxide (NO2)" 8.58687340853658 61
+"2015" "3" "Sacramento" "Nitrogen dioxide (NO2)" 7.66047551807229 69
+"2015" "4" "Sacramento" "Nitrogen dioxide (NO2)" 4.98040274719101 54
+"2015" "5" "Sacramento" "Nitrogen dioxide (NO2)" 3.37347830681818 61
+"2015" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.26791918435754 49
+"2015" "7" "Sacramento" "Nitrogen dioxide (NO2)" 3.62883128021978 48
+"2015" "8" "Sacramento" "Nitrogen dioxide (NO2)" 4.15553976756757 33
+"2015" "9" "Sacramento" "Nitrogen dioxide (NO2)" 8.26599830681818 36
+"2015" "10" "Sacramento" "Nitrogen dioxide (NO2)" 10.534294375 36
+"2015" "11" "Sacramento" "Nitrogen dioxide (NO2)" 10.5919434333333 48
+"2015" "12" "Sacramento" "Nitrogen dioxide (NO2)" 9.46724117050691 59
+"2016" "1" "Sacramento" "Nitrogen dioxide (NO2)" 7.99570412442396 58
+"2016" "2" "Sacramento" "Nitrogen dioxide (NO2)" 10.2626172524752 60
+"2016" "3" "Sacramento" "Nitrogen dioxide (NO2)" 6.0409740521327 73
+"2016" "4" "Sacramento" "Nitrogen dioxide (NO2)" 5.25946844497608 62
+"2016" "5" "Sacramento" "Nitrogen dioxide (NO2)" 4.4983485270936 35
+"2016" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.84833527717391 32
+"2016" "7" "Sacramento" "Nitrogen dioxide (NO2)" 4.33607176525822 41
+"2016" "8" "Sacramento" "Nitrogen dioxide (NO2)" 4.39383634722222 34
+"2016" "9" "Sacramento" "Nitrogen dioxide (NO2)" 6.92637890163934 50
+"2016" "10" "Sacramento" "Nitrogen dioxide (NO2)" 8.3752536686747 38
+"2016" "11" "Sacramento" "Nitrogen dioxide (NO2)" 9.57535761714286 44
+"2016" "12" "Sacramento" "Nitrogen dioxide (NO2)" 10.353349314433 52
+"2017" "1" "Sacramento" "Nitrogen dioxide (NO2)" 7.17809387755102 75
+"2017" "2" "Sacramento" "Nitrogen dioxide (NO2)" 6.00687663576159 54
+"2017" "3" "Sacramento" "Nitrogen dioxide (NO2)" 5.73136637062937 48
+"2017" "4" "Sacramento" "Nitrogen dioxide (NO2)" 3.70879307194245 56
+"2017" "5" "Sacramento" "Nitrogen dioxide (NO2)" 4.05538451612903 52
+"2017" "6" "Sacramento" "Nitrogen dioxide (NO2)" 3.68368497916667 52
+"2017" "7" "Sacramento" "Nitrogen dioxide (NO2)" 3.20888260769231 51
+"2017" "8" "Sacramento" "Nitrogen dioxide (NO2)" 3.41350886666667 30
+"2017" "9" "Sacramento" "Nitrogen dioxide (NO2)" 4.84929616666667 36
+"2017" "10" "Sacramento" "Nitrogen dioxide (NO2)" 10.0122840583942 40
+"2017" "11" "Sacramento" "Nitrogen dioxide (NO2)" 8.45260922666667 44
+"2017" "12" "Sacramento" "Nitrogen dioxide (NO2)" 13.1677108636364 62
+"2018" "1" "Sacramento" "Nitrogen dioxide (NO2)" 8.55479205298013 73
+"2018" "2" "Sacramento" "Nitrogen dioxide (NO2)" 9.23102918978102 55
+"2018" "3" "Sacramento" "Nitrogen dioxide (NO2)" 5.52158278014184 69
+"2018" "4" "Sacramento" "Nitrogen dioxide (NO2)" 4.76395848666667 46
+"2018" "5" "Sacramento" "Nitrogen dioxide (NO2)" 3.29669264935065 45
+"2018" "6" "Sacramento" "Nitrogen dioxide (NO2)" 4.14157739333333 48
+"2018" "7" "Sacramento" "Nitrogen dioxide (NO2)" 4.05045409032258 37
+"2018" "8" "Sacramento" "Nitrogen dioxide (NO2)" 4.57632900645161 37
+"2018" "9" "Sacramento" "Nitrogen dioxide (NO2)" 6.20312829333333 45
+"2018" "10" "Sacramento" "Nitrogen dioxide (NO2)" 8.90407447741936 37
+"2018" "11" "Sacramento" "Nitrogen dioxide (NO2)" 12.141347265625 48
+"2018" "12" "Sacramento" "Nitrogen dioxide (NO2)" 7.13593799193548 57
+"2004" "1" "Alameda" "Nitrogen dioxide (NO2)" 19.4899062096774 46
+"2004" "2" "Alameda" "Nitrogen dioxide (NO2)" 17.6612419482759 37
+"2004" "3" "Alameda" "Nitrogen dioxide (NO2)" 16.5140893064516 51
+"2004" "4" "Alameda" "Nitrogen dioxide (NO2)" 13.8103647241379 46
+"2004" "5" "Alameda" "Nitrogen dioxide (NO2)" 8.45958117741936 38
+"2004" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.20707071666667 31
+"2004" "7" "Alameda" "Nitrogen dioxide (NO2)" 9.69640516129032 25
+"2004" "8" "Alameda" "Nitrogen dioxide (NO2)" 11.2832427666667 30
+"2004" "9" "Alameda" "Nitrogen dioxide (NO2)" 17.3800585166667 34
+"2004" "10" "Alameda" "Nitrogen dioxide (NO2)" 16.8385201935484 36
+"2004" "11" "Alameda" "Nitrogen dioxide (NO2)" 18.5368767017544 29
+"2004" "12" "Alameda" "Nitrogen dioxide (NO2)" 18.394898016129 37
+"2005" "1" "Alameda" "Nitrogen dioxide (NO2)" 16.6384561774194 56
+"2005" "2" "Alameda" "Nitrogen dioxide (NO2)" 17.1550910178571 45
+"2005" "3" "Alameda" "Nitrogen dioxide (NO2)" 15.6678574032258 35
+"2005" "4" "Alameda" "Nitrogen dioxide (NO2)" 11.5924571666667 38
+"2005" "5" "Alameda" "Nitrogen dioxide (NO2)" 8.90248956451613 37
+"2005" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.24155796666667 43
+"2005" "7" "Alameda" "Nitrogen dioxide (NO2)" 13.9338582096774 33
+"2005" "8" "Alameda" "Nitrogen dioxide (NO2)" 16.3077387903226 28
+"2005" "9" "Alameda" "Nitrogen dioxide (NO2)" 15.3867138666667 26
+"2005" "10" "Alameda" "Nitrogen dioxide (NO2)" 17.2333820967742 33
+"2005" "11" "Alameda" "Nitrogen dioxide (NO2)" 20.1533769333333 33
+"2005" "12" "Alameda" "Nitrogen dioxide (NO2)" 17.6305364032258 49
+"2006" "1" "Alameda" "Nitrogen dioxide (NO2)" 17.6249556935484 49
+"2006" "2" "Alameda" "Nitrogen dioxide (NO2)" 19.1738260535714 40
+"2006" "3" "Alameda" "Nitrogen dioxide (NO2)" 12.4782078870968 58
+"2006" "4" "Alameda" "Nitrogen dioxide (NO2)" 10.4603755333333 38
+"2006" "5" "Alameda" "Nitrogen dioxide (NO2)" 10.6224478709677 32
+"2006" "6" "Alameda" "Nitrogen dioxide (NO2)" 10.43305155 31
+"2006" "7" "Alameda" "Nitrogen dioxide (NO2)" 12.5524641612903 30
+"2006" "8" "Alameda" "Nitrogen dioxide (NO2)" 12.5554538709677 25
+"2006" "9" "Alameda" "Nitrogen dioxide (NO2)" 16.3570861666667 29
+"2006" "10" "Alameda" "Nitrogen dioxide (NO2)" 18.2586768852459 29
+"2006" "11" "Alameda" "Nitrogen dioxide (NO2)" 16.8055706333333 30
+"2006" "12" "Alameda" "Nitrogen dioxide (NO2)" 20.0412242258065 34
+"2007" "1" "Alameda" "Nitrogen dioxide (NO2)" 21.3878678870968 47
+"2007" "2" "Alameda" "Nitrogen dioxide (NO2)" 14.8898590892857 37
+"2007" "3" "Alameda" "Nitrogen dioxide (NO2)" 15.976743 38
+"2007" "4" "Alameda" "Nitrogen dioxide (NO2)" 10.31828065 47
+"2007" "5" "Alameda" "Nitrogen dioxide (NO2)" 8.89369482258065 37
+"2007" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.3741315 30
+"2007" "7" "Alameda" "Nitrogen dioxide (NO2)" 7.5447725 29
+"2007" "8" "Alameda" "Nitrogen dioxide (NO2)" 10.6962380645161 27
+"2007" "9" "Alameda" "Nitrogen dioxide (NO2)" 11.9688184833333 23
+"2007" "10" "Alameda" "Nitrogen dioxide (NO2)" 15.5782513064516 34
+"2007" "11" "Alameda" "Nitrogen dioxide (NO2)" 21.6305494111111 40
+"2007" "12" "Alameda" "Nitrogen dioxide (NO2)" 18.4871026324786 22
+"2008" "1" "Alameda" "Nitrogen dioxide (NO2)" 16.2733582016129 39
+"2008" "2" "Alameda" "Nitrogen dioxide (NO2)" 16.5112625862069 60
+"2008" "3" "Alameda" "Nitrogen dioxide (NO2)" 14.1326068387097 47
+"2008" "4" "Alameda" "Nitrogen dioxide (NO2)" 12.3242351 51
+"2008" "5" "Alameda" "Nitrogen dioxide (NO2)" 9.50970603252033 42
+"2008" "6" "Alameda" "Nitrogen dioxide (NO2)" 11.1960995 34
+"2008" "7" "Alameda" "Nitrogen dioxide (NO2)" 8.840874 28
+"2008" "8" "Alameda" "Nitrogen dioxide (NO2)" 9.55079370967742 29
+"2008" "9" "Alameda" "Nitrogen dioxide (NO2)" 14.6782583083333 23
+"2008" "10" "Alameda" "Nitrogen dioxide (NO2)" 19.8267359677419 32
+"2008" "11" "Alameda" "Nitrogen dioxide (NO2)" 17.7189248655462 26
+"2008" "12" "Alameda" "Nitrogen dioxide (NO2)" 17.9319845609756 47
+"2009" "1" "Alameda" "Nitrogen dioxide (NO2)" 19.728037 44
+"2009" "2" "Alameda" "Nitrogen dioxide (NO2)" 15.1244539568966 37
+"2009" "3" "Alameda" "Nitrogen dioxide (NO2)" 12.7397583290323 29
+"2009" "4" "Alameda" "Nitrogen dioxide (NO2)" 11.3661424563758 40
+"2009" "5" "Alameda" "Nitrogen dioxide (NO2)" 10.0881883870968 37
+"2009" "6" "Alameda" "Nitrogen dioxide (NO2)" 7.7803648 30
+"2009" "7" "Alameda" "Nitrogen dioxide (NO2)" 8.31737913071895 45
+"2009" "8" "Alameda" "Nitrogen dioxide (NO2)" 9.9315022 36
+"2009" "9" "Alameda" "Nitrogen dioxide (NO2)" 14.27198148 25
+"2009" "10" "Alameda" "Nitrogen dioxide (NO2)" 14.573417987013 36
+"2009" "11" "Alameda" "Nitrogen dioxide (NO2)" 20.2179699466667 34
+"2009" "12" "Alameda" "Nitrogen dioxide (NO2)" 19.1401113483871 37
+"2010" "1" "Alameda" "Nitrogen dioxide (NO2)" 16.5629946967742 41
+"2010" "2" "Alameda" "Nitrogen dioxide (NO2)" 15.6074562428571 30
+"2010" "3" "Alameda" "Nitrogen dioxide (NO2)" 14.2872960645161 43
+"2010" "4" "Alameda" "Nitrogen dioxide (NO2)" 10.9075018466667 33
+"2010" "5" "Alameda" "Nitrogen dioxide (NO2)" 8.60888995424837 39
+"2010" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.06346160666667 25
+"2010" "7" "Alameda" "Nitrogen dioxide (NO2)" 8.21040615483871 27
+"2010" "8" "Alameda" "Nitrogen dioxide (NO2)" 8.53564161038961 36
+"2010" "9" "Alameda" "Nitrogen dioxide (NO2)" 14.1116763333333 29
+"2010" "10" "Alameda" "Nitrogen dioxide (NO2)" 15.6453579144737 35
+"2010" "11" "Alameda" "Nitrogen dioxide (NO2)" 17.2848846333333 30
+"2010" "12" "Alameda" "Nitrogen dioxide (NO2)" 17.5143373225806 33
+"2011" "1" "Alameda" "Nitrogen dioxide (NO2)" 18.4504605591398 41
+"2011" "2" "Alameda" "Nitrogen dioxide (NO2)" 15.9663726547619 39
+"2011" "3" "Alameda" "Nitrogen dioxide (NO2)" 9.44560882258065 42
+"2011" "4" "Alameda" "Nitrogen dioxide (NO2)" 7.7093327 36
+"2011" "5" "Alameda" "Nitrogen dioxide (NO2)" 6.59747310483871 32
+"2011" "6" "Alameda" "Nitrogen dioxide (NO2)" 7.55645608333333 41
+"2011" "7" "Alameda" "Nitrogen dioxide (NO2)" 7.21372731451613 40
+"2011" "8" "Alameda" "Nitrogen dioxide (NO2)" 7.68776983870968 33
+"2011" "9" "Alameda" "Nitrogen dioxide (NO2)" 12.1234667333333 33
+"2011" "10" "Alameda" "Nitrogen dioxide (NO2)" 13.0733509435484 33
+"2011" "11" "Alameda" "Nitrogen dioxide (NO2)" 13.5004360504202 28
+"2011" "12" "Alameda" "Nitrogen dioxide (NO2)" 19.5855709516129 36
+"2012" "1" "Alameda" "Nitrogen dioxide (NO2)" 17.1335877983871 36
+"2012" "2" "Alameda" "Nitrogen dioxide (NO2)" 12.1886685086207 56
+"2012" "3" "Alameda" "Nitrogen dioxide (NO2)" 9.3843096097561 45
+"2012" "4" "Alameda" "Nitrogen dioxide (NO2)" 8.13386783333333 29
+"2012" "5" "Alameda" "Nitrogen dioxide (NO2)" 7.53034084677419 30
+"2012" "6" "Alameda" "Nitrogen dioxide (NO2)" 6.8190838 35
+"2012" "7" "Alameda" "Nitrogen dioxide (NO2)" 6.91957926612903 30
+"2012" "8" "Alameda" "Nitrogen dioxide (NO2)" 8.73572076612903 37
+"2012" "9" "Alameda" "Nitrogen dioxide (NO2)" 11.1476820666667 25
+"2012" "10" "Alameda" "Nitrogen dioxide (NO2)" 11.685087766129 28
+"2012" "11" "Alameda" "Nitrogen dioxide (NO2)" 13.601049825 28
+"2012" "12" "Alameda" "Nitrogen dioxide (NO2)" 12.2792206774194 46
+"2013" "1" "Alameda" "Nitrogen dioxide (NO2)" 17.2486400725806 53
+"2013" "2" "Alameda" "Nitrogen dioxide (NO2)" 14.6052427767857 34
+"2013" "3" "Alameda" "Nitrogen dioxide (NO2)" 11.7011761532258 62
+"2013" "4" "Alameda" "Nitrogen dioxide (NO2)" 8.845535975 44
+"2013" "5" "Alameda" "Nitrogen dioxide (NO2)" 6.87138708870968 38
+"2013" "6" "Alameda" "Nitrogen dioxide (NO2)" 6.72203943333333 28
+"2013" "7" "Alameda" "Nitrogen dioxide (NO2)" 7.24588265322581 36
+"2013" "8" "Alameda" "Nitrogen dioxide (NO2)" 5.73272508870968 36
+"2013" "9" "Alameda" "Nitrogen dioxide (NO2)" 7.65732050833333 25
+"2013" "10" "Alameda" "Nitrogen dioxide (NO2)" 14.8360199677419 24
+"2013" "11" "Alameda" "Nitrogen dioxide (NO2)" 17.00335535 40
+"2013" "12" "Alameda" "Nitrogen dioxide (NO2)" 25.2837389462366 34
+"2014" "1" "Alameda" "Nitrogen dioxide (NO2)" 25.5744498172043 52
+"2014" "2" "Alameda" "Nitrogen dioxide (NO2)" 15.4550243482143 39
+"2014" "3" "Alameda" "Nitrogen dioxide (NO2)" 13.6994546451613 39
+"2014" "4" "Alameda" "Nitrogen dioxide (NO2)" 10.2391088590604 29
+"2014" "5" "Alameda" "Nitrogen dioxide (NO2)" 8.95447596129032 33
+"2014" "6" "Alameda" "Nitrogen dioxide (NO2)" 7.14052422666667 31
+"2014" "7" "Alameda" "Nitrogen dioxide (NO2)" 7.57750038064516 33
+"2014" "8" "Alameda" "Nitrogen dioxide (NO2)" 7.59684527741936 33
+"2014" "9" "Alameda" "Nitrogen dioxide (NO2)" 9.02196966 27
+"2014" "10" "Alameda" "Nitrogen dioxide (NO2)" 14.236680316129 38
+"2014" "11" "Alameda" "Nitrogen dioxide (NO2)" 15.6437788926174 29
+"2014" "12" "Alameda" "Nitrogen dioxide (NO2)" 15.0626335322581 35
+"2015" "1" "Alameda" "Nitrogen dioxide (NO2)" 22.2269226048387 59
+"2015" "2" "Alameda" "Nitrogen dioxide (NO2)" 15.9846789375 43
+"2015" "3" "Alameda" "Nitrogen dioxide (NO2)" 16.0207625483871 40
+"2015" "4" "Alameda" "Nitrogen dioxide (NO2)" 9.37279744 46
+"2015" "5" "Alameda" "Nitrogen dioxide (NO2)" 6.15841781290323 52
+"2015" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.12229652666667 39
+"2015" "7" "Alameda" "Nitrogen dioxide (NO2)" 6.6034218516129 29
+"2015" "8" "Alameda" "Nitrogen dioxide (NO2)" 7.39145661290323 29
+"2015" "9" "Alameda" "Nitrogen dioxide (NO2)" 11.62063058 27
+"2015" "10" "Alameda" "Nitrogen dioxide (NO2)" 13.3605972402597 31
+"2015" "11" "Alameda" "Nitrogen dioxide (NO2)" 14.4672619932886 24
+"2015" "12" "Alameda" "Nitrogen dioxide (NO2)" 16.7170062903226 47
+"2016" "1" "Alameda" "Nitrogen dioxide (NO2)" 14.7952459516129 48
+"2016" "2" "Alameda" "Nitrogen dioxide (NO2)" 17.741476362069 35
+"2016" "3" "Alameda" "Nitrogen dioxide (NO2)" 10.5502257822581 40
+"2016" "4" "Alameda" "Nitrogen dioxide (NO2)" 8.69476110666667 38
+"2016" "5" "Alameda" "Nitrogen dioxide (NO2)" 7.14565218709677 24
+"2016" "6" "Alameda" "Nitrogen dioxide (NO2)" 7.37388647333333 31
+"2016" "7" "Alameda" "Nitrogen dioxide (NO2)" 7.25362007567568 34
+"2016" "8" "Alameda" "Nitrogen dioxide (NO2)" 7.55400115846995 27
+"2016" "9" "Alameda" "Nitrogen dioxide (NO2)" 10.2328907150838 24
+"2016" "10" "Alameda" "Nitrogen dioxide (NO2)" 11.5211339782609 38
+"2016" "11" "Alameda" "Nitrogen dioxide (NO2)" 14.2121761257143 33
+"2016" "12" "Alameda" "Nitrogen dioxide (NO2)" 17.2968839736842 44
+"2017" "1" "Alameda" "Nitrogen dioxide (NO2)" 13.0743050806452 66
+"2017" "2" "Alameda" "Nitrogen dioxide (NO2)" 11.3415130240964 38
+"2017" "3" "Alameda" "Nitrogen dioxide (NO2)" 11.4072720380435 38
+"2017" "4" "Alameda" "Nitrogen dioxide (NO2)" 11.0600119328859 34
+"2017" "5" "Alameda" "Nitrogen dioxide (NO2)" 9.16038748387097 32
+"2017" "6" "Alameda" "Nitrogen dioxide (NO2)" 7.97030643333333 27
+"2017" "7" "Alameda" "Nitrogen dioxide (NO2)" 8.24459542580645 38
+"2017" "8" "Alameda" "Nitrogen dioxide (NO2)" 9.13820543333333 28
+"2017" "9" "Alameda" "Nitrogen dioxide (NO2)" 12.5186262094595 35
+"2017" "10" "Alameda" "Nitrogen dioxide (NO2)" 17.6767387077922 26
+"2017" "11" "Alameda" "Nitrogen dioxide (NO2)" 16.63951254 29
+"2017" "12" "Alameda" "Nitrogen dioxide (NO2)" 23.0386799677419 37
+"2018" "1" "Alameda" "Nitrogen dioxide (NO2)" 17.7467258580645 54
+"2018" "2" "Alameda" "Nitrogen dioxide (NO2)" 16.7378149428571 35
+"2018" "3" "Alameda" "Nitrogen dioxide (NO2)" 13.0352288580645 33
+"2018" "4" "Alameda" "Nitrogen dioxide (NO2)" 10.3938775277778 34
+"2018" "5" "Alameda" "Nitrogen dioxide (NO2)" 7.4088432311828 34
+"2018" "6" "Alameda" "Nitrogen dioxide (NO2)" 8.63336908888889 38
+"2018" "7" "Alameda" "Nitrogen dioxide (NO2)" 8.4570801344086 37
+"2018" "8" "Alameda" "Nitrogen dioxide (NO2)" 9.10317750537634 30
+"2018" "9" "Alameda" "Nitrogen dioxide (NO2)" 10.8265592888889 31
+"2018" "10" "Alameda" "Nitrogen dioxide (NO2)" 14.3805873621622 31
+"2018" "11" "Alameda" "Nitrogen dioxide (NO2)" 24.4487914333333 28
+"2018" "12" "Alameda" "Nitrogen dioxide (NO2)" 15.0148666075269 28
+"2004" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 25.5427072580645 44
+"2004" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 21.4458907931034 47
+"2004" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 22.3426761935484 40
+"2004" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 16.7654746333333 43
+"2004" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 11.715069483871 28
+"2004" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 10.6553980666667 30
+"2004" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 10.3630323225806 19
+"2004" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 12.2703048387097 46
+"2004" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 20.2663455333333 28
+"2004" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 20.0395257419355 40
+"2004" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 24.2225578 29
+"2004" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 26.6545128387097 44
+"2005" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 24.9256568387097 44
+"2005" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 23.0499716785714 46
+"2005" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 20.0674092580645 47
+"2005" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 15.7191533793103 42
+"2005" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 12.4894917096774 34
+"2005" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 11.3561767 43
+"2005" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 14.1220196774194 35
+"2005" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 15.6206266129032 39
+"2005" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 16.9882179333333 28
+"2005" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 19.2648683225806 40
+"2005" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 27.2028402 35
+"2005" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 22.4599870645161 54
+"2006" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 23.5079163870968 47
+"2006" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 25.1991308214286 33
+"2006" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 14.6099316774194 37
+"2006" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 13.0903820333333 38
+"2006" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 13.7889356296296 45
+"2006" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 11.5865079666667 23
+"2006" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 12.7802321785714 34
+"2006" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 12.0149133636364 32
+"2006" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 18.6367955416667 29
+"2006" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 23.8883506129032 31
+"2006" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 21.4404186666667 31
+"2006" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 26.0317237419355 46
+"2007" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 27.8120616774194 52
+"2007" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 17.6146952142857 42
+"2007" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 18.2171363225806 51
+"2007" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 12.8051174333333 38
+"2007" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 11.4183854193548 37
+"2007" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 10.5157531333333 39
+"2007" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 8.69384896774194 24
+"2007" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 11.7027386129032 27
+"2007" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 13.9188405333333 34
+"2007" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 18.9585819354839 25
+"2007" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 26.4478261 41
+"2007" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 20.8387096451613 43
+"2008" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 21.4300191290323 49
+"2008" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 20.3375502068966 50
+"2008" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 16.683029483871 46
+"2008" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 13.4118661 47
+"2008" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 10.5260954516129 44
+"2008" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 11.7832908 30
+"2008" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 10.0685834516129 28
+"2008" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 11.3445428709677 32
+"2008" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 16.8544795666667 37
+"2008" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 23.8295520322581 33
+"2008" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 21.4362318666667 29
+"2008" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 22.6042028387097 26
+"2009" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 27.0572941290323 46
+"2009" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 16.8443091428571 42
+"2009" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 12.7865399677419 41
+"2009" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 10.4268300434783 43
+"2009" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 9.08324483870968 39
+"2009" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 8.13333616666667 35
+"2009" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 9.37964396774194 30
+"2009" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 11.2682460322581 30
+"2009" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 14.7956237037037 18
+"2009" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 13.486514483871 39
+"2009" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 21.7672544 31
+"2009" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 21.9110171290323 41
+"2010" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 18.1413938709677 64
+"2010" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 16.39535475 41
+"2010" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 16.1581877419355 41
+"2010" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 12.0358633666667 40
+"2010" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 8.83028296774193 40
+"2010" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 9.1877757 37
+"2010" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 8.92234780645161 22
+"2010" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 10.1346685806452 24
+"2010" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 13.7247949166667 22
+"2010" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 14.2161217741935 39
+"2010" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 16.0621397 34
+"2010" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 14.6062086774194 41
+"2011" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 19.6069625322581 46
+"2011" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 15.2002089107143 45
+"2011" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 9.82581677419355 38
+"2011" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 7.45317548333333 39
+"2011" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 6.9999025483871 45
+"2011" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 6.55927585 28
+"2011" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 7.10226461290323 31
+"2011" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 8.29073537096774 26
+"2011" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 12.48597465 27
+"2011" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 14.0880745645161 28
+"2011" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 14.9152994745763 32
+"2011" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 22.7170285806452 42
+"2012" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 19.1809177096774 46
+"2012" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 13.3175320172414 48
+"2012" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 9.64393498387097 47
+"2012" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 7.84438225 49
+"2012" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 7.44165920967742 43
+"2012" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 6.7538315 33
+"2012" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 6.76131948387097 37
+"2012" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 8.77538377419355 27
+"2012" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 11.0126297166667 18
+"2012" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 12.0616051129032 25
+"2012" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 14.7593359666667 40
+"2012" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 13.1220514677419 38
+"2013" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 20.6066082258065 53
+"2013" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 15.1503335 48
+"2013" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 11.0026765 39
+"2013" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 7.94925896666667 39
+"2013" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 7.04841425806452 29
+"2013" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 6.49969653333333 35
+"2013" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 7.45560970967742 29
+"2013" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 6.89234001612903 32
+"2013" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 7.45737065 23
+"2013" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 15.1641782419355 35
+"2013" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 18.4138790166667 33
+"2013" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 22.9150845645161 45
+"2014" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 31.2061473870968 61
+"2014" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 13.5892079642857 36
+"2014" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 11.6944888387097 39
+"2014" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 9.5477272 38
+"2014" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 8.14415119354839 32
+"2014" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 7.97830966666667 21
+"2014" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 7.50947587096774 30
+"2014" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 7.67675603225806 32
+"2014" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 12.3371049 26
+"2014" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 19.7536428548387 26
+"2014" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 21.3675993 26
+"2014" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 15.6221256774194 40
+"2015" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 24.1485685762712 47
+"2015" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 17.4101385 51
+"2015" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 16.0966878 44
+"2015" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 12.4670664666667 32
+"2015" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 8.51849227419355 30
+"2015" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 11.3287655 25
+"2015" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 9.23841646774193 29
+"2015" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 10.2262039677419 25
+"2015" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 16.1489619 31
+"2015" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 17.7292582459016 24
+"2015" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 20.9510451016949 31
+"2015" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 19.2888178548387 40
+"2016" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 16.3000070322581 45
+"2016" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 20.5638173103448 44
+"2016" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 11.8101437096774 38
+"2016" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 11.8143807833333 22
+"2016" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 9.35306117741935 26
+"2016" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 9.90443088333333 32
+"2016" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 9.03473880327869 30
+"2016" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 9.5713144516129 24
+"2016" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 13.6120371355932 21
+"2016" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 13.7624824193548 32
+"2016" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 18.1289774666667 40
+"2016" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 19.6199136935484 56
+"2017" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 17.1310616935484 40
+"2017" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 12.576648125 32
+"2017" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 13.6544977903226 48
+"2017" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 10.7241622666667 39
+"2017" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 10.4222117555556 16
+"2017" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 9.2808357 33
+"2017" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 9.93733020967742 26
+"2017" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 10.8419880483871 28
+"2017" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 13.7795904333333 18
+"2017" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 21.5862422786885 37
+"2017" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 17.8658013 29
+"2017" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 26.8189096451613 38
+"2018" "1" "Santa Clara" "Nitrogen dioxide (NO2)" 19.0389472741935 50
+"2018" "2" "Santa Clara" "Nitrogen dioxide (NO2)" 18.64327775 37
+"2018" "3" "Santa Clara" "Nitrogen dioxide (NO2)" 14.401552 38
+"2018" "4" "Santa Clara" "Nitrogen dioxide (NO2)" 11.4153889333333 38
+"2018" "5" "Santa Clara" "Nitrogen dioxide (NO2)" 8.30714483870968 28
+"2018" "6" "Santa Clara" "Nitrogen dioxide (NO2)" 9.0763799 23
+"2018" "7" "Santa Clara" "Nitrogen dioxide (NO2)" 8.97567977419355 23
+"2018" "8" "Santa Clara" "Nitrogen dioxide (NO2)" 9.81459888709677 27
+"2018" "9" "Santa Clara" "Nitrogen dioxide (NO2)" 12.48592225 25
+"2018" "10" "Santa Clara" "Nitrogen dioxide (NO2)" 15.6538566774194 31
+"2018" "11" "Santa Clara" "Nitrogen dioxide (NO2)" 27.8565169666667 26
+"2018" "12" "Santa Clara" "Nitrogen dioxide (NO2)" 17.5414189677419 32

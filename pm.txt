@@ -1,0 +1,1345 @@
+"Year" "Month" "County" "Pollutant" "P_Mean" "Count"
+"2004" "1" "Los Angeles" "PM10 Total 0-10um STP" 25.2 331
+"2004" "2" "Los Angeles" "PM10 Total 0-10um STP" 16.35 306
+"2004" "3" "Los Angeles" "PM10 Total 0-10um STP" 33.6478873239437 250
+"2004" "4" "Los Angeles" "PM10 Total 0-10um STP" 32.5441176470588 253
+"2004" "5" "Los Angeles" "PM10 Total 0-10um STP" 32.0882352941176 249
+"2004" "6" "Los Angeles" "PM10 Total 0-10um STP" 33.2121212121212 183
+"2004" "7" "Los Angeles" "PM10 Total 0-10um STP" 29.7826086956522 169
+"2004" "8" "Los Angeles" "PM10 Total 0-10um STP" 30.4810126582278 201
+"2004" "9" "Los Angeles" "PM10 Total 0-10um STP" 33.9 206
+"2004" "10" "Los Angeles" "PM10 Total 0-10um STP" 30.030303030303 204
+"2004" "11" "Los Angeles" "PM10 Total 0-10um STP" 24.7272727272727 227
+"2004" "12" "Los Angeles" "PM10 Total 0-10um STP" 20.5223880597015 247
+"2005" "1" "Los Angeles" "PM10 Total 0-10um STP" 18.1142857142857 281
+"2005" "2" "Los Angeles" "PM10 Total 0-10um STP" 15.7076923076923 288
+"2005" "3" "Los Angeles" "PM10 Total 0-10um STP" 22.0597014925373 280
+"2005" "4" "Los Angeles" "PM10 Total 0-10um STP" 23.4347826086957 242
+"2005" "5" "Los Angeles" "PM10 Total 0-10um STP" 26.4366197183099 269
+"2005" "6" "Los Angeles" "PM10 Total 0-10um STP" 27.3571428571429 213
+"2005" "7" "Los Angeles" "PM10 Total 0-10um STP" 33.3283582089552 211
+"2005" "8" "Los Angeles" "PM10 Total 0-10um STP" 31.8591549295775 204
+"2005" "9" "Los Angeles" "PM10 Total 0-10um STP" 33.6231884057971 176
+"2005" "10" "Los Angeles" "PM10 Total 0-10um STP" 29.1282051282051 215
+"2005" "11" "Los Angeles" "PM10 Total 0-10um STP" 33.3809523809524 232
+"2005" "12" "Los Angeles" "PM10 Total 0-10um STP" 28.536231884058 382
+"2006" "1" "Los Angeles" "PM10 Total 0-10um STP" 25.1549295774648 345
+"2006" "2" "Los Angeles" "PM10 Total 0-10um STP" 27.3787878787879 266
+"2006" "3" "Los Angeles" "PM10 Total 0-10um STP" 14.8591549295775 280
+"2006" "4" "Los Angeles" "PM10 Total 0-10um STP" 16.3880597014925 258
+"2006" "5" "Los Angeles" "PM10 Total 0-10um STP" 32.4788732394366 240
+"2006" "6" "Los Angeles" "PM10 Total 0-10um STP" 32.3188405797101 202
+"2006" "7" "Los Angeles" "PM10 Total 0-10um STP" 32.7794117647059 244
+"2006" "8" "Los Angeles" "PM10 Total 0-10um STP" 29.9264705882353 186
+"2006" "9" "Los Angeles" "PM10 Total 0-10um STP" 35.015625 202
+"2006" "10" "Los Angeles" "PM10 Total 0-10um STP" 27.3030303030303 188
+"2006" "11" "Los Angeles" "PM10 Total 0-10um STP" 28.7076923076923 219
+"2006" "12" "Los Angeles" "PM10 Total 0-10um STP" 29.6315789473684 258
+"2007" "1" "Los Angeles" "PM10 Total 0-10um STP" 28.3898305084746 258
+"2007" "2" "Los Angeles" "PM10 Total 0-10um STP" 16.8947368421053 286
+"2007" "3" "Los Angeles" "PM10 Total 0-10um STP" 28.7209302325581 297
+"2007" "4" "Los Angeles" "PM10 Total 0-10um STP" 52.5 245
+"2007" "5" "Los Angeles" "PM10 Total 0-10um STP" 31.5675675675676 227
+"2007" "6" "Los Angeles" "PM10 Total 0-10um STP" 32.0566037735849 225
+"2007" "7" "Los Angeles" "PM10 Total 0-10um STP" 32.5593220338983 210
+"2007" "8" "Los Angeles" "PM10 Total 0-10um STP" 31.7931034482759 200
+"2007" "9" "Los Angeles" "PM10 Total 0-10um STP" 26.8974358974359 204
+"2007" "10" "Los Angeles" "PM10 Total 0-10um STP" 45.8055555555556 213
+"2007" "11" "Los Angeles" "PM10 Total 0-10um STP" 35.3387096774194 215
+"2007" "12" "Los Angeles" "PM10 Total 0-10um STP" 20.3802816901408 230
+"2008" "1" "Los Angeles" "PM10 Total 0-10um STP" 18.5053191489362 326
+"2008" "2" "Los Angeles" "PM10 Total 0-10um STP" 22.1988636363636 357
+"2008" "3" "Los Angeles" "PM10 Total 0-10um STP" 27.8855721393035 317
+"2008" "4" "Los Angeles" "PM10 Total 0-10um STP" 32.4224598930481 286
+"2008" "5" "Los Angeles" "PM10 Total 0-10um STP" 33.3297872340426 257
+"2008" "6" "Los Angeles" "PM10 Total 0-10um STP" 38.9883720930233 241
+"2008" "7" "Los Angeles" "PM10 Total 0-10um STP" 35.9728260869565 229
+"2008" "8" "Los Angeles" "PM10 Total 0-10um STP" 30.9259259259259 220
+"2008" "9" "Los Angeles" "PM10 Total 0-10um STP" 31.7898089171975 192
+"2008" "10" "Los Angeles" "PM10 Total 0-10um STP" 37.8515625 198
+"2008" "11" "Los Angeles" "PM10 Total 0-10um STP" 32.0551181102362 220
+"2008" "12" "Los Angeles" "PM10 Total 0-10um STP" 24.5483870967742 239
+"2009" "1" "Los Angeles" "PM10 Total 0-10um STP" 27.9390243902439 280
+"2009" "2" "Los Angeles" "PM10 Total 0-10um STP" 17.5663716814159 283
+"2009" "3" "Los Angeles" "PM10 Total 0-10um STP" 27.864 291
+"2009" "4" "Los Angeles" "PM10 Total 0-10um STP" 30.7450980392157 270
+"2009" "5" "Los Angeles" "PM10 Total 0-10um STP" 33.0441176470588 257
+"2009" "6" "Los Angeles" "PM10 Total 0-10um STP" 23.244094488189 261
+"2009" "7" "Los Angeles" "PM10 Total 0-10um STP" 31.6015625 226
+"2009" "8" "Los Angeles" "PM10 Total 0-10um STP" 33.9770992366412 216
+"2009" "9" "Los Angeles" "PM10 Total 0-10um STP" 36.7686567164179 196
+"2009" "10" "Los Angeles" "PM10 Total 0-10um STP" 35.248322147651 286
+"2009" "11" "Los Angeles" "PM10 Total 0-10um STP" 31.5135135135135 254
+"2009" "12" "Los Angeles" "PM10 Total 0-10um STP" 24.0755813953488 263
+"2010" "1" "Los Angeles" "PM10 Total 0-10um STP" 21.271186440678 273
+"2010" "2" "Los Angeles" "PM10 Total 0-10um STP" 18.7118644067797 262
+"2010" "3" "Los Angeles" "PM10 Total 0-10um STP" 23.0621468926554 291
+"2010" "4" "Los Angeles" "PM10 Total 0-10um STP" 21.2283464566929 244
+"2010" "5" "Los Angeles" "PM10 Total 0-10um STP" 26.5 253
+"2010" "6" "Los Angeles" "PM10 Total 0-10um STP" 29.8963414634146 179
+"2010" "7" "Los Angeles" "PM10 Total 0-10um STP" 28.7286432160804 206
+"2010" "8" "Los Angeles" "PM10 Total 0-10um STP" 30.037037037037 226
+"2010" "9" "Los Angeles" "PM10 Total 0-10um STP" 29.9637305699482 218
+"2010" "10" "Los Angeles" "PM10 Total 0-10um STP" 21.1451612903226 190
+"2010" "11" "Los Angeles" "PM10 Total 0-10um STP" 20.0213903743315 230
+"2010" "12" "Los Angeles" "PM10 Total 0-10um STP" 20.8343949044586 231
+"2011" "1" "Los Angeles" "PM10 Total 0-10um STP" 24.1444444444444 304
+"2011" "2" "Los Angeles" "PM10 Total 0-10um STP" 19.9825581395349 282
+"2011" "3" "Los Angeles" "PM10 Total 0-10um STP" 19.3915662650602 336
+"2011" "4" "Los Angeles" "PM10 Total 0-10um STP" 25.0572916666667 307
+"2011" "5" "Los Angeles" "PM10 Total 0-10um STP" 25.8983957219251 254
+"2011" "6" "Los Angeles" "PM10 Total 0-10um STP" 26.5317919075144 223
+"2011" "7" "Los Angeles" "PM10 Total 0-10um STP" 30.0366492146597 229
+"2011" "8" "Los Angeles" "PM10 Total 0-10um STP" 31.5233160621762 227
+"2011" "9" "Los Angeles" "PM10 Total 0-10um STP" 32.0909090909091 175
+"2011" "10" "Los Angeles" "PM10 Total 0-10um STP" 27.6234567901235 237
+"2011" "11" "Los Angeles" "PM10 Total 0-10um STP" 22.9166666666667 227
+"2011" "12" "Los Angeles" "PM10 Total 0-10um STP" 28.4550898203593 281
+"2012" "1" "Los Angeles" "PM10 Total 0-10um STP" 24.9636363636364 258
+"2012" "2" "Los Angeles" "PM10 Total 0-10um STP" 19.8129032258065 271
+"2012" "3" "Los Angeles" "PM10 Total 0-10um STP" 21.4295302013423 291
+"2012" "4" "Los Angeles" "PM10 Total 0-10um STP" 24.064 273
+"2012" "5" "Los Angeles" "PM10 Total 0-10um STP" 33.0078125 230
+"2012" "6" "Los Angeles" "PM10 Total 0-10um STP" 30.5116279069767 197
+"2012" "7" "Los Angeles" "PM10 Total 0-10um STP" 28.1 225
+"2012" "8" "Los Angeles" "PM10 Total 0-10um STP" 32.1870503597122 185
+"2012" "9" "Los Angeles" "PM10 Total 0-10um STP" 31.08 193
+"2012" "10" "Los Angeles" "PM10 Total 0-10um STP" 26.9698795180723 198
+"2012" "11" "Los Angeles" "PM10 Total 0-10um STP" 23.8930817610063 220
+"2012" "12" "Los Angeles" "PM10 Total 0-10um STP" 20.1975308641975 253
+"2013" "1" "Los Angeles" "PM10 Total 0-10um STP" 21.6623376623377 360
+"2013" "2" "Los Angeles" "PM10 Total 0-10um STP" 22.5103448275862 351
+"2013" "3" "Los Angeles" "PM10 Total 0-10um STP" 26.5096774193548 284
+"2013" "4" "Los Angeles" "PM10 Total 0-10um STP" 28.9934640522876 264
+"2013" "5" "Los Angeles" "PM10 Total 0-10um STP" 33.9203539823009 215
+"2013" "6" "Los Angeles" "PM10 Total 0-10um STP" 29.3921568627451 215
+"2013" "7" "Los Angeles" "PM10 Total 0-10um STP" 28.7393939393939 223
+"2013" "8" "Los Angeles" "PM10 Total 0-10um STP" 27.8278145695364 196
+"2013" "9" "Los Angeles" "PM10 Total 0-10um STP" 27.5806451612903 184
+"2013" "10" "Los Angeles" "PM10 Total 0-10um STP" 29.484375 214
+"2013" "11" "Los Angeles" "PM10 Total 0-10um STP" 23.4117647058824 248
+"2013" "12" "Los Angeles" "PM10 Total 0-10um STP" 22.648 256
+"2014" "1" "Los Angeles" "PM10 Total 0-10um STP" 32.5984251968504 316
+"2014" "2" "Los Angeles" "PM10 Total 0-10um STP" 23.0434782608696 253
+"2014" "3" "Los Angeles" "PM10 Total 0-10um STP" 25.5546875 256
+"2014" "4" "Los Angeles" "PM10 Total 0-10um STP" 26.7603305785124 234
+"2014" "5" "Los Angeles" "PM10 Total 0-10um STP" 30.212962962963 221
+"2014" "6" "Los Angeles" "PM10 Total 0-10um STP" 32.25 220
+"2014" "7" "Los Angeles" "PM10 Total 0-10um STP" 33.6333333333333 197
+"2014" "8" "Los Angeles" "PM10 Total 0-10um STP" 31.8571428571429 232
+"2014" "9" "Los Angeles" "PM10 Total 0-10um STP" 30.8888888888889 213
+"2014" "10" "Los Angeles" "PM10 Total 0-10um STP" 32.9090909090909 197
+"2014" "11" "Los Angeles" "PM10 Total 0-10um STP" 21.8863636363636 211
+"2014" "12" "Los Angeles" "PM10 Total 0-10um STP" 17.4555555555556 278
+"2015" "1" "Los Angeles" "PM10 Total 0-10um STP" 22.3516483516484 358
+"2015" "2" "Los Angeles" "PM10 Total 0-10um STP" 24.6282051282051 284
+"2015" "3" "Los Angeles" "PM10 Total 0-10um STP" 22.5894736842105 297
+"2015" "4" "Los Angeles" "PM10 Total 0-10um STP" 26.6966292134831 254
+"2015" "5" "Los Angeles" "PM10 Total 0-10um STP" 22.043956043956 276
+"2015" "6" "Los Angeles" "PM10 Total 0-10um STP" 27.6551724137931 212
+"2015" "7" "Los Angeles" "PM10 Total 0-10um STP" 24.7931034482759 205
+"2015" "8" "Los Angeles" "PM10 Total 0-10um STP" 33.8241758241758 220
+"2015" "9" "Los Angeles" "PM10 Total 0-10um STP" 29.0337078651685 220
+"2015" "10" "Los Angeles" "PM10 Total 0-10um STP" 25.9222222222222 207
+"2015" "11" "Los Angeles" "PM10 Total 0-10um STP" 17.4659090909091 226
+"2015" "12" "Los Angeles" "PM10 Total 0-10um STP" 18.9130434782609 280
+"2016" "1" "Los Angeles" "PM10 Total 0-10um STP" 17.0721649484536 326
+"2016" "2" "Los Angeles" "PM10 Total 0-10um STP" 20.5903614457831 351
+"2016" "3" "Los Angeles" "PM10 Total 0-10um STP" 24.1170212765957 344
+"2016" "4" "Los Angeles" "PM10 Total 0-10um STP" 24.4222222222222 281
+"2016" "5" "Los Angeles" "PM10 Total 0-10um STP" 23.3913043478261 252
+"2016" "6" "Los Angeles" "PM10 Total 0-10um STP" 33.0111111111111 223
+"2016" "7" "Los Angeles" "PM10 Total 0-10um STP" 38.6413043478261 225
+"2016" "8" "Los Angeles" "PM10 Total 0-10um STP" 33.7717391304348 227
+"2016" "9" "Los Angeles" "PM10 Total 0-10um STP" 33.9662921348315 199
+"2016" "10" "Los Angeles" "PM10 Total 0-10um STP" 27.9772727272727 241
+"2016" "11" "Los Angeles" "PM10 Total 0-10um STP" 25.2386363636364 227
+"2016" "12" "Los Angeles" "PM10 Total 0-10um STP" 24.9411764705882 283
+"2017" "1" "Los Angeles" "PM10 Total 0-10um STP" 14.2368421052632 365
+"2017" "2" "Los Angeles" "PM10 Total 0-10um STP" 13.3461538461538 287
+"2017" "3" "Los Angeles" "PM10 Total 0-10um STP" 21.0666666666667 283
+"2017" "4" "Los Angeles" "PM10 Total 0-10um STP" 25.1294117647059 290
+"2017" "5" "Los Angeles" "PM10 Total 0-10um STP" 26.9462365591398 264
+"2017" "6" "Los Angeles" "PM10 Total 0-10um STP" 31.2888888888889 222
+"2017" "7" "Los Angeles" "PM10 Total 0-10um STP" 36.3636363636364 227
+"2017" "8" "Los Angeles" "PM10 Total 0-10um STP" 37.0333333333333 222
+"2017" "9" "Los Angeles" "PM10 Total 0-10um STP" 28.906976744186 226
+"2017" "10" "Los Angeles" "PM10 Total 0-10um STP" 36.5697674418605 224
+"2017" "11" "Los Angeles" "PM10 Total 0-10um STP" 25.5974025974026 222
+"2017" "12" "Los Angeles" "PM10 Total 0-10um STP" 34.7441860465116 297
+"2018" "1" "Los Angeles" "PM10 Total 0-10um STP" 22.0365853658537 395
+"2018" "2" "Los Angeles" "PM10 Total 0-10um STP" 24.3066666666667 305
+"2018" "3" "Los Angeles" "PM10 Total 0-10um STP" 14.4823529411765 323
+"2018" "4" "Los Angeles" "PM10 Total 0-10um STP" 27.9058823529412 248
+"2018" "5" "Los Angeles" "PM10 Total 0-10um STP" 24.1764705882353 240
+"2018" "6" "Los Angeles" "PM10 Total 0-10um STP" 32.1724137931034 214
+"2018" "7" "Los Angeles" "PM10 Total 0-10um STP" 35.4583333333333 240
+"2018" "8" "Los Angeles" "PM10 Total 0-10um STP" 35.8314606741573 219
+"2018" "9" "Los Angeles" "PM10 Total 0-10um STP" 34.0121951219512 198
+"2018" "10" "Los Angeles" "PM10 Total 0-10um STP" 26.4782608695652 223
+"2018" "11" "Los Angeles" "PM10 Total 0-10um STP" 24.0337078651685 227
+"2018" "12" "Los Angeles" "PM10 Total 0-10um STP" 17.2333333333333 277
+"2004" "1" "San Diego" "PM10 Total 0-10um STP" 38.4193548387097 149
+"2004" "10" "San Diego" "PM10 Total 0-10um STP" 29.5333333333333 70
+"2004" "11" "San Diego" "PM10 Total 0-10um STP" 36.0333333333333 85
+"2004" "12" "San Diego" "PM10 Total 0-10um STP" 27.5 104
+"2004" "2" "San Diego" "PM10 Total 0-10um STP" 26.9117647058824 113
+"2004" "3" "San Diego" "PM10 Total 0-10um STP" 38.258064516129 116
+"2004" "4" "San Diego" "PM10 Total 0-10um STP" 35.6 99
+"2004" "5" "San Diego" "PM10 Total 0-10um STP" 35.3666666666667 73
+"2004" "6" "San Diego" "PM10 Total 0-10um STP" 33.2903225806452 67
+"2004" "7" "San Diego" "PM10 Total 0-10um STP" 27.7 67
+"2004" "8" "San Diego" "PM10 Total 0-10um STP" 28.1428571428571 72
+"2004" "9" "San Diego" "PM10 Total 0-10um STP" 31.4285714285714 57
+"2005" "1" "San Diego" "PM10 Total 0-10um STP" 24.1142857142857 115
+"2005" "10" "San Diego" "PM10 Total 0-10um STP" 45.1860465116279 85
+"2005" "11" "San Diego" "PM10 Total 0-10um STP" 34.8888888888889 93
+"2005" "12" "San Diego" "PM10 Total 0-10um STP" 43.0909090909091 130
+"2005" "2" "San Diego" "PM10 Total 0-10um STP" 22.35 90
+"2005" "3" "San Diego" "PM10 Total 0-10um STP" 27.7073170731707 107
+"2005" "4" "San Diego" "PM10 Total 0-10um STP" 27.7560975609756 90
+"2005" "5" "San Diego" "PM10 Total 0-10um STP" 28.2307692307692 106
+"2005" "6" "San Diego" "PM10 Total 0-10um STP" 25.5526315789474 81
+"2005" "7" "San Diego" "PM10 Total 0-10um STP" 31.775 81
+"2005" "8" "San Diego" "PM10 Total 0-10um STP" 27.7027027027027 97
+"2005" "9" "San Diego" "PM10 Total 0-10um STP" 36.7058823529412 67
+"2006" "1" "San Diego" "PM10 Total 0-10um STP" 39.1176470588235 100
+"2006" "10" "San Diego" "PM10 Total 0-10um STP" 29.2352941176471 88
+"2006" "11" "San Diego" "PM10 Total 0-10um STP" 38.9722222222222 74
+"2006" "12" "San Diego" "PM10 Total 0-10um STP" 39.8139534883721 76
+"2006" "2" "San Diego" "PM10 Total 0-10um STP" 35 118
+"2006" "3" "San Diego" "PM10 Total 0-10um STP" 22.9142857142857 89
+"2006" "4" "San Diego" "PM10 Total 0-10um STP" 15.375 109
+"2006" "5" "San Diego" "PM10 Total 0-10um STP" 28.4827586206897 92
+"2006" "6" "San Diego" "PM10 Total 0-10um STP" 34.3214285714286 90
+"2006" "7" "San Diego" "PM10 Total 0-10um STP" 28.8125 83
+"2006" "8" "San Diego" "PM10 Total 0-10um STP" 25.6571428571429 82
+"2006" "9" "San Diego" "PM10 Total 0-10um STP" 31.2285714285714 71
+"2007" "1" "San Diego" "PM10 Total 0-10um STP" 28.6 120
+"2007" "10" "San Diego" "PM10 Total 0-10um STP" 72.0961538461538 83
+"2007" "11" "San Diego" "PM10 Total 0-10um STP" 51.6944444444444 89
+"2007" "12" "San Diego" "PM10 Total 0-10um STP" 22.6153846153846 66
+"2007" "2" "San Diego" "PM10 Total 0-10um STP" 22.96875 91
+"2007" "3" "San Diego" "PM10 Total 0-10um STP" 28.4390243902439 99
+"2007" "4" "San Diego" "PM10 Total 0-10um STP" 30.5833333333333 106
+"2007" "5" "San Diego" "PM10 Total 0-10um STP" 24.1714285714286 80
+"2007" "6" "San Diego" "PM10 Total 0-10um STP" 30.4411764705882 81
+"2007" "7" "San Diego" "PM10 Total 0-10um STP" 23.6944444444444 68
+"2007" "8" "San Diego" "PM10 Total 0-10um STP" 31.3157894736842 82
+"2007" "9" "San Diego" "PM10 Total 0-10um STP" 32.5 70
+"2008" "1" "San Diego" "PM10 Total 0-10um STP" 26.063829787234 108
+"2008" "10" "San Diego" "PM10 Total 0-10um STP" 38.3260869565217 70
+"2008" "11" "San Diego" "PM10 Total 0-10um STP" 27.7948717948718 63
+"2008" "12" "San Diego" "PM10 Total 0-10um STP" 22.3720930232558 86
+"2008" "2" "San Diego" "PM10 Total 0-10um STP" 34.7714285714286 113
+"2008" "3" "San Diego" "PM10 Total 0-10um STP" 30.82 137
+"2008" "4" "San Diego" "PM10 Total 0-10um STP" 28.7073170731707 111
+"2008" "5" "San Diego" "PM10 Total 0-10um STP" 23 75
+"2008" "6" "San Diego" "PM10 Total 0-10um STP" 33.4545454545455 67
+"2008" "7" "San Diego" "PM10 Total 0-10um STP" 29.4444444444444 86
+"2008" "8" "San Diego" "PM10 Total 0-10um STP" 23.3023255813953 79
+"2008" "9" "San Diego" "PM10 Total 0-10um STP" 26.5333333333333 72
+"2009" "1" "San Diego" "PM10 Total 0-10um STP" 27.6481481481481 88
+"2009" "10" "San Diego" "PM10 Total 0-10um STP" 37.4285714285714 69
+"2009" "11" "San Diego" "PM10 Total 0-10um STP" 34.3777777777778 98
+"2009" "12" "San Diego" "PM10 Total 0-10um STP" 28.8666666666667 81
+"2009" "2" "San Diego" "PM10 Total 0-10um STP" 17.0555555555556 81
+"2009" "3" "San Diego" "PM10 Total 0-10um STP" 28.3333333333333 121
+"2009" "4" "San Diego" "PM10 Total 0-10um STP" 30.4318181818182 93
+"2009" "5" "San Diego" "PM10 Total 0-10um STP" 31.962962962963 77
+"2009" "6" "San Diego" "PM10 Total 0-10um STP" 22.5813953488372 69
+"2009" "7" "San Diego" "PM10 Total 0-10um STP" 28.9318181818182 70
+"2009" "8" "San Diego" "PM10 Total 0-10um STP" 34.225 70
+"2009" "9" "San Diego" "PM10 Total 0-10um STP" 34.9268292682927 62
+"2010" "1" "San Diego" "PM10 Total 0-10um STP" 26.0681818181818 115
+"2010" "10" "San Diego" "PM10 Total 0-10um STP" 23 75
+"2010" "11" "San Diego" "PM10 Total 0-10um STP" 21.1219512195122 65
+"2010" "12" "San Diego" "PM10 Total 0-10um STP" 25.5952380952381 97
+"2010" "2" "San Diego" "PM10 Total 0-10um STP" 21.3409090909091 95
+"2010" "3" "San Diego" "PM10 Total 0-10um STP" 23.2272727272727 121
+"2010" "4" "San Diego" "PM10 Total 0-10um STP" 19.5116279069767 108
+"2010" "5" "San Diego" "PM10 Total 0-10um STP" 25.6818181818182 98
+"2010" "6" "San Diego" "PM10 Total 0-10um STP" 25.3023255813953 83
+"2010" "7" "San Diego" "PM10 Total 0-10um STP" 22.9245283018868 88
+"2010" "8" "San Diego" "PM10 Total 0-10um STP" 27.8604651162791 81
+"2010" "9" "San Diego" "PM10 Total 0-10um STP" 25.7272727272727 68
+"2011" "1" "San Diego" "PM10 Total 0-10um STP" 22.2372881355932 134
+"2011" "10" "San Diego" "PM10 Total 0-10um STP" 22.5111111111111 67
+"2011" "11" "San Diego" "PM10 Total 0-10um STP" 27.08 61
+"2011" "12" "San Diego" "PM10 Total 0-10um STP" 27.4117647058824 111
+"2011" "2" "San Diego" "PM10 Total 0-10um STP" 19.8269230769231 95
+"2011" "3" "San Diego" "PM10 Total 0-10um STP" 22.2586206896552 123
+"2011" "4" "San Diego" "PM10 Total 0-10um STP" 22.5094339622642 81
+"2011" "5" "San Diego" "PM10 Total 0-10um STP" 22.46 84
+"2011" "6" "San Diego" "PM10 Total 0-10um STP" 19.280701754386 83
+"2011" "7" "San Diego" "PM10 Total 0-10um STP" 25.8222222222222 78
+"2011" "8" "San Diego" "PM10 Total 0-10um STP" 23.2115384615385 79
+"2011" "9" "San Diego" "PM10 Total 0-10um STP" 23.7446808510638 72
+"2012" "1" "San Diego" "PM10 Total 0-10um STP" 29.1052631578947 116
+"2012" "10" "San Diego" "PM10 Total 0-10um STP" 20.2884615384615 89
+"2012" "11" "San Diego" "PM10 Total 0-10um STP" 19.75 72
+"2012" "12" "San Diego" "PM10 Total 0-10um STP" 17.609375 113
+"2012" "2" "San Diego" "PM10 Total 0-10um STP" 25.6065573770492 78
+"2012" "3" "San Diego" "PM10 Total 0-10um STP" 24.140625 102
+"2012" "4" "San Diego" "PM10 Total 0-10um STP" 32.719298245614 92
+"2012" "5" "San Diego" "PM10 Total 0-10um STP" 32.280701754386 93
+"2012" "6" "San Diego" "PM10 Total 0-10um STP" 38.6 84
+"2012" "7" "San Diego" "PM10 Total 0-10um STP" 35.6065573770492 61
+"2012" "8" "San Diego" "PM10 Total 0-10um STP" 44.1052631578947 80
+"2012" "9" "San Diego" "PM10 Total 0-10um STP" 33.0491803278689 68
+"2013" "1" "San Diego" "PM10 Total 0-10um STP" 17.6326530612245 123
+"2013" "10" "San Diego" "PM10 Total 0-10um STP" 40.3428571428571 80
+"2013" "11" "San Diego" "PM10 Total 0-10um STP" 33.5087719298246 88
+"2013" "12" "San Diego" "PM10 Total 0-10um STP" 23.8269230769231 94
+"2013" "2" "San Diego" "PM10 Total 0-10um STP" 16.6666666666667 112
+"2013" "3" "San Diego" "PM10 Total 0-10um STP" 26.188679245283 119
+"2013" "4" "San Diego" "PM10 Total 0-10um STP" 37.4821428571429 100
+"2013" "5" "San Diego" "PM10 Total 0-10um STP" 48.2641509433962 89
+"2013" "6" "San Diego" "PM10 Total 0-10um STP" 39.7142857142857 74
+"2013" "7" "San Diego" "PM10 Total 0-10um STP" 34.0363636363636 77
+"2013" "8" "San Diego" "PM10 Total 0-10um STP" 31.1929824561403 71
+"2013" "9" "San Diego" "PM10 Total 0-10um STP" 34.3818181818182 87
+"2014" "1" "San Diego" "PM10 Total 0-10um STP" 28.6274509803922 109
+"2014" "10" "San Diego" "PM10 Total 0-10um STP" 23.0408163265306 75
+"2014" "11" "San Diego" "PM10 Total 0-10um STP" 19.6875 82
+"2014" "12" "San Diego" "PM10 Total 0-10um STP" 17.4727272727273 66
+"2014" "2" "San Diego" "PM10 Total 0-10um STP" 24.8958333333333 79
+"2014" "3" "San Diego" "PM10 Total 0-10um STP" 29.325 100
+"2014" "4" "San Diego" "PM10 Total 0-10um STP" 23.1578947368421 87
+"2014" "5" "San Diego" "PM10 Total 0-10um STP" 25.4615384615385 98
+"2014" "6" "San Diego" "PM10 Total 0-10um STP" 20.8108108108108 89
+"2014" "7" "San Diego" "PM10 Total 0-10um STP" 22.9047619047619 82
+"2014" "8" "San Diego" "PM10 Total 0-10um STP" 35.5652173913044 75
+"2014" "9" "San Diego" "PM10 Total 0-10um STP" 22.265306122449 64
+"2015" "1" "San Diego" "PM10 Total 0-10um STP" 19.1739130434783 123
+"2015" "10" "San Diego" "PM10 Total 0-10um STP" 23.0857142857143 67
+"2015" "11" "San Diego" "PM10 Total 0-10um STP" 16.2 73
+"2015" "12" "San Diego" "PM10 Total 0-10um STP" 19.7619047619048 98
+"2015" "2" "San Diego" "PM10 Total 0-10um STP" 22.3333333333333 109
+"2015" "3" "San Diego" "PM10 Total 0-10um STP" 21.8333333333333 96
+"2015" "4" "San Diego" "PM10 Total 0-10um STP" 21.7826086956522 86
+"2015" "5" "San Diego" "PM10 Total 0-10um STP" 16.3913043478261 69
+"2015" "6" "San Diego" "PM10 Total 0-10um STP" 21.5555555555556 79
+"2015" "7" "San Diego" "PM10 Total 0-10um STP" 15.1632653061224 73
+"2015" "8" "San Diego" "PM10 Total 0-10um STP" 24.58 81
+"2015" "9" "San Diego" "PM10 Total 0-10um STP" 24.4042553191489 70
+"2016" "1" "San Diego" "PM10 Total 0-10um STP" 13.8679245283019 111
+"2016" "10" "San Diego" "PM10 Total 0-10um STP" 26.2 71
+"2016" "11" "San Diego" "PM10 Total 0-10um STP" 25.2424242424242 92
+"2016" "12" "San Diego" "PM10 Total 0-10um STP" 23 99
+"2016" "2" "San Diego" "PM10 Total 0-10um STP" 19.6285714285714 105
+"2016" "3" "San Diego" "PM10 Total 0-10um STP" 20.1538461538462 111
+"2016" "4" "San Diego" "PM10 Total 0-10um STP" 20.9777777777778 85
+"2016" "5" "San Diego" "PM10 Total 0-10um STP" 12.8604651162791 98
+"2016" "6" "San Diego" "PM10 Total 0-10um STP" 24.8717948717949 65
+"2016" "7" "San Diego" "PM10 Total 0-10um STP" 28.0769230769231 76
+"2016" "8" "San Diego" "PM10 Total 0-10um STP" 23.075 63
+"2016" "9" "San Diego" "PM10 Total 0-10um STP" 26.1081081081081 89
+"2017" "1" "San Diego" "PM10 Total 0-10um STP" 17.8536585365854 89
+"2017" "10" "San Diego" "PM10 Total 0-10um STP" 29.8055555555556 72
+"2017" "11" "San Diego" "PM10 Total 0-10um STP" 24.4242424242424 80
+"2017" "12" "San Diego" "PM10 Total 0-10um STP" 30.8620689655172 115
+"2017" "2" "San Diego" "PM10 Total 0-10um STP" 13.5357142857143 97
+"2017" "3" "San Diego" "PM10 Total 0-10um STP" 20.90625 104
+"2017" "4" "San Diego" "PM10 Total 0-10um STP" 22.4242424242424 94
+"2017" "5" "San Diego" "PM10 Total 0-10um STP" 21.5365853658537 101
+"2017" "6" "San Diego" "PM10 Total 0-10um STP" 20.96875 87
+"2017" "7" "San Diego" "PM10 Total 0-10um STP" 20.7647058823529 71
+"2017" "8" "San Diego" "PM10 Total 0-10um STP" 23.6470588235294 67
+"2017" "9" "San Diego" "PM10 Total 0-10um STP" 23.5757575757576 65
+"2018" "1" "San Diego" "PM10 Total 0-10um STP" 24.2121212121212 123
+"2018" "10" "San Diego" "PM10 Total 0-10um STP" 22.5142857142857 69
+"2018" "11" "San Diego" "PM10 Total 0-10um STP" 24.03125 72
+"2018" "12" "San Diego" "PM10 Total 0-10um STP" 22 92
+"2018" "2" "San Diego" "PM10 Total 0-10um STP" 20.3714285714286 94
+"2018" "3" "San Diego" "PM10 Total 0-10um STP" 15.4242424242424 90
+"2018" "4" "San Diego" "PM10 Total 0-10um STP" 22 90
+"2018" "5" "San Diego" "PM10 Total 0-10um STP" 18.6571428571429 98
+"2018" "6" "San Diego" "PM10 Total 0-10um STP" 25.4285714285714 76
+"2018" "7" "San Diego" "PM10 Total 0-10um STP" 26.0540540540541 83
+"2018" "8" "San Diego" "PM10 Total 0-10um STP" 25.9714285714286 73
+"2018" "9" "San Diego" "PM10 Total 0-10um STP" 26.9142857142857 72
+"2004" "1" "Riverside" "PM10 Total 0-10um STP" 32.075 100
+"2004" "2" "Riverside" "PM10 Total 0-10um STP" 23.2105263157895 100
+"2004" "3" "Riverside" "PM10 Total 0-10um STP" 45.6904761904762 88
+"2004" "4" "Riverside" "PM10 Total 0-10um STP" 41.575 78
+"2004" "5" "Riverside" "PM10 Total 0-10um STP" 47.8780487804878 65
+"2004" "6" "Riverside" "PM10 Total 0-10um STP" 52.2105263157895 60
+"2004" "7" "Riverside" "PM10 Total 0-10um STP" 49.5897435897436 72
+"2004" "8" "Riverside" "PM10 Total 0-10um STP" 49.7272727272727 60
+"2004" "9" "Riverside" "PM10 Total 0-10um STP" 47.025 58
+"2004" "10" "Riverside" "PM10 Total 0-10um STP" 43.7435897435897 62
+"2004" "11" "Riverside" "PM10 Total 0-10um STP" 34.9487179487179 65
+"2004" "12" "Riverside" "PM10 Total 0-10um STP" 25.0540540540541 94
+"2005" "1" "Riverside" "PM10 Total 0-10um STP" 26.7142857142857 67
+"2005" "2" "Riverside" "PM10 Total 0-10um STP" 21.2162162162162 73
+"2005" "3" "Riverside" "PM10 Total 0-10um STP" 30.3783783783784 90
+"2005" "4" "Riverside" "PM10 Total 0-10um STP" 40.2564102564103 72
+"2005" "5" "Riverside" "PM10 Total 0-10um STP" 40.9523809523809 90
+"2005" "6" "Riverside" "PM10 Total 0-10um STP" 45.1428571428571 60
+"2005" "7" "Riverside" "PM10 Total 0-10um STP" 52.25 67
+"2005" "8" "Riverside" "PM10 Total 0-10um STP" 48.75 74
+"2005" "9" "Riverside" "PM10 Total 0-10um STP" 46.8157894736842 64
+"2005" "10" "Riverside" "PM10 Total 0-10um STP" 40.0222222222222 78
+"2005" "11" "Riverside" "PM10 Total 0-10um STP" 42.8888888888889 62
+"2005" "12" "Riverside" "PM10 Total 0-10um STP" 41.5609756097561 135
+"2006" "1" "Riverside" "PM10 Total 0-10um STP" 42.1428571428571 106
+"2006" "2" "Riverside" "PM10 Total 0-10um STP" 46.3 99
+"2006" "3" "Riverside" "PM10 Total 0-10um STP" 25.4888888888889 71
+"2006" "4" "Riverside" "PM10 Total 0-10um STP" 29.3913043478261 60
+"2006" "5" "Riverside" "PM10 Total 0-10um STP" 51.0697674418605 83
+"2006" "6" "Riverside" "PM10 Total 0-10um STP" 61.9523809523809 52
+"2006" "7" "Riverside" "PM10 Total 0-10um STP" 72.4313725490196 69
+"2006" "8" "Riverside" "PM10 Total 0-10um STP" 54.7727272727273 45
+"2006" "9" "Riverside" "PM10 Total 0-10um STP" 57.25 63
+"2006" "10" "Riverside" "PM10 Total 0-10um STP" 55.2127659574468 57
+"2006" "11" "Riverside" "PM10 Total 0-10um STP" 55.7560975609756 79
+"2006" "12" "Riverside" "PM10 Total 0-10um STP" 44.5535714285714 69
+"2007" "1" "Riverside" "PM10 Total 0-10um STP" 36.4509803921569 105
+"2007" "2" "Riverside" "PM10 Total 0-10um STP" 42.672131147541 94
+"2007" "3" "Riverside" "PM10 Total 0-10um STP" 45.5731707317073 103
+"2007" "4" "Riverside" "PM10 Total 0-10um STP" 59.5970149253731 86
+"2007" "5" "Riverside" "PM10 Total 0-10um STP" 63.7236842105263 92
+"2007" "6" "Riverside" "PM10 Total 0-10um STP" 72.2535211267606 62
+"2007" "7" "Riverside" "PM10 Total 0-10um STP" 78.5714285714286 68
+"2007" "8" "Riverside" "PM10 Total 0-10um STP" 67.9193548387097 63
+"2007" "9" "Riverside" "PM10 Total 0-10um STP" 50.9833333333333 54
+"2007" "10" "Riverside" "PM10 Total 0-10um STP" 141.647058823529 62
+"2007" "11" "Riverside" "PM10 Total 0-10um STP" 58.7173913043478 79
+"2007" "12" "Riverside" "PM10 Total 0-10um STP" 26.0294117647059 86
+"2008" "1" "Riverside" "PM10 Total 0-10um STP" 22.9638009049774 88
+"2008" "2" "Riverside" "PM10 Total 0-10um STP" 30.0579710144928 118
+"2008" "3" "Riverside" "PM10 Total 0-10um STP" 44.1310043668122 108
+"2008" "4" "Riverside" "PM10 Total 0-10um STP" 51.3700440528634 87
+"2008" "5" "Riverside" "PM10 Total 0-10um STP" 42.2164502164502 75
+"2008" "6" "Riverside" "PM10 Total 0-10um STP" 58.2522123893805 62
+"2008" "7" "Riverside" "PM10 Total 0-10um STP" 53.7196261682243 59
+"2008" "8" "Riverside" "PM10 Total 0-10um STP" 49.1548672566372 57
+"2008" "9" "Riverside" "PM10 Total 0-10um STP" 41.3240223463687 56
+"2008" "10" "Riverside" "PM10 Total 0-10um STP" 51.7244897959184 63
+"2008" "11" "Riverside" "PM10 Total 0-10um STP" 38.3318181818182 70
+"2008" "12" "Riverside" "PM10 Total 0-10um STP" 25.9781659388646 71
+"2009" "1" "Riverside" "PM10 Total 0-10um STP" 27.3096234309623 82
+"2009" "2" "Riverside" "PM10 Total 0-10um STP" 22.5566502463054 75
+"2009" "3" "Riverside" "PM10 Total 0-10um STP" 33.9791666666667 85
+"2009" "4" "Riverside" "PM10 Total 0-10um STP" 40.1101694915254 81
+"2009" "5" "Riverside" "PM10 Total 0-10um STP" 45.6324786324786 80
+"2009" "6" "Riverside" "PM10 Total 0-10um STP" 37.6699507389163 66
+"2009" "7" "Riverside" "PM10 Total 0-10um STP" 51.74 52
+"2009" "8" "Riverside" "PM10 Total 0-10um STP" 42.2236286919831 52
+"2009" "9" "Riverside" "PM10 Total 0-10um STP" 44.6739130434783 58
+"2009" "10" "Riverside" "PM10 Total 0-10um STP" 38.704641350211 81
+"2009" "11" "Riverside" "PM10 Total 0-10um STP" 36.652719665272 59
+"2009" "12" "Riverside" "PM10 Total 0-10um STP" 25.3138075313808 81
+"2010" "1" "Riverside" "PM10 Total 0-10um STP" 23.2479674796748 88
+"2010" "2" "Riverside" "PM10 Total 0-10um STP" 22.0491071428571 87
+"2010" "3" "Riverside" "PM10 Total 0-10um STP" 27.3177966101695 89
+"2010" "4" "Riverside" "PM10 Total 0-10um STP" 34.014598540146 83
+"2010" "5" "Riverside" "PM10 Total 0-10um STP" 32.5142857142857 79
+"2010" "6" "Riverside" "PM10 Total 0-10um STP" 37.8927038626609 64
+"2010" "7" "Riverside" "PM10 Total 0-10um STP" 37.2928870292887 65
+"2010" "8" "Riverside" "PM10 Total 0-10um STP" 46.3699633699634 64
+"2010" "9" "Riverside" "PM10 Total 0-10um STP" 43.3970588235294 64
+"2010" "10" "Riverside" "PM10 Total 0-10um STP" 25.9676258992806 56
+"2010" "11" "Riverside" "PM10 Total 0-10um STP" 27.0257352941176 68
+"2010" "12" "Riverside" "PM10 Total 0-10um STP" 23.3725490196078 91
+"2011" "1" "Riverside" "PM10 Total 0-10um STP" 29.1103202846975 84
+"2011" "2" "Riverside" "PM10 Total 0-10um STP" 25.5762081784387 106
+"2011" "3" "Riverside" "PM10 Total 0-10um STP" 28.9153094462541 107
+"2011" "4" "Riverside" "PM10 Total 0-10um STP" 34.1151315789474 77
+"2011" "5" "Riverside" "PM10 Total 0-10um STP" 35.5684931506849 75
+"2011" "6" "Riverside" "PM10 Total 0-10um STP" 37.140625 83
+"2011" "7" "Riverside" "PM10 Total 0-10um STP" 48.2320819112628 71
+"2011" "8" "Riverside" "PM10 Total 0-10um STP" 49.8290909090909 79
+"2011" "9" "Riverside" "PM10 Total 0-10um STP" 42.2835249042146 80
+"2011" "10" "Riverside" "PM10 Total 0-10um STP" 38.5641025641026 67
+"2011" "11" "Riverside" "PM10 Total 0-10um STP" 29.1204819277108 70
+"2011" "12" "Riverside" "PM10 Total 0-10um STP" 29.0274509803922 81
+"2012" "1" "Riverside" "PM10 Total 0-10um STP" 31.834008097166 103
+"2012" "2" "Riverside" "PM10 Total 0-10um STP" 24.4525862068966 92
+"2012" "3" "Riverside" "PM10 Total 0-10um STP" 28.3861788617886 87
+"2012" "4" "Riverside" "PM10 Total 0-10um STP" 29.0343347639485 81
+"2012" "5" "Riverside" "PM10 Total 0-10um STP" 44.330612244898 96
+"2012" "6" "Riverside" "PM10 Total 0-10um STP" 47.131455399061 65
+"2012" "7" "Riverside" "PM10 Total 0-10um STP" 39.7619047619048 67
+"2012" "8" "Riverside" "PM10 Total 0-10um STP" 42.3137254901961 63
+"2012" "9" "Riverside" "PM10 Total 0-10um STP" 40.5550847457627 72
+"2012" "10" "Riverside" "PM10 Total 0-10um STP" 33.6265560165975 61
+"2012" "11" "Riverside" "PM10 Total 0-10um STP" 28.929648241206 77
+"2012" "12" "Riverside" "PM10 Total 0-10um STP" 22.4666666666667 82
+"2013" "1" "Riverside" "PM10 Total 0-10um STP" 23.7991803278689 110
+"2013" "2" "Riverside" "PM10 Total 0-10um STP" 22.3807339449541 107
+"2013" "3" "Riverside" "PM10 Total 0-10um STP" 32.8163265306122 88
+"2013" "4" "Riverside" "PM10 Total 0-10um STP" 50.5748031496063 87
+"2013" "5" "Riverside" "PM10 Total 0-10um STP" 42.5591836734694 67
+"2013" "6" "Riverside" "PM10 Total 0-10um STP" 39.5913461538462 68
+"2013" "7" "Riverside" "PM10 Total 0-10um STP" 39.5919282511211 79
+"2013" "8" "Riverside" "PM10 Total 0-10um STP" 46.3705357142857 88
+"2013" "9" "Riverside" "PM10 Total 0-10um STP" 45.6814516129032 70
+"2013" "10" "Riverside" "PM10 Total 0-10um STP" 45.1468253968254 79
+"2013" "11" "Riverside" "PM10 Total 0-10um STP" 29.8526785714286 71
+"2013" "12" "Riverside" "PM10 Total 0-10um STP" 29.343347639485 84
+"2014" "1" "Riverside" "PM10 Total 0-10um STP" 44.3628691983122 120
+"2014" "2" "Riverside" "PM10 Total 0-10um STP" 35.8520179372197 95
+"2014" "3" "Riverside" "PM10 Total 0-10um STP" 43.1942148760331 97
+"2014" "4" "Riverside" "PM10 Total 0-10um STP" 44.5822784810127 75
+"2014" "5" "Riverside" "PM10 Total 0-10um STP" 47.2731092436975 76
+"2014" "6" "Riverside" "PM10 Total 0-10um STP" 55.9869565217391 63
+"2014" "7" "Riverside" "PM10 Total 0-10um STP" 46.0762711864407 65
+"2014" "8" "Riverside" "PM10 Total 0-10um STP" 45.7857142857143 53
+"2014" "9" "Riverside" "PM10 Total 0-10um STP" 39.677130044843 74
+"2014" "10" "Riverside" "PM10 Total 0-10um STP" 42.9051724137931 73
+"2014" "11" "Riverside" "PM10 Total 0-10um STP" 34.0905172413793 72
+"2014" "12" "Riverside" "PM10 Total 0-10um STP" 23.3211009174312 91
+"2015" "1" "Riverside" "PM10 Total 0-10um STP" 26.5087719298246 122
+"2015" "2" "Riverside" "PM10 Total 0-10um STP" 33.01 101
+"2015" "3" "Riverside" "PM10 Total 0-10um STP" 29.4467005076142 98
+"2015" "4" "Riverside" "PM10 Total 0-10um STP" 40.9947643979058 107
+"2015" "5" "Riverside" "PM10 Total 0-10um STP" 40.3799126637555 87
+"2015" "6" "Riverside" "PM10 Total 0-10um STP" 46.4823008849558 89
+"2015" "7" "Riverside" "PM10 Total 0-10um STP" 52.822641509434 76
+"2015" "8" "Riverside" "PM10 Total 0-10um STP" 48.2272727272727 67
+"2015" "9" "Riverside" "PM10 Total 0-10um STP" 46.1857707509881 58
+"2015" "10" "Riverside" "PM10 Total 0-10um STP" 33.4549356223176 75
+"2015" "11" "Riverside" "PM10 Total 0-10um STP" 35.986301369863 79
+"2015" "12" "Riverside" "PM10 Total 0-10um STP" 36.8728813559322 83
+"2016" "1" "Riverside" "PM10 Total 0-10um STP" 23.7777777777778 107
+"2016" "2" "Riverside" "PM10 Total 0-10um STP" 29.4181818181818 84
+"2016" "3" "Riverside" "PM10 Total 0-10um STP" 38.8030888030888 130
+"2016" "4" "Riverside" "PM10 Total 0-10um STP" 38.7460317460317 96
+"2016" "5" "Riverside" "PM10 Total 0-10um STP" 40.078125 90
+"2016" "6" "Riverside" "PM10 Total 0-10um STP" 48.4803493449782 50
+"2016" "7" "Riverside" "PM10 Total 0-10um STP" 64.53515625 70
+"2016" "8" "Riverside" "PM10 Total 0-10um STP" 47.6837944664032 67
+"2016" "9" "Riverside" "PM10 Total 0-10um STP" 49.2543103448276 57
+"2016" "10" "Riverside" "PM10 Total 0-10um STP" 40.3989898989899 87
+"2016" "11" "Riverside" "PM10 Total 0-10um STP" 31.7291666666667 86
+"2016" "12" "Riverside" "PM10 Total 0-10um STP" 28.8140703517588 81
+"2017" "1" "Riverside" "PM10 Total 0-10um STP" 15.5315315315315 104
+"2017" "2" "Riverside" "PM10 Total 0-10um STP" 22.1298076923077 98
+"2017" "3" "Riverside" "PM10 Total 0-10um STP" 31.1934156378601 97
+"2017" "4" "Riverside" "PM10 Total 0-10um STP" 36.0401606425703 82
+"2017" "5" "Riverside" "PM10 Total 0-10um STP" 38.2277992277992 83
+"2017" "6" "Riverside" "PM10 Total 0-10um STP" 42.5063829787234 88
+"2017" "7" "Riverside" "PM10 Total 0-10um STP" 44.2964601769912 76
+"2017" "8" "Riverside" "PM10 Total 0-10um STP" 41.4677419354839 60
+"2017" "9" "Riverside" "PM10 Total 0-10um STP" 37.0740740740741 76
+"2017" "10" "Riverside" "PM10 Total 0-10um STP" 46.3147410358566 63
+"2017" "11" "Riverside" "PM10 Total 0-10um STP" 41.4453441295547 68
+"2017" "12" "Riverside" "PM10 Total 0-10um STP" 44.9411764705882 89
+"2018" "1" "Riverside" "PM10 Total 0-10um STP" 27.7007874015748 159
+"2018" "2" "Riverside" "PM10 Total 0-10um STP" 34.0808510638298 105
+"2018" "3" "Riverside" "PM10 Total 0-10um STP" 22.0039682539683 110
+"2018" "4" "Riverside" "PM10 Total 0-10um STP" 43.2882882882883 99
+"2018" "5" "Riverside" "PM10 Total 0-10um STP" 34.8559322033898 89
+"2018" "6" "Riverside" "PM10 Total 0-10um STP" 45.2255319148936 77
+"2018" "7" "Riverside" "PM10 Total 0-10um STP" 50.1016260162602 89
+"2018" "8" "Riverside" "PM10 Total 0-10um STP" 47.5860655737705 73
+"2018" "9" "Riverside" "PM10 Total 0-10um STP" 43.5743801652893 69
+"2018" "10" "Riverside" "PM10 Total 0-10um STP" 30.0454545454545 87
+"2018" "11" "Riverside" "PM10 Total 0-10um STP" 35.14 89
+"2018" "12" "Riverside" "PM10 Total 0-10um STP" 23.0753968253968 100
+"2004" "1" "Orange" "PM10 Total 0-10um STP" 36 110
+"2004" "2" "Orange" "PM10 Total 0-10um STP" 20.6 70
+"2004" "3" "Orange" "PM10 Total 0-10um STP" 41.8 91
+"2004" "4" "Orange" "PM10 Total 0-10um STP" 34.1818181818182 78
+"2004" "5" "Orange" "PM10 Total 0-10um STP" 30.1 72
+"2004" "6" "Orange" "PM10 Total 0-10um STP" 29 57
+"2004" "7" "Orange" "PM10 Total 0-10um STP" 23.2222222222222 55
+"2004" "8" "Orange" "PM10 Total 0-10um STP" 26.4545454545455 60
+"2004" "9" "Orange" "PM10 Total 0-10um STP" 28.1111111111111 70
+"2004" "10" "Orange" "PM10 Total 0-10um STP" 29.8888888888889 50
+"2004" "11" "Orange" "PM10 Total 0-10um STP" 27.5 73
+"2004" "12" "Orange" "PM10 Total 0-10um STP" 23.8 80
+"2005" "1" "Orange" "PM10 Total 0-10um STP" 19.5 112
+"2005" "2" "Orange" "PM10 Total 0-10um STP" 15.2 88
+"2005" "3" "Orange" "PM10 Total 0-10um STP" 20.7 79
+"2005" "4" "Orange" "PM10 Total 0-10um STP" 20.2222222222222 79
+"2005" "5" "Orange" "PM10 Total 0-10um STP" 20.7 73
+"2005" "6" "Orange" "PM10 Total 0-10um STP" 20.5555555555556 71
+"2005" "7" "Orange" "PM10 Total 0-10um STP" 24.4 59
+"2005" "8" "Orange" "PM10 Total 0-10um STP" 25.375 62
+"2005" "9" "Orange" "PM10 Total 0-10um STP" 28.375 68
+"2005" "10" "Orange" "PM10 Total 0-10um STP" 27.5 56
+"2005" "11" "Orange" "PM10 Total 0-10um STP" 34.9 67
+"2005" "12" "Orange" "PM10 Total 0-10um STP" 29.2 93
+"2006" "1" "Orange" "PM10 Total 0-10um STP" 27.8888888888889 114
+"2006" "2" "Orange" "PM10 Total 0-10um STP" 32.9 72
+"2006" "3" "Orange" "PM10 Total 0-10um STP" 18.2857142857143 89
+"2006" "4" "Orange" "PM10 Total 0-10um STP" 15.375 84
+"2006" "5" "Orange" "PM10 Total 0-10um STP" 25 71
+"2006" "6" "Orange" "PM10 Total 0-10um STP" 27.5 57
+"2006" "7" "Orange" "PM10 Total 0-10um STP" 27.8 66
+"2006" "8" "Orange" "PM10 Total 0-10um STP" 24.75 73
+"2006" "9" "Orange" "PM10 Total 0-10um STP" 28.8 58
+"2006" "10" "Orange" "PM10 Total 0-10um STP" 36.8571428571429 70
+"2006" "11" "Orange" "PM10 Total 0-10um STP" 33.8571428571429 64
+"2006" "12" "Orange" "PM10 Total 0-10um STP" 38 74
+"2007" "1" "Orange" "PM10 Total 0-10um STP" 29.4 93
+"2007" "2" "Orange" "PM10 Total 0-10um STP" 17.5714285714286 95
+"2007" "3" "Orange" "PM10 Total 0-10um STP" 22.6 81
+"2007" "4" "Orange" "PM10 Total 0-10um STP" 30 76
+"2007" "5" "Orange" "PM10 Total 0-10um STP" 25.9 86
+"2007" "6" "Orange" "PM10 Total 0-10um STP" 23.8 70
+"2007" "7" "Orange" "PM10 Total 0-10um STP" 24.1 63
+"2007" "8" "Orange" "PM10 Total 0-10um STP" 26.7777777777778 59
+"2007" "9" "Orange" "PM10 Total 0-10um STP" 24.2 59
+"2007" "10" "Orange" "PM10 Total 0-10um STP" 121.909090909091 73
+"2007" "11" "Orange" "PM10 Total 0-10um STP" 39.9 79
+"2007" "12" "Orange" "PM10 Total 0-10um STP" 19.1 73
+"2008" "1" "Orange" "PM10 Total 0-10um STP" 18.5 105
+"2008" "2" "Orange" "PM10 Total 0-10um STP" 27.875 143
+"2008" "3" "Orange" "PM10 Total 0-10um STP" 28.2558139534884 115
+"2008" "4" "Orange" "PM10 Total 0-10um STP" 31.625 87
+"2008" "5" "Orange" "PM10 Total 0-10um STP" 35.78125 79
+"2008" "6" "Orange" "PM10 Total 0-10um STP" 32.8648648648649 77
+"2008" "7" "Orange" "PM10 Total 0-10um STP" 28.7105263157895 67
+"2008" "8" "Orange" "PM10 Total 0-10um STP" 26.2051282051282 59
+"2008" "9" "Orange" "PM10 Total 0-10um STP" 29.625 57
+"2008" "10" "Orange" "PM10 Total 0-10um STP" 35.5357142857143 69
+"2008" "11" "Orange" "PM10 Total 0-10um STP" 33 78
+"2008" "12" "Orange" "PM10 Total 0-10um STP" 21.9512195121951 65
+"2009" "1" "Orange" "PM10 Total 0-10um STP" 28.5116279069767 92
+"2009" "2" "Orange" "PM10 Total 0-10um STP" 17.25 74
+"2009" "3" "Orange" "PM10 Total 0-10um STP" 24.0243902439024 96
+"2009" "4" "Orange" "PM10 Total 0-10um STP" 25.525 79
+"2009" "5" "Orange" "PM10 Total 0-10um STP" 25.6279069767442 76
+"2009" "6" "Orange" "PM10 Total 0-10um STP" 18 67
+"2009" "7" "Orange" "PM10 Total 0-10um STP" 24.2368421052632 69
+"2009" "8" "Orange" "PM10 Total 0-10um STP" 24.8780487804878 71
+"2009" "9" "Orange" "PM10 Total 0-10um STP" 24.875 53
+"2009" "10" "Orange" "PM10 Total 0-10um STP" 30.175 73
+"2009" "11" "Orange" "PM10 Total 0-10um STP" 27.7179487179487 67
+"2009" "12" "Orange" "PM10 Total 0-10um STP" 24.6341463414634 88
+"2010" "1" "Orange" "PM10 Total 0-10um STP" 21.1219512195122 98
+"2010" "2" "Orange" "PM10 Total 0-10um STP" 17.5 91
+"2010" "3" "Orange" "PM10 Total 0-10um STP" 20.6666666666667 96
+"2010" "4" "Orange" "PM10 Total 0-10um STP" 23.5675675675676 87
+"2010" "5" "Orange" "PM10 Total 0-10um STP" 25.0243902439024 74
+"2010" "6" "Orange" "PM10 Total 0-10um STP" 24.3846153846154 82
+"2010" "7" "Orange" "PM10 Total 0-10um STP" 21.3023255813953 84
+"2010" "8" "Orange" "PM10 Total 0-10um STP" 23.8 74
+"2010" "9" "Orange" "PM10 Total 0-10um STP" 26.6842105263158 61
+"2010" "10" "Orange" "PM10 Total 0-10um STP" 19.6585365853659 71
+"2010" "11" "Orange" "PM10 Total 0-10um STP" 21.95 67
+"2010" "12" "Orange" "PM10 Total 0-10um STP" 22.9756097560976 82
+"2011" "1" "Orange" "PM10 Total 0-10um STP" 26.4146341463415 89
+"2011" "2" "Orange" "PM10 Total 0-10um STP" 22 101
+"2011" "3" "Orange" "PM10 Total 0-10um STP" 22.780487804878 108
+"2011" "4" "Orange" "PM10 Total 0-10um STP" 25.1666666666667 92
+"2011" "5" "Orange" "PM10 Total 0-10um STP" 23.7073170731707 73
+"2011" "6" "Orange" "PM10 Total 0-10um STP" 21.35 67
+"2011" "7" "Orange" "PM10 Total 0-10um STP" 23.7954545454545 64
+"2011" "8" "Orange" "PM10 Total 0-10um STP" 25.6279069767442 78
+"2011" "9" "Orange" "PM10 Total 0-10um STP" 28.55 65
+"2011" "10" "Orange" "PM10 Total 0-10um STP" 31 88
+"2011" "11" "Orange" "PM10 Total 0-10um STP" 29.8809523809524 75
+"2011" "12" "Orange" "PM10 Total 0-10um STP" 32.9767441860465 96
+"2012" "1" "Orange" "PM10 Total 0-10um STP" 30.7317073170732 89
+"2012" "2" "Orange" "PM10 Total 0-10um STP" 21.7179487179487 88
+"2012" "3" "Orange" "PM10 Total 0-10um STP" 18.3170731707317 83
+"2012" "4" "Orange" "PM10 Total 0-10um STP" 22.375 87
+"2012" "5" "Orange" "PM10 Total 0-10um STP" 30.6944444444444 85
+"2012" "6" "Orange" "PM10 Total 0-10um STP" 25.2631578947368 54
+"2012" "7" "Orange" "PM10 Total 0-10um STP" 23.1142857142857 64
+"2012" "8" "Orange" "PM10 Total 0-10um STP" 24.2325581395349 70
+"2012" "9" "Orange" "PM10 Total 0-10um STP" 28.3684210526316 66
+"2012" "10" "Orange" "PM10 Total 0-10um STP" 25.2682926829268 75
+"2012" "11" "Orange" "PM10 Total 0-10um STP" 25.05 85
+"2012" "12" "Orange" "PM10 Total 0-10um STP" 22.9024390243902 88
+"2013" "1" "Orange" "PM10 Total 0-10um STP" 24.6341463414634 110
+"2013" "2" "Orange" "PM10 Total 0-10um STP" 23.8157894736842 120
+"2013" "3" "Orange" "PM10 Total 0-10um STP" 25.4146341463415 97
+"2013" "4" "Orange" "PM10 Total 0-10um STP" 24.8 93
+"2013" "5" "Orange" "PM10 Total 0-10um STP" 29.3421052631579 72
+"2013" "6" "Orange" "PM10 Total 0-10um STP" 22.0588235294118 73
+"2013" "7" "Orange" "PM10 Total 0-10um STP" 21.5909090909091 74
+"2013" "8" "Orange" "PM10 Total 0-10um STP" 24.0322580645161 64
+"2013" "9" "Orange" "PM10 Total 0-10um STP" 25.475 86
+"2013" "10" "Orange" "PM10 Total 0-10um STP" 37.5 78
+"2013" "11" "Orange" "PM10 Total 0-10um STP" 29.1 68
+"2013" "12" "Orange" "PM10 Total 0-10um STP" 31.5555555555556 88
+"2014" "1" "Orange" "PM10 Total 0-10um STP" 41.5952380952381 104
+"2014" "2" "Orange" "PM10 Total 0-10um STP" 25.3684210526316 97
+"2014" "3" "Orange" "PM10 Total 0-10um STP" 25.5609756097561 83
+"2014" "4" "Orange" "PM10 Total 0-10um STP" 33.2954545454545 84
+"2014" "5" "Orange" "PM10 Total 0-10um STP" 24.1951219512195 62
+"2014" "6" "Orange" "PM10 Total 0-10um STP" 20.7435897435897 77
+"2014" "7" "Orange" "PM10 Total 0-10um STP" 18.1707317073171 85
+"2014" "8" "Orange" "PM10 Total 0-10um STP" 18.0975609756098 55
+"2014" "9" "Orange" "PM10 Total 0-10um STP" 25.05 59
+"2014" "10" "Orange" "PM10 Total 0-10um STP" 29.5121951219512 52
+"2014" "11" "Orange" "PM10 Total 0-10um STP" 25.2 72
+"2014" "12" "Orange" "PM10 Total 0-10um STP" 24.8139534883721 90
+"2015" "1" "Orange" "PM10 Total 0-10um STP" 29.575 107
+"2015" "2" "Orange" "PM10 Total 0-10um STP" 29.0833333333333 99
+"2015" "3" "Orange" "PM10 Total 0-10um STP" 23.925 84
+"2015" "4" "Orange" "PM10 Total 0-10um STP" 24.3684210526316 96
+"2015" "5" "Orange" "PM10 Total 0-10um STP" 18.3414634146341 73
+"2015" "6" "Orange" "PM10 Total 0-10um STP" 19.75 86
+"2015" "7" "Orange" "PM10 Total 0-10um STP" 16.875 76
+"2015" "8" "Orange" "PM10 Total 0-10um STP" 25.8947368421053 72
+"2015" "9" "Orange" "PM10 Total 0-10um STP" 25.0526315789474 57
+"2015" "10" "Orange" "PM10 Total 0-10um STP" 24.4634146341463 72
+"2015" "11" "Orange" "PM10 Total 0-10um STP" 23.5675675675676 69
+"2015" "12" "Orange" "PM10 Total 0-10um STP" 28 107
+"2016" "1" "Orange" "PM10 Total 0-10um STP" 23.4761904761905 101
+"2016" "2" "Orange" "PM10 Total 0-10um STP" 26.7878787878788 104
+"2016" "3" "Orange" "PM10 Total 0-10um STP" 22.1860465116279 99
+"2016" "4" "Orange" "PM10 Total 0-10um STP" 23.775 82
+"2016" "5" "Orange" "PM10 Total 0-10um STP" 16.1470588235294 72
+"2016" "6" "Orange" "PM10 Total 0-10um STP" 19.275 64
+"2016" "7" "Orange" "PM10 Total 0-10um STP" 23.35 82
+"2016" "8" "Orange" "PM10 Total 0-10um STP" 22.3846153846154 67
+"2016" "9" "Orange" "PM10 Total 0-10um STP" 26.8 62
+"2016" "10" "Orange" "PM10 Total 0-10um STP" 24.35 62
+"2016" "11" "Orange" "PM10 Total 0-10um STP" 28.725 73
+"2016" "12" "Orange" "PM10 Total 0-10um STP" 27.5641025641026 84
+"2017" "1" "Orange" "PM10 Total 0-10um STP" 17.1904761904762 122
+"2017" "2" "Orange" "PM10 Total 0-10um STP" 13.8611111111111 115
+"2017" "3" "Orange" "PM10 Total 0-10um STP" 23.0731707317073 124
+"2017" "4" "Orange" "PM10 Total 0-10um STP" 24.8205128205128 95
+"2017" "5" "Orange" "PM10 Total 0-10um STP" 23.0555555555556 83
+"2017" "6" "Orange" "PM10 Total 0-10um STP" 21.75 80
+"2017" "7" "Orange" "PM10 Total 0-10um STP" 24.4666666666667 73
+"2017" "8" "Orange" "PM10 Total 0-10um STP" 23.3076923076923 70
+"2017" "9" "Orange" "PM10 Total 0-10um STP" 19.65 70
+"2017" "10" "Orange" "PM10 Total 0-10um STP" 33.475 64
+"2017" "11" "Orange" "PM10 Total 0-10um STP" 30.4324324324324 65
+"2017" "12" "Orange" "PM10 Total 0-10um STP" 47.6153846153846 90
+"2018" "1" "Orange" "PM10 Total 0-10um STP" 34.6829268292683 141
+"2018" "2" "Orange" "PM10 Total 0-10um STP" 22.8571428571429 100
+"2018" "3" "Orange" "PM10 Total 0-10um STP" 17.8461538461538 106
+"2018" "4" "Orange" "PM10 Total 0-10um STP" 26.9259259259259 97
+"2018" "5" "Orange" "PM10 Total 0-10um STP" 16.4054054054054 77
+"2018" "6" "Orange" "PM10 Total 0-10um STP" 23.675 66
+"2018" "7" "Orange" "PM10 Total 0-10um STP" 24.952380952381 57
+"2018" "8" "Orange" "PM10 Total 0-10um STP" 24.609756097561 80
+"2018" "9" "Orange" "PM10 Total 0-10um STP" 25.7 60
+"2018" "10" "Orange" "PM10 Total 0-10um STP" 26.4878048780488 68
+"2018" "11" "Orange" "PM10 Total 0-10um STP" 31.9230769230769 66
+"2018" "12" "Orange" "PM10 Total 0-10um STP" 27.0243902439024 81
+"2004" "1" "San Bernardino" "PM10 Total 0-10um STP" 20.5086206896552 129
+"2004" "2" "San Bernardino" "PM10 Total 0-10um STP" 14.2477876106195 77
+"2004" "3" "San Bernardino" "PM10 Total 0-10um STP" 27.6666666666667 84
+"2004" "4" "San Bernardino" "PM10 Total 0-10um STP" 32.8983050847458 80
+"2004" "5" "San Bernardino" "PM10 Total 0-10um STP" 37 67
+"2004" "6" "San Bernardino" "PM10 Total 0-10um STP" 36.8256880733945 59
+"2004" "7" "San Bernardino" "PM10 Total 0-10um STP" 32.1478260869565 52
+"2004" "8" "San Bernardino" "PM10 Total 0-10um STP" 34.2231404958678 61
+"2004" "9" "San Bernardino" "PM10 Total 0-10um STP" 32.6283185840708 52
+"2004" "10" "San Bernardino" "PM10 Total 0-10um STP" 24.7739130434783 53
+"2004" "11" "San Bernardino" "PM10 Total 0-10um STP" 20.5446428571429 71
+"2004" "12" "San Bernardino" "PM10 Total 0-10um STP" 16.801724137931 74
+"2005" "1" "San Bernardino" "PM10 Total 0-10um STP" 14.6822429906542 83
+"2005" "2" "San Bernardino" "PM10 Total 0-10um STP" 14 86
+"2005" "3" "San Bernardino" "PM10 Total 0-10um STP" 21.1666666666667 75
+"2005" "4" "San Bernardino" "PM10 Total 0-10um STP" 26.4352941176471 61
+"2005" "5" "San Bernardino" "PM10 Total 0-10um STP" 30.0948275862069 85
+"2005" "6" "San Bernardino" "PM10 Total 0-10um STP" 33.6140350877193 60
+"2005" "7" "San Bernardino" "PM10 Total 0-10um STP" 35.9642857142857 55
+"2005" "8" "San Bernardino" "PM10 Total 0-10um STP" 32.0892857142857 56
+"2005" "9" "San Bernardino" "PM10 Total 0-10um STP" 32.8981481481481 52
+"2005" "10" "San Bernardino" "PM10 Total 0-10um STP" 29.2038834951456 59
+"2005" "11" "San Bernardino" "PM10 Total 0-10um STP" 31.5377358490566 64
+"2005" "12" "San Bernardino" "PM10 Total 0-10um STP" 29.0727272727273 114
+"2006" "1" "San Bernardino" "PM10 Total 0-10um STP" 25.9741379310345 84
+"2006" "2" "San Bernardino" "PM10 Total 0-10um STP" 32 88
+"2006" "3" "San Bernardino" "PM10 Total 0-10um STP" 16.0462962962963 80
+"2006" "4" "San Bernardino" "PM10 Total 0-10um STP" 17.4774774774775 68
+"2006" "5" "San Bernardino" "PM10 Total 0-10um STP" 35.3272727272727 78
+"2006" "6" "San Bernardino" "PM10 Total 0-10um STP" 35.5533980582524 55
+"2006" "7" "San Bernardino" "PM10 Total 0-10um STP" 34.6770833333333 78
+"2006" "8" "San Bernardino" "PM10 Total 0-10um STP" 33.3214285714286 75
+"2006" "9" "San Bernardino" "PM10 Total 0-10um STP" 39.2 48
+"2006" "10" "San Bernardino" "PM10 Total 0-10um STP" 26.6666666666667 73
+"2006" "11" "San Bernardino" "PM10 Total 0-10um STP" 39.7739130434783 65
+"2006" "12" "San Bernardino" "PM10 Total 0-10um STP" 28.8740157480315 68
+"2007" "1" "San Bernardino" "PM10 Total 0-10um STP" 24.1525423728814 71
+"2007" "2" "San Bernardino" "PM10 Total 0-10um STP" 24.7029702970297 82
+"2007" "3" "San Bernardino" "PM10 Total 0-10um STP" 30.5905511811024 78
+"2007" "4" "San Bernardino" "PM10 Total 0-10um STP" 49.6379310344828 64
+"2007" "5" "San Bernardino" "PM10 Total 0-10um STP" 34.4655172413793 66
+"2007" "6" "San Bernardino" "PM10 Total 0-10um STP" 42.9714285714286 58
+"2007" "7" "San Bernardino" "PM10 Total 0-10um STP" 33.7570093457944 57
+"2007" "8" "San Bernardino" "PM10 Total 0-10um STP" 34.2564102564103 61
+"2007" "9" "San Bernardino" "PM10 Total 0-10um STP" 25.8260869565217 57
+"2007" "10" "San Bernardino" "PM10 Total 0-10um STP" 57.1654135338346 51
+"2007" "11" "San Bernardino" "PM10 Total 0-10um STP" 33.8989898989899 54
+"2007" "12" "San Bernardino" "PM10 Total 0-10um STP" 21.6952380952381 65
+"2008" "1" "San Bernardino" "PM10 Total 0-10um STP" 16.1463414634146 104
+"2008" "2" "San Bernardino" "PM10 Total 0-10um STP" 23.9038461538462 100
+"2008" "3" "San Bernardino" "PM10 Total 0-10um STP" 31.4576271186441 114
+"2008" "4" "San Bernardino" "PM10 Total 0-10um STP" 35.9346405228758 62
+"2008" "5" "San Bernardino" "PM10 Total 0-10um STP" 33.7894736842105 64
+"2008" "6" "San Bernardino" "PM10 Total 0-10um STP" 42.8023255813954 55
+"2008" "7" "San Bernardino" "PM10 Total 0-10um STP" 38.4345238095238 79
+"2008" "8" "San Bernardino" "PM10 Total 0-10um STP" 33.0062111801242 54
+"2008" "9" "San Bernardino" "PM10 Total 0-10um STP" 35.2358490566038 60
+"2008" "10" "San Bernardino" "PM10 Total 0-10um STP" 37.5673076923077 52
+"2008" "11" "San Bernardino" "PM10 Total 0-10um STP" 25.2935779816514 67
+"2008" "12" "San Bernardino" "PM10 Total 0-10um STP" 20.3457943925234 72
+"2009" "1" "San Bernardino" "PM10 Total 0-10um STP" 21.258064516129 74
+"2009" "2" "San Bernardino" "PM10 Total 0-10um STP" 15.4797297297297 83
+"2009" "3" "San Bernardino" "PM10 Total 0-10um STP" 29.3614457831325 78
+"2009" "4" "San Bernardino" "PM10 Total 0-10um STP" 28.5138121546961 61
+"2009" "5" "San Bernardino" "PM10 Total 0-10um STP" 33.7282608695652 70
+"2009" "6" "San Bernardino" "PM10 Total 0-10um STP" 24.4878048780488 64
+"2009" "7" "San Bernardino" "PM10 Total 0-10um STP" 32.5251396648045 61
+"2009" "8" "San Bernardino" "PM10 Total 0-10um STP" 31.6457142857143 76
+"2009" "9" "San Bernardino" "PM10 Total 0-10um STP" 35.8728323699422 60
+"2009" "10" "San Bernardino" "PM10 Total 0-10um STP" 29.5852272727273 69
+"2009" "11" "San Bernardino" "PM10 Total 0-10um STP" 27.1352941176471 77
+"2009" "12" "San Bernardino" "PM10 Total 0-10um STP" 20.4393063583815 68
+"2010" "1" "San Bernardino" "PM10 Total 0-10um STP" 17.1647727272727 79
+"2010" "2" "San Bernardino" "PM10 Total 0-10um STP" 16.5792682926829 68
+"2010" "3" "San Bernardino" "PM10 Total 0-10um STP" 21.3953488372093 84
+"2010" "4" "San Bernardino" "PM10 Total 0-10um STP" 24.6010928961749 85
+"2010" "5" "San Bernardino" "PM10 Total 0-10um STP" 29.5238095238095 85
+"2010" "6" "San Bernardino" "PM10 Total 0-10um STP" 30.878612716763 51
+"2010" "7" "San Bernardino" "PM10 Total 0-10um STP" 31.8052631578947 74
+"2010" "8" "San Bernardino" "PM10 Total 0-10um STP" 31.150289017341 68
+"2010" "9" "San Bernardino" "PM10 Total 0-10um STP" 32.4864864864865 63
+"2010" "10" "San Bernardino" "PM10 Total 0-10um STP" 20.7076023391813 57
+"2010" "11" "San Bernardino" "PM10 Total 0-10um STP" 19.4606741573034 66
+"2010" "12" "San Bernardino" "PM10 Total 0-10um STP" 18.1575342465753 63
+"2011" "1" "San Bernardino" "PM10 Total 0-10um STP" 19.777027027027 69
+"2011" "2" "San Bernardino" "PM10 Total 0-10um STP" 18.8721804511278 112
+"2011" "3" "San Bernardino" "PM10 Total 0-10um STP" 21.9815950920245 91
+"2011" "4" "San Bernardino" "PM10 Total 0-10um STP" 24.4450261780105 66
+"2011" "5" "San Bernardino" "PM10 Total 0-10um STP" 26.139896373057 68
+"2011" "6" "San Bernardino" "PM10 Total 0-10um STP" 27.4276729559748 77
+"2011" "7" "San Bernardino" "PM10 Total 0-10um STP" 33.125 76
+"2011" "8" "San Bernardino" "PM10 Total 0-10um STP" 31.4175824175824 59
+"2011" "9" "San Bernardino" "PM10 Total 0-10um STP" 31.9943181818182 42
+"2011" "10" "San Bernardino" "PM10 Total 0-10um STP" 27.2303370786517 59
+"2011" "11" "San Bernardino" "PM10 Total 0-10um STP" 22.8406593406593 63
+"2011" "12" "San Bernardino" "PM10 Total 0-10um STP" 23.4475138121547 72
+"2012" "1" "San Bernardino" "PM10 Total 0-10um STP" 24.3956043956044 84
+"2012" "2" "San Bernardino" "PM10 Total 0-10um STP" 19.3882352941176 77
+"2012" "3" "San Bernardino" "PM10 Total 0-10um STP" 25.8766233766234 91
+"2012" "4" "San Bernardino" "PM10 Total 0-10um STP" 24.0333333333333 92
+"2012" "5" "San Bernardino" "PM10 Total 0-10um STP" 37.4563106796116 59
+"2012" "6" "San Bernardino" "PM10 Total 0-10um STP" 35.4259259259259 78
+"2012" "7" "San Bernardino" "PM10 Total 0-10um STP" 30.9099099099099 78
+"2012" "8" "San Bernardino" "PM10 Total 0-10um STP" 34.187969924812 73
+"2012" "9" "San Bernardino" "PM10 Total 0-10um STP" 31.4529411764706 89
+"2012" "10" "San Bernardino" "PM10 Total 0-10um STP" 26.927374301676 72
+"2012" "11" "San Bernardino" "PM10 Total 0-10um STP" 24.3592814371257 62
+"2012" "12" "San Bernardino" "PM10 Total 0-10um STP" 19.6067415730337 72
+"2013" "1" "San Bernardino" "PM10 Total 0-10um STP" 19.0993377483444 87
+"2013" "2" "San Bernardino" "PM10 Total 0-10um STP" 22.1760563380282 90
+"2013" "3" "San Bernardino" "PM10 Total 0-10um STP" 28.241610738255 95
+"2013" "4" "San Bernardino" "PM10 Total 0-10um STP" 33.261744966443 67
+"2013" "5" "San Bernardino" "PM10 Total 0-10um STP" 34.9 74
+"2013" "6" "San Bernardino" "PM10 Total 0-10um STP" 34.3733333333333 56
+"2013" "7" "San Bernardino" "PM10 Total 0-10um STP" 34.4532374100719 70
+"2013" "8" "San Bernardino" "PM10 Total 0-10um STP" 31.3724137931034 71
+"2013" "9" "San Bernardino" "PM10 Total 0-10um STP" 32.2281879194631 68
+"2013" "10" "San Bernardino" "PM10 Total 0-10um STP" 34.025641025641 73
+"2013" "11" "San Bernardino" "PM10 Total 0-10um STP" 25.6689189189189 77
+"2013" "12" "San Bernardino" "PM10 Total 0-10um STP" 25.7358490566038 91
+"2014" "1" "San Bernardino" "PM10 Total 0-10um STP" 33.2083333333333 90
+"2014" "2" "San Bernardino" "PM10 Total 0-10um STP" 24.0408163265306 71
+"2014" "3" "San Bernardino" "PM10 Total 0-10um STP" 26.9952830188679 83
+"2014" "4" "San Bernardino" "PM10 Total 0-10um STP" 29.2139303482587 80
+"2014" "5" "San Bernardino" "PM10 Total 0-10um STP" 35.5990099009901 81
+"2014" "6" "San Bernardino" "PM10 Total 0-10um STP" 35.9904306220096 55
+"2014" "7" "San Bernardino" "PM10 Total 0-10um STP" 29.0100502512563 75
+"2014" "8" "San Bernardino" "PM10 Total 0-10um STP" 26.5074626865672 76
+"2014" "9" "San Bernardino" "PM10 Total 0-10um STP" 28.6393442622951 75
+"2014" "10" "San Bernardino" "PM10 Total 0-10um STP" 33.11 70
+"2014" "11" "San Bernardino" "PM10 Total 0-10um STP" 26.3368983957219 54
+"2014" "12" "San Bernardino" "PM10 Total 0-10um STP" 17.3214285714286 66
+"2015" "1" "San Bernardino" "PM10 Total 0-10um STP" 18.4054054054054 99
+"2015" "2" "San Bernardino" "PM10 Total 0-10um STP" 19.6745283018868 99
+"2015" "3" "San Bernardino" "PM10 Total 0-10um STP" 20.4495798319328 105
+"2015" "4" "San Bernardino" "PM10 Total 0-10um STP" 27.3964757709251 91
+"2015" "5" "San Bernardino" "PM10 Total 0-10um STP" 22.1963470319635 67
+"2015" "6" "San Bernardino" "PM10 Total 0-10um STP" 29.5022831050228 77
+"2015" "7" "San Bernardino" "PM10 Total 0-10um STP" 24.3733905579399 65
+"2015" "8" "San Bernardino" "PM10 Total 0-10um STP" 29.2697674418605 69
+"2015" "9" "San Bernardino" "PM10 Total 0-10um STP" 27.1485148514851 75
+"2015" "10" "San Bernardino" "PM10 Total 0-10um STP" 19.3589743589744 76
+"2015" "11" "San Bernardino" "PM10 Total 0-10um STP" 19.4403669724771 61
+"2015" "12" "San Bernardino" "PM10 Total 0-10um STP" 22.4576271186441 70
+"2016" "1" "San Bernardino" "PM10 Total 0-10um STP" 16.8396624472574 93
+"2016" "2" "San Bernardino" "PM10 Total 0-10um STP" 19.954128440367 102
+"2016" "3" "San Bernardino" "PM10 Total 0-10um STP" 23.021186440678 98
+"2016" "4" "San Bernardino" "PM10 Total 0-10um STP" 22.9035087719298 73
+"2016" "5" "San Bernardino" "PM10 Total 0-10um STP" 20.8712446351931 57
+"2016" "6" "San Bernardino" "PM10 Total 0-10um STP" 31.3039647577093 79
+"2016" "7" "San Bernardino" "PM10 Total 0-10um STP" 44.2258064516129 71
+"2016" "8" "San Bernardino" "PM10 Total 0-10um STP" 34.0675105485232 73
+"2016" "9" "San Bernardino" "PM10 Total 0-10um STP" 33.7009345794393 77
+"2016" "10" "San Bernardino" "PM10 Total 0-10um STP" 26.0941704035874 73
+"2016" "11" "San Bernardino" "PM10 Total 0-10um STP" 21.6904761904762 59
+"2016" "12" "San Bernardino" "PM10 Total 0-10um STP" 18.0311111111111 87
+"2017" "1" "San Bernardino" "PM10 Total 0-10um STP" 9.81192660550459 113
+"2017" "2" "San Bernardino" "PM10 Total 0-10um STP" 11.6741573033708 87
+"2017" "3" "San Bernardino" "PM10 Total 0-10um STP" 23.1527777777778 94
+"2017" "4" "San Bernardino" "PM10 Total 0-10um STP" 23.7671232876712 75
+"2017" "5" "San Bernardino" "PM10 Total 0-10um STP" 26.4736842105263 97
+"2017" "6" "San Bernardino" "PM10 Total 0-10um STP" 30.9954128440367 75
+"2017" "7" "San Bernardino" "PM10 Total 0-10um STP" 34.1228813559322 69
+"2017" "8" "San Bernardino" "PM10 Total 0-10um STP" 31.1212121212121 82
+"2017" "9" "San Bernardino" "PM10 Total 0-10um STP" 27.4911504424779 63
+"2017" "10" "San Bernardino" "PM10 Total 0-10um STP" 39.3004291845494 61
+"2017" "11" "San Bernardino" "PM10 Total 0-10um STP" 30.2652173913043 62
+"2017" "12" "San Bernardino" "PM10 Total 0-10um STP" 40.1572052401747 94
+"2018" "1" "San Bernardino" "PM10 Total 0-10um STP" 21.4892703862661 122
+"2018" "2" "San Bernardino" "PM10 Total 0-10um STP" 24.9838709677419 100
+"2018" "3" "San Bernardino" "PM10 Total 0-10um STP" 13.7663551401869 93
+"2018" "4" "San Bernardino" "PM10 Total 0-10um STP" 28.214953271028 83
+"2018" "5" "San Bernardino" "PM10 Total 0-10um STP" 23.2424242424242 76
+"2018" "6" "San Bernardino" "PM10 Total 0-10um STP" 32.0181818181818 65
+"2018" "7" "San Bernardino" "PM10 Total 0-10um STP" 38.9099099099099 55
+"2018" "8" "San Bernardino" "PM10 Total 0-10um STP" 37.4134615384615 79
+"2018" "9" "San Bernardino" "PM10 Total 0-10um STP" 33.9017857142857 53
+"2018" "10" "San Bernardino" "PM10 Total 0-10um STP" 23.9576271186441 65
+"2018" "11" "San Bernardino" "PM10 Total 0-10um STP" 25.310502283105 64
+"2018" "12" "San Bernardino" "PM10 Total 0-10um STP" 17.7051282051282 82
+"2004" "1" "Sacramento" "PM10 Total 0-10um STP" 20.0208333333333 58
+"2004" "2" "Sacramento" "PM10 Total 0-10um STP" 15.6516853932584 72
+"2004" "3" "Sacramento" "PM10 Total 0-10um STP" 18.5744680851064 64
+"2004" "4" "Sacramento" "PM10 Total 0-10um STP" 24.0106382978723 43
+"2004" "5" "Sacramento" "PM10 Total 0-10um STP" 19.8775510204082 38
+"2004" "6" "Sacramento" "PM10 Total 0-10um STP" 21.8736842105263 38
+"2004" "7" "Sacramento" "PM10 Total 0-10um STP" 20.6458333333333 39
+"2004" "8" "Sacramento" "PM10 Total 0-10um STP" 21.2840909090909 53
+"2004" "9" "Sacramento" "PM10 Total 0-10um STP" 30.010752688172 44
+"2004" "10" "Sacramento" "PM10 Total 0-10um STP" 26.34375 45
+"2004" "11" "Sacramento" "PM10 Total 0-10um STP" 23.8387096774194 37
+"2004" "12" "Sacramento" "PM10 Total 0-10um STP" 19.9450549450549 59
+"2005" "1" "Sacramento" "PM10 Total 0-10um STP" 14.1770833333333 44
+"2005" "2" "Sacramento" "PM10 Total 0-10um STP" 18.3444444444444 64
+"2005" "3" "Sacramento" "PM10 Total 0-10um STP" 18.1063829787234 61
+"2005" "4" "Sacramento" "PM10 Total 0-10um STP" 15.5157894736842 50
+"2005" "5" "Sacramento" "PM10 Total 0-10um STP" 15.0927835051546 69
+"2005" "6" "Sacramento" "PM10 Total 0-10um STP" 18.8526315789474 37
+"2005" "7" "Sacramento" "PM10 Total 0-10um STP" 25.1585365853659 31
+"2005" "8" "Sacramento" "PM10 Total 0-10um STP" 24.8659793814433 42
+"2005" "9" "Sacramento" "PM10 Total 0-10um STP" 26.4526315789474 39
+"2005" "10" "Sacramento" "PM10 Total 0-10um STP" 25.0769230769231 42
+"2005" "11" "Sacramento" "PM10 Total 0-10um STP" 26.5060240963855 40
+"2005" "12" "Sacramento" "PM10 Total 0-10um STP" 25.109375 54
+"2006" "1" "Sacramento" "PM10 Total 0-10um STP" 19.0722891566265 77
+"2006" "2" "Sacramento" "PM10 Total 0-10um STP" 21.3132530120482 51
+"2006" "3" "Sacramento" "PM10 Total 0-10um STP" 12.5842696629213 64
+"2006" "4" "Sacramento" "PM10 Total 0-10um STP" 15.0967741935484 64
+"2006" "5" "Sacramento" "PM10 Total 0-10um STP" 20.9666666666667 43
+"2006" "6" "Sacramento" "PM10 Total 0-10um STP" 21.0714285714286 41
+"2006" "7" "Sacramento" "PM10 Total 0-10um STP" 24.7333333333333 41
+"2006" "8" "Sacramento" "PM10 Total 0-10um STP" 26.90625 40
+"2006" "9" "Sacramento" "PM10 Total 0-10um STP" 41.1237113402062 46
+"2006" "10" "Sacramento" "PM10 Total 0-10um STP" 33.1958762886598 48
+"2006" "11" "Sacramento" "PM10 Total 0-10um STP" 22.6526315789474 50
+"2006" "12" "Sacramento" "PM10 Total 0-10um STP" 30.6237623762376 45
+"2007" "1" "Sacramento" "PM10 Total 0-10um STP" 28.6842105263158 55
+"2007" "2" "Sacramento" "PM10 Total 0-10um STP" 18.2716049382716 56
+"2007" "3" "Sacramento" "PM10 Total 0-10um STP" 16.4059405940594 42
+"2007" "4" "Sacramento" "PM10 Total 0-10um STP" 15.9789473684211 41
+"2007" "5" "Sacramento" "PM10 Total 0-10um STP" 20.3541666666667 46
+"2007" "6" "Sacramento" "PM10 Total 0-10um STP" 19.9102564102564 32
+"2007" "7" "Sacramento" "PM10 Total 0-10um STP" 18.2551020408163 41
+"2007" "8" "Sacramento" "PM10 Total 0-10um STP" 21.6041666666667 42
+"2007" "9" "Sacramento" "PM10 Total 0-10um STP" 22.3684210526316 30
+"2007" "10" "Sacramento" "PM10 Total 0-10um STP" 20.3877551020408 38
+"2007" "11" "Sacramento" "PM10 Total 0-10um STP" 23.8369565217391 31
+"2007" "12" "Sacramento" "PM10 Total 0-10um STP" 16.5368421052632 50
+"2008" "1" "Sacramento" "PM10 Total 0-10um STP" 16.3039215686275 55
+"2008" "2" "Sacramento" "PM10 Total 0-10um STP" 17.974358974359 69
+"2008" "3" "Sacramento" "PM10 Total 0-10um STP" 15.5959595959596 57
+"2008" "4" "Sacramento" "PM10 Total 0-10um STP" 22.3536585365854 44
+"2008" "5" "Sacramento" "PM10 Total 0-10um STP" 25.3578947368421 36
+"2008" "6" "Sacramento" "PM10 Total 0-10um STP" 32.0357142857143 42
+"2008" "7" "Sacramento" "PM10 Total 0-10um STP" 32.5416666666667 39
+"2008" "8" "Sacramento" "PM10 Total 0-10um STP" 24.6363636363636 52
+"2008" "9" "Sacramento" "PM10 Total 0-10um STP" 27.6222222222222 32
+"2008" "10" "Sacramento" "PM10 Total 0-10um STP" 34.2448979591837 34
+"2008" "11" "Sacramento" "PM10 Total 0-10um STP" 21.2234042553191 38
+"2008" "12" "Sacramento" "PM10 Total 0-10um STP" 15.375 45
+"2009" "1" "Sacramento" "PM10 Total 0-10um STP" 20.4368932038835 56
+"2009" "2" "Sacramento" "PM10 Total 0-10um STP" 10.7380952380952 42
+"2009" "3" "Sacramento" "PM10 Total 0-10um STP" 14.3152173913043 39
+"2009" "4" "Sacramento" "PM10 Total 0-10um STP" 18.40625 57
+"2009" "5" "Sacramento" "PM10 Total 0-10um STP" 19 49
+"2009" "6" "Sacramento" "PM10 Total 0-10um STP" 18.0106382978723 32
+"2009" "7" "Sacramento" "PM10 Total 0-10um STP" 18.2268041237113 37
+"2009" "8" "Sacramento" "PM10 Total 0-10um STP" 20.8842105263158 34
+"2009" "9" "Sacramento" "PM10 Total 0-10um STP" 26 36
+"2009" "10" "Sacramento" "PM10 Total 0-10um STP" 19.1521739130435 47
+"2009" "11" "Sacramento" "PM10 Total 0-10um STP" 20.5494505494506 45
+"2009" "12" "Sacramento" "PM10 Total 0-10um STP" 20.5360824742268 44
+"2010" "1" "Sacramento" "PM10 Total 0-10um STP" 13.0744680851064 74
+"2010" "2" "Sacramento" "PM10 Total 0-10um STP" 11.2527472527473 64
+"2010" "3" "Sacramento" "PM10 Total 0-10um STP" 11.8202247191011 73
+"2010" "4" "Sacramento" "PM10 Total 0-10um STP" 12.2168674698795 51
+"2010" "5" "Sacramento" "PM10 Total 0-10um STP" 12.8307692307692 65
+"2010" "6" "Sacramento" "PM10 Total 0-10um STP" 15.0847457627119 34
+"2010" "7" "Sacramento" "PM10 Total 0-10um STP" 19.4578313253012 41
+"2010" "8" "Sacramento" "PM10 Total 0-10um STP" 18.28125 41
+"2010" "9" "Sacramento" "PM10 Total 0-10um STP" 23.2105263157895 42
+"2010" "10" "Sacramento" "PM10 Total 0-10um STP" 22.3978494623656 49
+"2010" "11" "Sacramento" "PM10 Total 0-10um STP" 15.2659574468085 43
+"2010" "12" "Sacramento" "PM10 Total 0-10um STP" 14.6794871794872 61
+"2011" "1" "Sacramento" "PM10 Total 0-10um STP" 16.6666666666667 54
+"2011" "2" "Sacramento" "PM10 Total 0-10um STP" 11.3932584269663 66
+"2011" "3" "Sacramento" "PM10 Total 0-10um STP" 11 61
+"2011" "4" "Sacramento" "PM10 Total 0-10um STP" 13.7931034482759 49
+"2011" "5" "Sacramento" "PM10 Total 0-10um STP" 15.7938144329897 55
+"2011" "6" "Sacramento" "PM10 Total 0-10um STP" 16.7473684210526 41
+"2011" "7" "Sacramento" "PM10 Total 0-10um STP" 17.5121951219512 52
+"2011" "8" "Sacramento" "PM10 Total 0-10um STP" 19.2079207920792 31
+"2011" "9" "Sacramento" "PM10 Total 0-10um STP" 25.5744680851064 42
+"2011" "10" "Sacramento" "PM10 Total 0-10um STP" 22.6555555555556 43
+"2011" "11" "Sacramento" "PM10 Total 0-10um STP" 18.2872340425532 44
+"2011" "12" "Sacramento" "PM10 Total 0-10um STP" 29.5632183908046 46
+"2012" "1" "Sacramento" "PM10 Total 0-10um STP" 21.4605263157895 53
+"2012" "2" "Sacramento" "PM10 Total 0-10um STP" 11.1269841269841 52
+"2012" "3" "Sacramento" "PM10 Total 0-10um STP" 8.36363636363636 65
+"2012" "4" "Sacramento" "PM10 Total 0-10um STP" 14.1081081081081 65
+"2012" "5" "Sacramento" "PM10 Total 0-10um STP" 18.4901960784314 37
+"2012" "6" "Sacramento" "PM10 Total 0-10um STP" 19.3809523809524 37
+"2012" "7" "Sacramento" "PM10 Total 0-10um STP" 15.1875 33
+"2012" "8" "Sacramento" "PM10 Total 0-10um STP" 20.0833333333333 38
+"2012" "9" "Sacramento" "PM10 Total 0-10um STP" 23.390625 47
+"2012" "10" "Sacramento" "PM10 Total 0-10um STP" 19.1212121212121 38
+"2012" "11" "Sacramento" "PM10 Total 0-10um STP" 14.875 42
+"2012" "12" "Sacramento" "PM10 Total 0-10um STP" 8.92307692307692 46
+"2013" "1" "Sacramento" "PM10 Total 0-10um STP" 17.9090909090909 78
+"2013" "2" "Sacramento" "PM10 Total 0-10um STP" 15.9516129032258 65
+"2013" "3" "Sacramento" "PM10 Total 0-10um STP" 13.5757575757576 73
+"2013" "4" "Sacramento" "PM10 Total 0-10um STP" 20.1451612903226 51
+"2013" "5" "Sacramento" "PM10 Total 0-10um STP" 21.6808510638298 56
+"2013" "6" "Sacramento" "PM10 Total 0-10um STP" 16.1578947368421 47
+"2013" "7" "Sacramento" "PM10 Total 0-10um STP" 18.7083333333333 39
+"2013" "8" "Sacramento" "PM10 Total 0-10um STP" 16.7078651685393 37
+"2013" "9" "Sacramento" "PM10 Total 0-10um STP" 16.593023255814 41
+"2013" "10" "Sacramento" "PM10 Total 0-10um STP" 29.0379746835443 55
+"2013" "11" "Sacramento" "PM10 Total 0-10um STP" 33.2666666666667 44
+"2013" "12" "Sacramento" "PM10 Total 0-10um STP" 26.1547619047619 55
+"2014" "1" "Sacramento" "PM10 Total 0-10um STP" 24.4166666666667 65
+"2014" "2" "Sacramento" "PM10 Total 0-10um STP" 9.92941176470588 52
+"2014" "3" "Sacramento" "PM10 Total 0-10um STP" 11.1195652173913 48
+"2014" "4" "Sacramento" "PM10 Total 0-10um STP" 13.9777777777778 60
+"2014" "5" "Sacramento" "PM10 Total 0-10um STP" 16.1 57
+"2014" "6" "Sacramento" "PM10 Total 0-10um STP" 17.6071428571429 50
+"2014" "7" "Sacramento" "PM10 Total 0-10um STP" 13.7282608695652 38
+"2014" "8" "Sacramento" "PM10 Total 0-10um STP" 15.6847826086957 51
+"2014" "9" "Sacramento" "PM10 Total 0-10um STP" 17.3707865168539 35
+"2014" "10" "Sacramento" "PM10 Total 0-10um STP" 19.5054945054945 61
+"2014" "11" "Sacramento" "PM10 Total 0-10um STP" 15.4605263157895 45
+"2014" "12" "Sacramento" "PM10 Total 0-10um STP" 9 43
+"2015" "1" "Sacramento" "PM10 Total 0-10um STP" 20.8390804597701 77
+"2015" "2" "Sacramento" "PM10 Total 0-10um STP" 14.7105263157895 61
+"2015" "3" "Sacramento" "PM10 Total 0-10um STP" 13.6593406593407 69
+"2015" "4" "Sacramento" "PM10 Total 0-10um STP" 13.3974358974359 54
+"2015" "5" "Sacramento" "PM10 Total 0-10um STP" 12.974358974359 61
+"2015" "6" "Sacramento" "PM10 Total 0-10um STP" 17.3571428571429 49
+"2015" "7" "Sacramento" "PM10 Total 0-10um STP" 14.2298850574713 48
+"2015" "8" "Sacramento" "PM10 Total 0-10um STP" 17.2988505747126 33
+"2015" "9" "Sacramento" "PM10 Total 0-10um STP" 20.6896551724138 36
+"2015" "10" "Sacramento" "PM10 Total 0-10um STP" 25.2717391304348 36
+"2015" "11" "Sacramento" "PM10 Total 0-10um STP" 13.314606741573 48
+"2015" "12" "Sacramento" "PM10 Total 0-10um STP" 10.1022727272727 59
+"2016" "1" "Sacramento" "PM10 Total 0-10um STP" 8.72527472527472 58
+"2016" "2" "Sacramento" "PM10 Total 0-10um STP" 13.4691358024691 60
+"2016" "3" "Sacramento" "PM10 Total 0-10um STP" 9.28125 73
+"2016" "4" "Sacramento" "PM10 Total 0-10um STP" 13.5119047619048 62
+"2016" "5" "Sacramento" "PM10 Total 0-10um STP" 14.2444444444444 35
+"2016" "6" "Sacramento" "PM10 Total 0-10um STP" 16.0674157303371 32
+"2016" "7" "Sacramento" "PM10 Total 0-10um STP" 14.561797752809 41
+"2016" "8" "Sacramento" "PM10 Total 0-10um STP" 15.6091954022988 34
+"2016" "9" "Sacramento" "PM10 Total 0-10um STP" 23.8735632183908 50
+"2016" "10" "Sacramento" "PM10 Total 0-10um STP" 14.4044943820225 38
+"2016" "11" "Sacramento" "PM10 Total 0-10um STP" 14.3214285714286 44
+"2016" "12" "Sacramento" "PM10 Total 0-10um STP" 14.1609195402299 52
+"2017" "1" "Sacramento" "PM10 Total 0-10um STP" 8.81818181818182 75
+"2017" "2" "Sacramento" "PM10 Total 0-10um STP" 6.67123287671233 54
+"2017" "3" "Sacramento" "PM10 Total 0-10um STP" 10.855421686747 48
+"2017" "4" "Sacramento" "PM10 Total 0-10um STP" 8.36904761904762 56
+"2017" "5" "Sacramento" "PM10 Total 0-10um STP" 14.1279069767442 52
+"2017" "6" "Sacramento" "PM10 Total 0-10um STP" 18.3265306122449 52
+"2017" "7" "Sacramento" "PM10 Total 0-10um STP" 22.72 51
+"2017" "8" "Sacramento" "PM10 Total 0-10um STP" 27.609756097561 30
+"2017" "9" "Sacramento" "PM10 Total 0-10um STP" 30.8095238095238 36
+"2017" "10" "Sacramento" "PM10 Total 0-10um STP" 46.2941176470588 40
+"2017" "11" "Sacramento" "PM10 Total 0-10um STP" 18.9791666666667 44
+"2017" "12" "Sacramento" "PM10 Total 0-10um STP" 32.1372549019608 62
+"2018" "1" "Sacramento" "PM10 Total 0-10um STP" 19.4893617021277 73
+"2018" "2" "Sacramento" "PM10 Total 0-10um STP" 18.9787234042553 55
+"2018" "3" "Sacramento" "PM10 Total 0-10um STP" 11.64 69
+"2018" "4" "Sacramento" "PM10 Total 0-10um STP" 17.9183673469388 46
+"2018" "5" "Sacramento" "PM10 Total 0-10um STP" 20.921568627451 45
+"2018" "6" "Sacramento" "PM10 Total 0-10um STP" 22.1590909090909 48
+"2018" "7" "Sacramento" "PM10 Total 0-10um STP" 25.2083333333333 37
+"2018" "8" "Sacramento" "PM10 Total 0-10um STP" 31.0196078431373 37
+"2018" "9" "Sacramento" "PM10 Total 0-10um STP" 25.36 45
+"2018" "10" "Sacramento" "PM10 Total 0-10um STP" 29.3921568627451 37
+"2018" "11" "Sacramento" "PM10 Total 0-10um STP" 85.3333333333333 48
+"2018" "12" "Sacramento" "PM10 Total 0-10um STP" 14.7450980392157 57
+"2004" "1" "Alameda" "PM10 Total 0-10um STP" 19.3 46
+"2004" "2" "Alameda" "PM10 Total 0-10um STP" 13.3 37
+"2004" "3" "Alameda" "PM10 Total 0-10um STP" 16 51
+"2004" "4" "Alameda" "PM10 Total 0-10um STP" 21.2 46
+"2004" "5" "Alameda" "PM10 Total 0-10um STP" 16.2 38
+"2004" "6" "Alameda" "PM10 Total 0-10um STP" 18 31
+"2004" "7" "Alameda" "PM10 Total 0-10um STP" 17.3 25
+"2004" "8" "Alameda" "PM10 Total 0-10um STP" 14.8333333333333 30
+"2004" "9" "Alameda" "PM10 Total 0-10um STP" 19.4 34
+"2004" "10" "Alameda" "PM10 Total 0-10um STP" 20.7 36
+"2004" "11" "Alameda" "PM10 Total 0-10um STP" 23.3 29
+"2004" "12" "Alameda" "PM10 Total 0-10um STP" 21.7 37
+"2005" "1" "Alameda" "PM10 Total 0-10um STP" 13.8 56
+"2005" "2" "Alameda" "PM10 Total 0-10um STP" 15.4 45
+"2005" "3" "Alameda" "PM10 Total 0-10um STP" 18.8 35
+"2005" "4" "Alameda" "PM10 Total 0-10um STP" 13.5 38
+"2005" "5" "Alameda" "PM10 Total 0-10um STP" 14.2 37
+"2005" "6" "Alameda" "PM10 Total 0-10um STP" 14.2 43
+"2005" "7" "Alameda" "PM10 Total 0-10um STP" 19.4 33
+"2005" "8" "Alameda" "PM10 Total 0-10um STP" 17.6 28
+"2005" "9" "Alameda" "PM10 Total 0-10um STP" 22.8 26
+"2005" "10" "Alameda" "PM10 Total 0-10um STP" 18.75 33
+"2005" "11" "Alameda" "PM10 Total 0-10um STP" 24.9 33
+"2005" "12" "Alameda" "PM10 Total 0-10um STP" 15.9 49
+"2006" "1" "Alameda" "PM10 Total 0-10um STP" 16.7 49
+"2006" "2" "Alameda" "PM10 Total 0-10um STP" 18.8 40
+"2006" "3" "Alameda" "PM10 Total 0-10um STP" 9.6 58
+"2006" "4" "Alameda" "PM10 Total 0-10um STP" 10.5 38
+"2006" "5" "Alameda" "PM10 Total 0-10um STP" 19.8 32
+"2006" "6" "Alameda" "PM10 Total 0-10um STP" 20.3 31
+"2006" "7" "Alameda" "PM10 Total 0-10um STP" 19.6 30
+"2006" "8" "Alameda" "PM10 Total 0-10um STP" 21.3 25
+"2006" "9" "Alameda" "PM10 Total 0-10um STP" 24.9 29
+"2006" "10" "Alameda" "PM10 Total 0-10um STP" 23.8 29
+"2006" "11" "Alameda" "PM10 Total 0-10um STP" 20.0769230769231 30
+"2006" "12" "Alameda" "PM10 Total 0-10um STP" 32.4285714285714 34
+"2007" "1" "Alameda" "PM10 Total 0-10um STP" 27.2 47
+"2007" "2" "Alameda" "PM10 Total 0-10um STP" 20.75 37
+"2007" "3" "Alameda" "PM10 Total 0-10um STP" 13.8333333333333 38
+"2007" "4" "Alameda" "PM10 Total 0-10um STP" 14.5 47
+"2007" "5" "Alameda" "PM10 Total 0-10um STP" 17.9 37
+"2007" "6" "Alameda" "PM10 Total 0-10um STP" 18.4 30
+"2007" "7" "Alameda" "PM10 Total 0-10um STP" 14.3 29
+"2007" "8" "Alameda" "PM10 Total 0-10um STP" 20.7 27
+"2007" "9" "Alameda" "PM10 Total 0-10um STP" 18.7 23
+"2007" "10" "Alameda" "PM10 Total 0-10um STP" 18.6 34
+"2007" "11" "Alameda" "PM10 Total 0-10um STP" 25.9 40
+"2007" "12" "Alameda" "PM10 Total 0-10um STP" 16.3846153846154 22
+"2008" "1" "Alameda" "PM10 Total 0-10um STP" 16.1666666666667 39
+"2008" "2" "Alameda" "PM10 Total 0-10um STP" 19.75 60
+"2008" "3" "Alameda" "PM10 Total 0-10um STP" 13.6111111111111 47
+"2008" "4" "Alameda" "PM10 Total 0-10um STP" 18.3333333333333 51
+"2008" "5" "Alameda" "PM10 Total 0-10um STP" 21.3333333333333 42
+"2008" "6" "Alameda" "PM10 Total 0-10um STP" 25.9333333333333 34
+"2008" "7" "Alameda" "PM10 Total 0-10um STP" 24.8 28
+"2008" "8" "Alameda" "PM10 Total 0-10um STP" 21.6 29
+"2008" "9" "Alameda" "PM10 Total 0-10um STP" 21 23
+"2008" "10" "Alameda" "PM10 Total 0-10um STP" 26.6 32
+"2008" "11" "Alameda" "PM10 Total 0-10um STP" 20 26
+"2008" "12" "Alameda" "PM10 Total 0-10um STP" 17.8 47
+"2009" "1" "Alameda" "PM10 Total 0-10um STP" 23.8333333333333 44
+"2009" "2" "Alameda" "PM10 Total 0-10um STP" 10.75 37
+"2009" "3" "Alameda" "PM10 Total 0-10um STP" 14.8 29
+"2009" "4" "Alameda" "PM10 Total 0-10um STP" 14.4 40
+"2009" "5" "Alameda" "PM10 Total 0-10um STP" 18.8333333333333 37
+"2009" "6" "Alameda" "PM10 Total 0-10um STP" 19.4 30
+"2009" "7" "Alameda" "PM10 Total 0-10um STP" 12 45
+"2009" "8" "Alameda" "PM10 Total 0-10um STP" 19.4 36
+"2009" "9" "Alameda" "PM10 Total 0-10um STP" 17.8 25
+"2009" "10" "Alameda" "PM10 Total 0-10um STP" 15.8 36
+"2009" "11" "Alameda" "PM10 Total 0-10um STP" 19 34
+"2009" "12" "Alameda" "PM10 Total 0-10um STP" 17 37
+"2010" "1" "Alameda" "PM10 Total 0-10um STP" 18.4 41
+"2010" "2" "Alameda" "PM10 Total 0-10um STP" 18.8 30
+"2010" "3" "Alameda" "PM10 Total 0-10um STP" 17.4 43
+"2010" "4" "Alameda" "PM10 Total 0-10um STP" 17.3333333333333 33
+"2010" "5" "Alameda" "PM10 Total 0-10um STP" 18.6 39
+"2010" "6" "Alameda" "PM10 Total 0-10um STP" 20.4 25
+"2010" "7" "Alameda" "PM10 Total 0-10um STP" 26.1666666666667 27
+"2010" "8" "Alameda" "PM10 Total 0-10um STP" 15 36
+"2010" "9" "Alameda" "PM10 Total 0-10um STP" 20.8 29
+"2010" "10" "Alameda" "PM10 Total 0-10um STP" 23.8 35
+"2010" "11" "Alameda" "PM10 Total 0-10um STP" 20.6 30
+"2010" "12" "Alameda" "PM10 Total 0-10um STP" 18.6 33
+"2004" "1" "Santa Clara" "PM10 Total 0-10um STP" 27.5 44
+"2004" "2" "Santa Clara" "PM10 Total 0-10um STP" 12.9 47
+"2004" "3" "Santa Clara" "PM10 Total 0-10um STP" 23.4 40
+"2004" "4" "Santa Clara" "PM10 Total 0-10um STP" 27.6 43
+"2004" "5" "Santa Clara" "PM10 Total 0-10um STP" 19.8 28
+"2004" "6" "Santa Clara" "PM10 Total 0-10um STP" 20.2 30
+"2004" "7" "Santa Clara" "PM10 Total 0-10um STP" 18.5555555555556 19
+"2004" "8" "Santa Clara" "PM10 Total 0-10um STP" 16.4615384615385 46
+"2004" "9" "Santa Clara" "PM10 Total 0-10um STP" 20.9 28
+"2004" "10" "Santa Clara" "PM10 Total 0-10um STP" 23.6 40
+"2004" "11" "Santa Clara" "PM10 Total 0-10um STP" 36 29
+"2004" "12" "Santa Clara" "PM10 Total 0-10um STP" 33.7 44
+"2005" "1" "Santa Clara" "PM10 Total 0-10um STP" 29.5 44
+"2005" "2" "Santa Clara" "PM10 Total 0-10um STP" 17.5 46
+"2005" "3" "Santa Clara" "PM10 Total 0-10um STP" 20.3 47
+"2005" "4" "Santa Clara" "PM10 Total 0-10um STP" 16.5 42
+"2005" "5" "Santa Clara" "PM10 Total 0-10um STP" 14.7 34
+"2005" "6" "Santa Clara" "PM10 Total 0-10um STP" 17.6 43
+"2005" "7" "Santa Clara" "PM10 Total 0-10um STP" 18.9 35
+"2005" "8" "Santa Clara" "PM10 Total 0-10um STP" 19.4 39
+"2005" "9" "Santa Clara" "PM10 Total 0-10um STP" 23.5 28
+"2005" "10" "Santa Clara" "PM10 Total 0-10um STP" 28.8181818181818 40
+"2005" "11" "Santa Clara" "PM10 Total 0-10um STP" 31.2727272727273 35
+"2005" "12" "Santa Clara" "PM10 Total 0-10um STP" 26.4 54
+"2006" "1" "Santa Clara" "PM10 Total 0-10um STP" 22.8 47
+"2006" "2" "Santa Clara" "PM10 Total 0-10um STP" 25.5555555555556 33
+"2006" "3" "Santa Clara" "PM10 Total 0-10um STP" 11.7272727272727 37
+"2006" "4" "Santa Clara" "PM10 Total 0-10um STP" 10.6 38
+"2006" "5" "Santa Clara" "PM10 Total 0-10um STP" 27.2 45
+"2006" "6" "Santa Clara" "PM10 Total 0-10um STP" 24.5 23
+"2006" "7" "Santa Clara" "PM10 Total 0-10um STP" 23.5555555555556 34
+"2006" "8" "Santa Clara" "PM10 Total 0-10um STP" 29.8181818181818 32
+"2006" "9" "Santa Clara" "PM10 Total 0-10um STP" 43.8 29
+"2006" "10" "Santa Clara" "PM10 Total 0-10um STP" 28.7 31
+"2006" "11" "Santa Clara" "PM10 Total 0-10um STP" 26.3 31
+"2006" "12" "Santa Clara" "PM10 Total 0-10um STP" 44.75 46
+"2007" "1" "Santa Clara" "PM10 Total 0-10um STP" 34.5 52
+"2007" "2" "Santa Clara" "PM10 Total 0-10um STP" 26.5 42
+"2007" "3" "Santa Clara" "PM10 Total 0-10um STP" 19.6363636363636 51
+"2007" "4" "Santa Clara" "PM10 Total 0-10um STP" 18.9090909090909 38
+"2007" "5" "Santa Clara" "PM10 Total 0-10um STP" 20.7 37
+"2007" "6" "Santa Clara" "PM10 Total 0-10um STP" 20 39
+"2007" "7" "Santa Clara" "PM10 Total 0-10um STP" 17.3 24
+"2007" "8" "Santa Clara" "PM10 Total 0-10um STP" 21.8 27
+"2007" "9" "Santa Clara" "PM10 Total 0-10um STP" 20.3 34
+"2007" "10" "Santa Clara" "PM10 Total 0-10um STP" 20.9 25
+"2007" "11" "Santa Clara" "PM10 Total 0-10um STP" 32.2 41
+"2007" "12" "Santa Clara" "PM10 Total 0-10um STP" 17.9 43
+"2008" "1" "Santa Clara" "PM10 Total 0-10um STP" 23.3333333333333 49
+"2008" "2" "Santa Clara" "PM10 Total 0-10um STP" 23.75 50
+"2008" "3" "Santa Clara" "PM10 Total 0-10um STP" 15.6666666666667 46
+"2008" "4" "Santa Clara" "PM10 Total 0-10um STP" 19 47
+"2008" "5" "Santa Clara" "PM10 Total 0-10um STP" 21 44
+"2008" "6" "Santa Clara" "PM10 Total 0-10um STP" 26.2 30
+"2008" "7" "Santa Clara" "PM10 Total 0-10um STP" 23.4 28
+"2008" "8" "Santa Clara" "PM10 Total 0-10um STP" 21 32
+"2008" "9" "Santa Clara" "PM10 Total 0-10um STP" 20 37
+"2008" "10" "Santa Clara" "PM10 Total 0-10um STP" 33.2 33
+"2008" "11" "Santa Clara" "PM10 Total 0-10um STP" 21.6 29
+"2008" "12" "Santa Clara" "PM10 Total 0-10um STP" 18.8 26
+"2009" "1" "Santa Clara" "PM10 Total 0-10um STP" 28.5 46
+"2009" "2" "Santa Clara" "PM10 Total 0-10um STP" 10 42
+"2009" "3" "Santa Clara" "PM10 Total 0-10um STP" 14.6 41
+"2009" "4" "Santa Clara" "PM10 Total 0-10um STP" 23.6 43
+"2009" "5" "Santa Clara" "PM10 Total 0-10um STP" 15.8333333333333 39
+"2009" "6" "Santa Clara" "PM10 Total 0-10um STP" 18.4 35
+"2009" "7" "Santa Clara" "PM10 Total 0-10um STP" 13.6 30
+"2009" "8" "Santa Clara" "PM10 Total 0-10um STP" 18.8 30
+"2009" "9" "Santa Clara" "PM10 Total 0-10um STP" 20.8 18
+"2009" "10" "Santa Clara" "PM10 Total 0-10um STP" 17.8 39
+"2009" "11" "Santa Clara" "PM10 Total 0-10um STP" 23 31
+"2009" "12" "Santa Clara" "PM10 Total 0-10um STP" 22.6 41
+"2010" "1" "Santa Clara" "PM10 Total 0-10um STP" 20.6 64
+"2010" "2" "Santa Clara" "PM10 Total 0-10um STP" 17.2 41
+"2010" "3" "Santa Clara" "PM10 Total 0-10um STP" 16 41
+"2010" "4" "Santa Clara" "PM10 Total 0-10um STP" 18.2 40
+"2010" "5" "Santa Clara" "PM10 Total 0-10um STP" 16.6 40
+"2010" "6" "Santa Clara" "PM10 Total 0-10um STP" 14.8 37
+"2010" "7" "Santa Clara" "PM10 Total 0-10um STP" 20.2 22
+"2010" "8" "Santa Clara" "PM10 Total 0-10um STP" 17.6 24
+"2010" "9" "Santa Clara" "PM10 Total 0-10um STP" 18.7 22
+"2010" "10" "Santa Clara" "PM10 Total 0-10um STP" 20.5 39
+"2010" "11" "Santa Clara" "PM10 Total 0-10um STP" 16.5 34
+"2010" "12" "Santa Clara" "PM10 Total 0-10um STP" 14.1 41
+"2011" "1" "Santa Clara" "PM10 Total 0-10um STP" 21 46
+"2011" "2" "Santa Clara" "PM10 Total 0-10um STP" 12.2857142857143 45
+"2011" "3" "Santa Clara" "PM10 Total 0-10um STP" 11.25 38
+"2011" "4" "Santa Clara" "PM10 Total 0-10um STP" 13.9333333333333 39
+"2011" "5" "Santa Clara" "PM10 Total 0-10um STP" 13.8 45
+"2011" "6" "Santa Clara" "PM10 Total 0-10um STP" 16.4 28
+"2011" "7" "Santa Clara" "PM10 Total 0-10um STP" 16.6 31
+"2011" "8" "Santa Clara" "PM10 Total 0-10um STP" 15.8235294117647 26
+"2011" "9" "Santa Clara" "PM10 Total 0-10um STP" 19.4 27
+"2011" "10" "Santa Clara" "PM10 Total 0-10um STP" 19.0666666666667 28
+"2011" "11" "Santa Clara" "PM10 Total 0-10um STP" 15.6666666666667 32
+"2011" "12" "Santa Clara" "PM10 Total 0-10um STP" 24.2307692307692 42
+"2012" "1" "Santa Clara" "PM10 Total 0-10um STP" 23.4375 46
+"2012" "2" "Santa Clara" "PM10 Total 0-10um STP" 15.0714285714286 48
+"2012" "3" "Santa Clara" "PM10 Total 0-10um STP" 9.25 47
+"2012" "4" "Santa Clara" "PM10 Total 0-10um STP" 17.5333333333333 49
+"2012" "5" "Santa Clara" "PM10 Total 0-10um STP" 18.2857142857143 43
+"2012" "6" "Santa Clara" "PM10 Total 0-10um STP" 16.9230769230769 33
+"2012" "7" "Santa Clara" "PM10 Total 0-10um STP" 13.9285714285714 37
+"2012" "8" "Santa Clara" "PM10 Total 0-10um STP" 15.8235294117647 27
+"2012" "9" "Santa Clara" "PM10 Total 0-10um STP" 20.1333333333333 18
+"2012" "10" "Santa Clara" "PM10 Total 0-10um STP" 16.4666666666667 25
+"2012" "11" "Santa Clara" "PM10 Total 0-10um STP" 15.4 40
+"2012" "12" "Santa Clara" "PM10 Total 0-10um STP" 10.8 38
+"2013" "1" "Santa Clara" "PM10 Total 0-10um STP" 24.625 53
+"2013" "2" "Santa Clara" "PM10 Total 0-10um STP" 16.4615384615385 48
+"2013" "3" "Santa Clara" "PM10 Total 0-10um STP" 15.6 39
+"2013" "4" "Santa Clara" "PM10 Total 0-10um STP" 15.7333333333333 39
+"2013" "5" "Santa Clara" "PM10 Total 0-10um STP" 17.8125 29
+"2013" "6" "Santa Clara" "PM10 Total 0-10um STP" 13.5333333333333 35
+"2013" "7" "Santa Clara" "PM10 Total 0-10um STP" 14.6 29
+"2013" "8" "Santa Clara" "PM10 Total 0-10um STP" 12.8666666666667 32
+"2013" "9" "Santa Clara" "PM10 Total 0-10um STP" 12.0666666666667 23
+"2013" "10" "Santa Clara" "PM10 Total 0-10um STP" 23.8823529411765 35
+"2013" "11" "Santa Clara" "PM10 Total 0-10um STP" 24.6666666666667 33
+"2013" "12" "Santa Clara" "PM10 Total 0-10um STP" 30.2142857142857 45
+"2014" "1" "Santa Clara" "PM10 Total 0-10um STP" 34.4 61
+"2014" "2" "Santa Clara" "PM10 Total 0-10um STP" 17.2 36
+"2014" "3" "Santa Clara" "PM10 Total 0-10um STP" 17.2 39
+"2014" "4" "Santa Clara" "PM10 Total 0-10um STP" 18.4 38
+"2014" "5" "Santa Clara" "PM10 Total 0-10um STP" 18.1 32
+"2014" "6" "Santa Clara" "PM10 Total 0-10um STP" 20.1 21
+"2014" "7" "Santa Clara" "PM10 Total 0-10um STP" 16 30
+"2014" "8" "Santa Clara" "PM10 Total 0-10um STP" 16.2 32
+"2014" "9" "Santa Clara" "PM10 Total 0-10um STP" 20.3 26
+"2014" "10" "Santa Clara" "PM10 Total 0-10um STP" 20.2 26
+"2014" "11" "Santa Clara" "PM10 Total 0-10um STP" 19.7777777777778 26
+"2014" "12" "Santa Clara" "PM10 Total 0-10um STP" 13.7 40
+"2015" "1" "Santa Clara" "PM10 Total 0-10um STP" 33.3 47
+"2015" "2" "Santa Clara" "PM10 Total 0-10um STP" 23 51
+"2015" "3" "Santa Clara" "PM10 Total 0-10um STP" 17.6 44
+"2015" "4" "Santa Clara" "PM10 Total 0-10um STP" 18.6666666666667 32
+"2015" "5" "Santa Clara" "PM10 Total 0-10um STP" 13.5 30
+"2015" "6" "Santa Clara" "PM10 Total 0-10um STP" 21.4 25
+"2015" "7" "Santa Clara" "PM10 Total 0-10um STP" 15.3 29
+"2015" "8" "Santa Clara" "PM10 Total 0-10um STP" 22.4545454545455 25
+"2015" "9" "Santa Clara" "PM10 Total 0-10um STP" 23.3333333333333 31
+"2015" "10" "Santa Clara" "PM10 Total 0-10um STP" 21.9 24
+"2015" "11" "Santa Clara" "PM10 Total 0-10um STP" 19.8 31
+"2015" "12" "Santa Clara" "PM10 Total 0-10um STP" 19.9 40
+"2016" "1" "Santa Clara" "PM10 Total 0-10um STP" 15.0909090909091 45
+"2016" "2" "Santa Clara" "PM10 Total 0-10um STP" 20 44
+"2016" "3" "Santa Clara" "PM10 Total 0-10um STP" 14 38
+"2016" "4" "Santa Clara" "PM10 Total 0-10um STP" 15.2222222222222 22
+"2016" "5" "Santa Clara" "PM10 Total 0-10um STP" 16.4444444444444 26
+"2016" "6" "Santa Clara" "PM10 Total 0-10um STP" 18.875 32
+"2016" "7" "Santa Clara" "PM10 Total 0-10um STP" 14.75 30
+"2016" "8" "Santa Clara" "PM10 Total 0-10um STP" 16.875 24
+"2016" "9" "Santa Clara" "PM10 Total 0-10um STP" 23.1666666666667 21
+"2016" "10" "Santa Clara" "PM10 Total 0-10um STP" 16.875 32
+"2016" "11" "Santa Clara" "PM10 Total 0-10um STP" 21.8 40
+"2016" "12" "Santa Clara" "PM10 Total 0-10um STP" 15.1666666666667 56
+"2017" "1" "Santa Clara" "PM10 Total 0-10um STP" 16.375 40
+"2017" "2" "Santa Clara" "PM10 Total 0-10um STP" 9 32
+"2017" "3" "Santa Clara" "PM10 Total 0-10um STP" 17 48
+"2017" "4" "Santa Clara" "PM10 Total 0-10um STP" 13.7 39
+"2017" "5" "Santa Clara" "PM10 Total 0-10um STP" 15.8333333333333 16
+"2017" "6" "Santa Clara" "PM10 Total 0-10um STP" 19 33
+"2017" "7" "Santa Clara" "PM10 Total 0-10um STP" 19.4 26
+"2017" "8" "Santa Clara" "PM10 Total 0-10um STP" 20.4 28
+"2017" "9" "Santa Clara" "PM10 Total 0-10um STP" 28.8 18
+"2017" "10" "Santa Clara" "PM10 Total 0-10um STP" 33.1818181818182 37
+"2017" "11" "Santa Clara" "PM10 Total 0-10um STP" 17.9 29
+"2017" "12" "Santa Clara" "PM10 Total 0-10um STP" 34.1428571428571 38
+"2018" "1" "Santa Clara" "PM10 Total 0-10um STP" 19.3 50
+"2018" "2" "Santa Clara" "PM10 Total 0-10um STP" 19.6 37
+"2018" "3" "Santa Clara" "PM10 Total 0-10um STP" 13.75 38
+"2018" "4" "Santa Clara" "PM10 Total 0-10um STP" 19.3 38
+"2018" "5" "Santa Clara" "PM10 Total 0-10um STP" 17.2 28
+"2018" "6" "Santa Clara" "PM10 Total 0-10um STP" 21.2 23
+"2018" "7" "Santa Clara" "PM10 Total 0-10um STP" 16.3 23
+"2018" "8" "Santa Clara" "PM10 Total 0-10um STP" 22.7 27
+"2018" "9" "Santa Clara" "PM10 Total 0-10um STP" 23.6 25
+"2018" "10" "Santa Clara" "PM10 Total 0-10um STP" 22.2 31
+"2018" "11" "Santa Clara" "PM10 Total 0-10um STP" 50.6666666666667 26
+"2018" "12" "Santa Clara" "PM10 Total 0-10um STP" 19.3636363636364 32

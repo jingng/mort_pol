@@ -1,0 +1,1441 @@
+"Year" "Month" "County" "Pollutant" "P_Mean" "Count"
+"2004" "1" "Los Angeles" "Carbon monoxide" 1.17226340198511 331
+"2004" "2" "Los Angeles" "Carbon monoxide" 0.857976918032787 306
+"2004" "3" "Los Angeles" "Carbon monoxide" 0.742404822454308 250
+"2004" "4" "Los Angeles" "Carbon monoxide" 0.549725551451187 253
+"2004" "5" "Los Angeles" "Carbon monoxide" 0.460795722921914 249
+"2004" "6" "Los Angeles" "Carbon monoxide" 0.359814933333333 183
+"2004" "7" "Los Angeles" "Carbon monoxide" 0.402298220843672 169
+"2004" "8" "Los Angeles" "Carbon monoxide" 0.421214189054726 201
+"2004" "9" "Los Angeles" "Carbon monoxide" 0.5563853 206
+"2004" "10" "Los Angeles" "Carbon monoxide" 0.620399625935162 204
+"2004" "11" "Los Angeles" "Carbon monoxide" 0.880616828205128 227
+"2004" "12" "Los Angeles" "Carbon monoxide" 0.942409730964467 247
+"2005" "1" "Los Angeles" "Carbon monoxide" 0.83079168 281
+"2005" "2" "Los Angeles" "Carbon monoxide" 0.542304967032967 288
+"2005" "3" "Los Angeles" "Carbon monoxide" 0.501317818858561 280
+"2005" "4" "Los Angeles" "Carbon monoxide" 0.479411880829016 242
+"2005" "5" "Los Angeles" "Carbon monoxide" 0.400472610215054 269
+"2005" "6" "Los Angeles" "Carbon monoxide" 0.358405316666667 213
+"2005" "7" "Los Angeles" "Carbon monoxide" 0.434528916666667 211
+"2005" "8" "Los Angeles" "Carbon monoxide" 0.398715938028169 204
+"2005" "9" "Los Angeles" "Carbon monoxide" 0.485555673184358 176
+"2005" "10" "Los Angeles" "Carbon monoxide" 0.639531962365591 215
+"2005" "11" "Los Angeles" "Carbon monoxide" 0.926410955555556 232
+"2005" "12" "Los Angeles" "Carbon monoxide" 0.961542620967742 382
+"2006" "1" "Los Angeles" "Carbon monoxide" 0.786393516372796 345
+"2006" "2" "Los Angeles" "Carbon monoxide" 0.784314175226586 266
+"2006" "3" "Los Angeles" "Carbon monoxide" 0.500763290322581 280
+"2006" "4" "Los Angeles" "Carbon monoxide" 0.432589136111111 258
+"2006" "5" "Los Angeles" "Carbon monoxide" 0.347735108695652 240
+"2006" "6" "Los Angeles" "Carbon monoxide" 0.381998316384181 202
+"2006" "7" "Los Angeles" "Carbon monoxide" 0.323519200992556 244
+"2006" "8" "Los Angeles" "Carbon monoxide" 0.349820875930521 186
+"2006" "9" "Los Angeles" "Carbon monoxide" 0.473042702564103 202
+"2006" "10" "Los Angeles" "Carbon monoxide" 0.539224165829146 188
+"2006" "11" "Los Angeles" "Carbon monoxide" 0.809403851282051 219
+"2006" "12" "Los Angeles" "Carbon monoxide" 0.883881279069767 258
+"2007" "1" "Los Angeles" "Carbon monoxide" 0.78608041439206 258
+"2007" "2" "Los Angeles" "Carbon monoxide" 0.694924628808864 286
+"2007" "3" "Los Angeles" "Carbon monoxide" 0.537740756823821 297
+"2007" "4" "Los Angeles" "Carbon monoxide" 0.427337611825193 245
+"2007" "5" "Los Angeles" "Carbon monoxide" 0.378090791563275 227
+"2007" "6" "Los Angeles" "Carbon monoxide" 0.328598836363636 225
+"2007" "7" "Los Angeles" "Carbon monoxide" 0.31304928358209 210
+"2007" "8" "Los Angeles" "Carbon monoxide" 0.379452706185567 200
+"2007" "9" "Los Angeles" "Carbon monoxide" 0.373626935233161 204
+"2007" "10" "Los Angeles" "Carbon monoxide" 0.562988725388601 213
+"2007" "11" "Los Angeles" "Carbon monoxide" 0.696110341025641 215
+"2007" "12" "Los Angeles" "Carbon monoxide" 0.618822148883375 230
+"2008" "1" "Los Angeles" "Carbon monoxide" 0.596488155813954 326
+"2008" "2" "Los Angeles" "Carbon monoxide" 0.585257492610837 357
+"2008" "3" "Los Angeles" "Carbon monoxide" 0.473225129032258 317
+"2008" "4" "Los Angeles" "Carbon monoxide" 0.355337075242718 286
+"2008" "5" "Los Angeles" "Carbon monoxide" 0.313389248847926 257
+"2008" "6" "Los Angeles" "Carbon monoxide" 0.380469550970874 241
+"2008" "7" "Los Angeles" "Carbon monoxide" 0.375480465437788 229
+"2008" "8" "Los Angeles" "Carbon monoxide" 0.334256418013857 220
+"2008" "9" "Los Angeles" "Carbon monoxide" 0.400264311904762 192
+"2008" "10" "Los Angeles" "Carbon monoxide" 0.58129600921659 198
+"2008" "11" "Los Angeles" "Carbon monoxide" 0.665107494061758 220
+"2008" "12" "Los Angeles" "Carbon monoxide" 0.589041912442396 239
+"2009" "1" "Los Angeles" "Carbon monoxide" 0.64820232718894 280
+"2009" "2" "Los Angeles" "Carbon monoxide" 0.452360327176781 283
+"2009" "3" "Los Angeles" "Carbon monoxide" 0.36068017617866 291
+"2009" "4" "Los Angeles" "Carbon monoxide" 0.289001335731415 270
+"2009" "5" "Los Angeles" "Carbon monoxide" 0.270039539906103 257
+"2009" "6" "Los Angeles" "Carbon monoxide" 0.215696057279236 261
+"2009" "7" "Los Angeles" "Carbon monoxide" 0.269007787528868 226
+"2009" "8" "Los Angeles" "Carbon monoxide" 0.346670359447005 216
+"2009" "9" "Los Angeles" "Carbon monoxide" 0.384129765550239 196
+"2009" "10" "Los Angeles" "Carbon monoxide" 0.4152946849642 286
+"2009" "11" "Los Angeles" "Carbon monoxide" 0.643951564285714 254
+"2009" "12" "Los Angeles" "Carbon monoxide" 0.634574479713604 263
+"2010" "1" "Los Angeles" "Carbon monoxide" 0.63120217211329 273
+"2010" "2" "Los Angeles" "Carbon monoxide" 0.502094742857143 262
+"2010" "3" "Los Angeles" "Carbon monoxide" 0.380137850220264 291
+"2010" "4" "Los Angeles" "Carbon monoxide" 0.345644273333333 244
+"2010" "5" "Los Angeles" "Carbon monoxide" 0.291793578494624 253
+"2010" "6" "Los Angeles" "Carbon monoxide" 0.282352785234899 179
+"2010" "7" "Los Angeles" "Carbon monoxide" 0.292183692473118 206
+"2010" "8" "Los Angeles" "Carbon monoxide" 0.347711079569893 226
+"2010" "9" "Los Angeles" "Carbon monoxide" 0.433831062222222 218
+"2010" "10" "Los Angeles" "Carbon monoxide" 0.400531082039911 190
+"2010" "11" "Los Angeles" "Carbon monoxide" 0.528459810623557 230
+"2010" "12" "Los Angeles" "Carbon monoxide" 0.569150665909091 231
+"2011" "1" "Los Angeles" "Carbon monoxide" 0.633510673333333 304
+"2011" "2" "Los Angeles" "Carbon monoxide" 0.487863665816327 282
+"2011" "3" "Los Angeles" "Carbon monoxide" 0.415098178494624 336
+"2011" "4" "Los Angeles" "Carbon monoxide" 0.282150919642857 307
+"2011" "5" "Los Angeles" "Carbon monoxide" 0.267279432900433 254
+"2011" "6" "Los Angeles" "Carbon monoxide" 0.24871723830735 223
+"2011" "7" "Los Angeles" "Carbon monoxide" 0.233661167770419 229
+"2011" "8" "Los Angeles" "Carbon monoxide" 0.296355374193548 227
+"2011" "9" "Los Angeles" "Carbon monoxide" 0.343512328767123 175
+"2011" "10" "Los Angeles" "Carbon monoxide" 0.474829280665281 237
+"2011" "11" "Los Angeles" "Carbon monoxide" 0.520712150423729 227
+"2011" "12" "Los Angeles" "Carbon monoxide" 0.74998431504065 281
+"2012" "1" "Los Angeles" "Carbon monoxide" 0.713190201663202 258
+"2012" "2" "Los Angeles" "Carbon monoxide" 0.484415959051724 271
+"2012" "3" "Los Angeles" "Carbon monoxide" 0.364223355691057 291
+"2012" "4" "Los Angeles" "Carbon monoxide" 0.328247555555556 273
+"2012" "5" "Los Angeles" "Carbon monoxide" 0.273622259174312 230
+"2012" "6" "Los Angeles" "Carbon monoxide" 0.242910169047619 197
+"2012" "7" "Los Angeles" "Carbon monoxide" 0.27565003712297 225
+"2012" "8" "Los Angeles" "Carbon monoxide" 0.328216772093023 185
+"2012" "9" "Los Angeles" "Carbon monoxide" 0.39052606 193
+"2012" "10" "Los Angeles" "Carbon monoxide" 0.427087750537634 198
+"2012" "11" "Los Angeles" "Carbon monoxide" 0.549406227171492 220
+"2012" "12" "Los Angeles" "Carbon monoxide" 0.588728449462366 253
+"2013" "1" "Los Angeles" "Carbon monoxide" 0.657014339784946 360
+"2013" "2" "Los Angeles" "Carbon monoxide" 0.522560282178218 351
+"2013" "3" "Los Angeles" "Carbon monoxide" 0.366431143192488 284
+"2013" "4" "Los Angeles" "Carbon monoxide" 0.273982958525346 264
+"2013" "5" "Los Angeles" "Carbon monoxide" 0.247093997757848 215
+"2013" "6" "Los Angeles" "Carbon monoxide" 0.238754711316397 215
+"2013" "7" "Los Angeles" "Carbon monoxide" 0.252665912778905 223
+"2013" "8" "Los Angeles" "Carbon monoxide" 0.288631336099585 196
+"2013" "9" "Los Angeles" "Carbon monoxide" 0.328672985106383 184
+"2013" "10" "Los Angeles" "Carbon monoxide" 0.437509095860566 214
+"2013" "11" "Los Angeles" "Carbon monoxide" 0.528668367117117 248
+"2013" "12" "Los Angeles" "Carbon monoxide" 0.621473757049891 256
+"2014" "1" "Los Angeles" "Carbon monoxide" 0.728670720430107 316
+"2014" "2" "Los Angeles" "Carbon monoxide" 0.439653817745803 253
+"2014" "3" "Los Angeles" "Carbon monoxide" 0.341234251612903 256
+"2014" "4" "Los Angeles" "Carbon monoxide" 0.3056501 234
+"2014" "5" "Los Angeles" "Carbon monoxide" 0.274895621315193 221
+"2014" "6" "Los Angeles" "Carbon monoxide" 0.271655589201878 220
+"2014" "7" "Los Angeles" "Carbon monoxide" 0.257513342592593 197
+"2014" "8" "Los Angeles" "Carbon monoxide" 0.268730624423963 232
+"2014" "9" "Los Angeles" "Carbon monoxide" 0.306597768656716 213
+"2014" "10" "Los Angeles" "Carbon monoxide" 0.403598030373832 197
+"2014" "11" "Los Angeles" "Carbon monoxide" 0.463168641646489 211
+"2014" "12" "Los Angeles" "Carbon monoxide" 0.505843502304147 278
+"2015" "1" "Los Angeles" "Carbon monoxide" 0.553927402777778 358
+"2015" "2" "Los Angeles" "Carbon monoxide" 0.458336760204082 284
+"2015" "3" "Los Angeles" "Carbon monoxide" 0.365114746543779 297
+"2015" "4" "Los Angeles" "Carbon monoxide" 0.30609355 254
+"2015" "5" "Los Angeles" "Carbon monoxide" 0.248168780092593 276
+"2015" "6" "Los Angeles" "Carbon monoxide" 0.254038394230769 212
+"2015" "7" "Los Angeles" "Carbon monoxide" 0.211820229765013 205
+"2015" "8" "Los Angeles" "Carbon monoxide" 0.254667164524422 220
+"2015" "9" "Los Angeles" "Carbon monoxide" 0.288793600515464 220
+"2015" "10" "Los Angeles" "Carbon monoxide" 0.33660237279597 207
+"2015" "11" "Los Angeles" "Carbon monoxide" 0.448884556410256 226
+"2015" "12" "Los Angeles" "Carbon monoxide" 0.500288665012407 280
+"2016" "1" "Los Angeles" "Carbon monoxide" 0.452430805620609 326
+"2016" "2" "Los Angeles" "Carbon monoxide" 0.496005973404255 351
+"2016" "3" "Los Angeles" "Carbon monoxide" 0.347440206976744 344
+"2016" "4" "Los Angeles" "Carbon monoxide" 0.31321708353222 281
+"2016" "5" "Los Angeles" "Carbon monoxide" 0.216131149184149 252
+"2016" "6" "Los Angeles" "Carbon monoxide" 0.272738728571429 223
+"2016" "7" "Los Angeles" "Carbon monoxide" 0.233329712962963 225
+"2016" "8" "Los Angeles" "Carbon monoxide" 0.257012708920188 227
+"2016" "9" "Los Angeles" "Carbon monoxide" 0.301854364508393 199
+"2016" "10" "Los Angeles" "Carbon monoxide" 0.381199501154734 241
+"2016" "11" "Los Angeles" "Carbon monoxide" 0.532686369928401 227
+"2016" "12" "Los Angeles" "Carbon monoxide" 0.48225881030445 283
+"2017" "1" "Los Angeles" "Carbon monoxide" 0.469564338785047 365
+"2017" "2" "Los Angeles" "Carbon monoxide" 0.38337175 287
+"2017" "3" "Los Angeles" "Carbon monoxide" 0.399612032258065 283
+"2017" "4" "Los Angeles" "Carbon monoxide" 0.301534511904762 290
+"2017" "5" "Los Angeles" "Carbon monoxide" 0.246330148148148 264
+"2017" "6" "Los Angeles" "Carbon monoxide" 0.247413607142857 222
+"2017" "7" "Los Angeles" "Carbon monoxide" 0.234161527906977 227
+"2017" "8" "Los Angeles" "Carbon monoxide" 0.256342754176611 222
+"2017" "9" "Los Angeles" "Carbon monoxide" 0.3068516 226
+"2017" "10" "Los Angeles" "Carbon monoxide" 0.437134850515464 224
+"2017" "11" "Los Angeles" "Carbon monoxide" 0.492333919220056 222
+"2017" "12" "Los Angeles" "Carbon monoxide" 0.737962612403101 297
+"2018" "1" "Los Angeles" "Carbon monoxide" 0.54864280787037 395
+"2018" "2" "Los Angeles" "Carbon monoxide" 0.424369119897959 305
+"2018" "3" "Los Angeles" "Carbon monoxide" 0.308669788235294 323
+"2018" "4" "Los Angeles" "Carbon monoxide" 0.269212454054054 248
+"2018" "5" "Los Angeles" "Carbon monoxide" 0.197787075 240
+"2018" "6" "Los Angeles" "Carbon monoxide" 0.222255189781022 214
+"2018" "7" "Los Angeles" "Carbon monoxide" 0.240054915662651 240
+"2018" "8" "Los Angeles" "Carbon monoxide" 0.297496665898618 219
+"2018" "9" "Los Angeles" "Carbon monoxide" 0.309281186602871 198
+"2018" "10" "Los Angeles" "Carbon monoxide" 0.350957116945107 223
+"2018" "11" "Los Angeles" "Carbon monoxide" 0.50460621641791 227
+"2018" "12" "Los Angeles" "Carbon monoxide" 0.52505999026764 277
+"2004" "1" "San Diego" "Carbon monoxide" 1.31690441891892 149
+"2004" "10" "San Diego" "Carbon monoxide" 0.738546703225806 70
+"2004" "11" "San Diego" "Carbon monoxide" 1.07874416666667 85
+"2004" "12" "San Diego" "Carbon monoxide" 1.25663799328859 104
+"2004" "2" "San Diego" "Carbon monoxide" 1.04922044827586 113
+"2004" "3" "San Diego" "Carbon monoxide" 0.790721793548387 116
+"2004" "4" "San Diego" "Carbon monoxide" 0.75488408 99
+"2004" "5" "San Diego" "Carbon monoxide" 0.755219806451613 73
+"2004" "6" "San Diego" "Carbon monoxide" 0.626679734693877 67
+"2004" "7" "San Diego" "Carbon monoxide" 0.487414506493506 67
+"2004" "8" "San Diego" "Carbon monoxide" 0.443477748387097 72
+"2004" "9" "San Diego" "Carbon monoxide" 0.628952193333333 57
+"2005" "1" "San Diego" "Carbon monoxide" 1.22103709459459 115
+"2005" "10" "San Diego" "Carbon monoxide" 0.861831058441558 85
+"2005" "11" "San Diego" "Carbon monoxide" 1.0042631779661 93
+"2005" "12" "San Diego" "Carbon monoxide" 1.11376295394737 130
+"2005" "2" "San Diego" "Carbon monoxide" 1.05857433571429 90
+"2005" "3" "San Diego" "Carbon monoxide" 0.912643109677419 107
+"2005" "4" "San Diego" "Carbon monoxide" 0.953065873333333 90
+"2005" "5" "San Diego" "Carbon monoxide" 0.735762311688312 106
+"2005" "6" "San Diego" "Carbon monoxide" 0.55541858 81
+"2005" "7" "San Diego" "Carbon monoxide" 0.731209125827815 81
+"2005" "8" "San Diego" "Carbon monoxide" 0.764638412903226 97
+"2005" "9" "San Diego" "Carbon monoxide" 0.800195926174497 67
+"2006" "1" "San Diego" "Carbon monoxide" 1.15205570779221 100
+"2006" "10" "San Diego" "Carbon monoxide" 0.700704366013072 88
+"2006" "11" "San Diego" "Carbon monoxide" 1.05494876 74
+"2006" "12" "San Diego" "Carbon monoxide" 1.18391723870968 76
+"2006" "2" "San Diego" "Carbon monoxide" 1.08531422857143 118
+"2006" "3" "San Diego" "Carbon monoxide" 0.827302683870968 89
+"2006" "4" "San Diego" "Carbon monoxide" 0.716818353333333 109
+"2006" "5" "San Diego" "Carbon monoxide" 0.535530116129032 92
+"2006" "6" "San Diego" "Carbon monoxide" 0.608465453333333 90
+"2006" "7" "San Diego" "Carbon monoxide" 0.531657580645161 83
+"2006" "8" "San Diego" "Carbon monoxide" 0.465465461038961 82
+"2006" "9" "San Diego" "Carbon monoxide" 0.511352020547945 71
+"2007" "1" "San Diego" "Carbon monoxide" 1.05868909375 120
+"2007" "10" "San Diego" "Carbon monoxide" 0.795679438709677 83
+"2007" "11" "San Diego" "Carbon monoxide" 0.84166842 89
+"2007" "12" "San Diego" "Carbon monoxide" 1.08847121290323 66
+"2007" "2" "San Diego" "Carbon monoxide" 0.906837671428571 91
+"2007" "3" "San Diego" "Carbon monoxide" 0.756097888157895 99
+"2007" "4" "San Diego" "Carbon monoxide" 0.629898613333333 106
+"2007" "5" "San Diego" "Carbon monoxide" 0.460247006578947 80
+"2007" "6" "San Diego" "Carbon monoxide" 0.403770046666667 81
+"2007" "7" "San Diego" "Carbon monoxide" 0.443486683870968 68
+"2007" "8" "San Diego" "Carbon monoxide" 0.439013735483871 82
+"2007" "9" "San Diego" "Carbon monoxide" 0.482256453333333 70
+"2008" "1" "San Diego" "Carbon monoxide" 0.944149361842105 108
+"2008" "10" "San Diego" "Carbon monoxide" 0.905973451612903 70
+"2008" "11" "San Diego" "Carbon monoxide" 0.878526491666667 63
+"2008" "12" "San Diego" "Carbon monoxide" 0.801828725806452 86
+"2008" "2" "San Diego" "Carbon monoxide" 0.837831213793103 113
+"2008" "3" "San Diego" "Carbon monoxide" 0.641015483870968 137
+"2008" "4" "San Diego" "Carbon monoxide" 0.55606488 111
+"2008" "5" "San Diego" "Carbon monoxide" 0.517788347368421 75
+"2008" "6" "San Diego" "Carbon monoxide" 0.522243425742574 67
+"2008" "7" "San Diego" "Carbon monoxide" 0.452869951612903 86
+"2008" "8" "San Diego" "Carbon monoxide" 0.440086072580645 79
+"2008" "9" "San Diego" "Carbon monoxide" 0.58231425 72
+"2009" "1" "San Diego" "Carbon monoxide" 0.941690959677419 88
+"2009" "10" "San Diego" "Carbon monoxide" 0.640883040322581 69
+"2009" "11" "San Diego" "Carbon monoxide" 0.820272825 98
+"2009" "12" "San Diego" "Carbon monoxide" 0.82028664516129 81
+"2009" "2" "San Diego" "Carbon monoxide" 0.769770810810811 81
+"2009" "3" "San Diego" "Carbon monoxide" 0.564737520325203 121
+"2009" "4" "San Diego" "Carbon monoxide" 0.500516008547009 93
+"2009" "5" "San Diego" "Carbon monoxide" 0.387704072580645 77
+"2009" "6" "San Diego" "Carbon monoxide" 0.388781116666667 69
+"2009" "7" "San Diego" "Carbon monoxide" 0.390576064516129 70
+"2009" "8" "San Diego" "Carbon monoxide" 0.505810411290323 70
+"2009" "9" "San Diego" "Carbon monoxide" 0.507074383333333 62
+"2010" "1" "San Diego" "Carbon monoxide" 0.876099902439024 115
+"2010" "10" "San Diego" "Carbon monoxide" 0.432619822580645 75
+"2010" "11" "San Diego" "Carbon monoxide" 0.6777385 65
+"2010" "12" "San Diego" "Carbon monoxide" 0.756781193548387 97
+"2010" "2" "San Diego" "Carbon monoxide" 0.602375960784314 95
+"2010" "3" "San Diego" "Carbon monoxide" 0.561026870967742 121
+"2010" "4" "San Diego" "Carbon monoxide" 0.4280226 108
+"2010" "5" "San Diego" "Carbon monoxide" 0.407153596774194 98
+"2010" "6" "San Diego" "Carbon monoxide" 0.425108016666667 83
+"2010" "7" "San Diego" "Carbon monoxide" 0.363252851851852 88
+"2010" "8" "San Diego" "Carbon monoxide" 0.416485725490196 81
+"2010" "9" "San Diego" "Carbon monoxide" 0.476783288135593 68
+"2011" "1" "San Diego" "Carbon monoxide" 0.753757548387097 134
+"2011" "10" "San Diego" "Carbon monoxide" 0.511251053763441 67
+"2011" "11" "San Diego" "Carbon monoxide" 0.6069704 61
+"2011" "12" "San Diego" "Carbon monoxide" 0.823591774193548 111
+"2011" "2" "San Diego" "Carbon monoxide" 0.519668535714286 95
+"2011" "3" "San Diego" "Carbon monoxide" 0.492689172043011 123
+"2011" "4" "San Diego" "Carbon monoxide" 0.362270566666667 81
+"2011" "5" "San Diego" "Carbon monoxide" 0.323567301075269 84
+"2011" "6" "San Diego" "Carbon monoxide" 0.311751388888889 83
+"2011" "7" "San Diego" "Carbon monoxide" 0.296951860215054 78
+"2011" "8" "San Diego" "Carbon monoxide" 0.342433559139785 79
+"2011" "9" "San Diego" "Carbon monoxide" 0.344594320512821 72
+"2012" "1" "San Diego" "Carbon monoxide" 0.82948647311828 116
+"2012" "10" "San Diego" "Carbon monoxide" 0.488003978494624 89
+"2012" "11" "San Diego" "Carbon monoxide" 0.564574659090909 72
+"2012" "12" "San Diego" "Carbon monoxide" 0.568480153846154 113
+"2012" "2" "San Diego" "Carbon monoxide" 0.53211208045977 78
+"2012" "3" "San Diego" "Carbon monoxide" 0.397988255555556 102
+"2012" "4" "San Diego" "Carbon monoxide" 0.394942188888889 92
+"2012" "5" "San Diego" "Carbon monoxide" 0.315965021505376 93
+"2012" "6" "San Diego" "Carbon monoxide" 0.324497655555556 84
+"2012" "7" "San Diego" "Carbon monoxide" 0.326752451612903 61
+"2012" "8" "San Diego" "Carbon monoxide" 0.364796301075269 80
+"2012" "9" "San Diego" "Carbon monoxide" 0.4272362 68
+"2013" "1" "San Diego" "Carbon monoxide" 0.736033290322581 123
+"2013" "10" "San Diego" "Carbon monoxide" 0.501625350877193 80
+"2013" "11" "San Diego" "Carbon monoxide" 0.605083478632479 88
+"2013" "12" "San Diego" "Carbon monoxide" 0.83301185483871 94
+"2013" "2" "San Diego" "Carbon monoxide" 0.634307669642857 112
+"2013" "3" "San Diego" "Carbon monoxide" 0.487487233870968 119
+"2013" "4" "San Diego" "Carbon monoxide" 0.3805387 100
+"2013" "5" "San Diego" "Carbon monoxide" 0.249063418032787 89
+"2013" "6" "San Diego" "Carbon monoxide" 0.321576842105263 74
+"2013" "7" "San Diego" "Carbon monoxide" 0.319931758064516 77
+"2013" "8" "San Diego" "Carbon monoxide" 0.297226024793388 71
+"2013" "9" "San Diego" "Carbon monoxide" 0.392984705882353 87
+"2014" "1" "San Diego" "Carbon monoxide" 0.75629597752809 109
+"2014" "10" "San Diego" "Carbon monoxide" 0.450638139784946 75
+"2014" "11" "San Diego" "Carbon monoxide" 0.491978122222222 82
+"2014" "12" "San Diego" "Carbon monoxide" 0.505450934782609 66
+"2014" "2" "San Diego" "Carbon monoxide" 0.493228725 79
+"2014" "3" "San Diego" "Carbon monoxide" 0.404652419354839 100
+"2014" "4" "San Diego" "Carbon monoxide" 0.378050083333333 87
+"2014" "5" "San Diego" "Carbon monoxide" 0.319601241935484 98
+"2014" "6" "San Diego" "Carbon monoxide" 0.218122016666667 89
+"2014" "7" "San Diego" "Carbon monoxide" 0.235742935483871 82
+"2014" "8" "San Diego" "Carbon monoxide" 0.270236923913043 75
+"2014" "9" "San Diego" "Carbon monoxide" 0.298281269662921 64
+"2015" "1" "San Diego" "Carbon monoxide" 0.643479322580645 123
+"2015" "10" "San Diego" "Carbon monoxide" 0.450677828947368 67
+"2015" "11" "San Diego" "Carbon monoxide" 0.5114835 73
+"2015" "12" "San Diego" "Carbon monoxide" 0.585193924731183 98
+"2015" "2" "San Diego" "Carbon monoxide" 0.430658178571429 109
+"2015" "3" "San Diego" "Carbon monoxide" 0.40030588172043 96
+"2015" "4" "San Diego" "Carbon monoxide" 0.317378546391753 86
+"2015" "5" "San Diego" "Carbon monoxide" 0.263626569105691 69
+"2015" "6" "San Diego" "Carbon monoxide" 0.266092663793103 79
+"2015" "7" "San Diego" "Carbon monoxide" 0.258673298387097 73
+"2015" "8" "San Diego" "Carbon monoxide" 0.330521611570248 81
+"2015" "9" "San Diego" "Carbon monoxide" 0.3396619 70
+"2016" "1" "San Diego" "Carbon monoxide" 0.517747222222222 111
+"2016" "10" "San Diego" "Carbon monoxide" 0.449902639534884 71
+"2016" "11" "San Diego" "Carbon monoxide" 0.546784913793103 92
+"2016" "12" "San Diego" "Carbon monoxide" 0.532866819672131 99
+"2016" "2" "San Diego" "Carbon monoxide" 0.562320045977011 105
+"2016" "3" "San Diego" "Carbon monoxide" 0.392995131868132 111
+"2016" "4" "San Diego" "Carbon monoxide" 0.354741011111111 85
+"2016" "5" "San Diego" "Carbon monoxide" 0.278217537634409 98
+"2016" "6" "San Diego" "Carbon monoxide" 0.340505933333333 65
+"2016" "7" "San Diego" "Carbon monoxide" 0.294290010989011 76
+"2016" "8" "San Diego" "Carbon monoxide" 0.308848139784946 63
+"2016" "9" "San Diego" "Carbon monoxide" 0.353609633333333 89
+"2017" "1" "San Diego" "Carbon monoxide" 0.477410983870968 89
+"2017" "10" "San Diego" "Carbon monoxide" 0.536686016129032 72
+"2017" "11" "San Diego" "Carbon monoxide" 0.582272983333333 80
+"2017" "12" "San Diego" "Carbon monoxide" 0.745003540983607 115
+"2017" "2" "San Diego" "Carbon monoxide" 0.463459446428571 97
+"2017" "3" "San Diego" "Carbon monoxide" 0.500365306451613 104
+"2017" "4" "San Diego" "Carbon monoxide" 0.398694440677966 94
+"2017" "5" "San Diego" "Carbon monoxide" 0.357359467741935 101
+"2017" "6" "San Diego" "Carbon monoxide" 0.411523883333333 87
+"2017" "7" "San Diego" "Carbon monoxide" 0.409600419354839 71
+"2017" "8" "San Diego" "Carbon monoxide" 0.425767838709677 67
+"2017" "9" "San Diego" "Carbon monoxide" 0.43817885 65
+"2018" "1" "San Diego" "Carbon monoxide" 0.651404403225806 123
+"2018" "10" "San Diego" "Carbon monoxide" 0.407233225806452 69
+"2018" "11" "San Diego" "Carbon monoxide" 0.465346366666667 72
+"2018" "12" "San Diego" "Carbon monoxide" 0.546072274193548 92
+"2018" "2" "San Diego" "Carbon monoxide" 0.538288214285714 94
+"2018" "3" "San Diego" "Carbon monoxide" 0.411766258064516 90
+"2018" "4" "San Diego" "Carbon monoxide" 0.382619083333333 90
+"2018" "5" "San Diego" "Carbon monoxide" 0.300919758064516 98
+"2018" "6" "San Diego" "Carbon monoxide" 0.302663 76
+"2018" "7" "San Diego" "Carbon monoxide" 0.337062741935484 83
+"2018" "8" "San Diego" "Carbon monoxide" 0.365042655737705 73
+"2018" "9" "San Diego" "Carbon monoxide" 0.36782015 72
+"2004" "1" "Riverside" "Carbon monoxide" 0.646106370967742 100
+"2004" "2" "Riverside" "Carbon monoxide" 0.52345938 100
+"2004" "3" "Riverside" "Carbon monoxide" 0.474487370967742 88
+"2004" "4" "Riverside" "Carbon monoxide" 0.345206741666667 78
+"2004" "5" "Riverside" "Carbon monoxide" 0.314968637096774 65
+"2004" "6" "Riverside" "Carbon monoxide" 0.392466042016807 60
+"2004" "7" "Riverside" "Carbon monoxide" 0.295368739837398 72
+"2004" "8" "Riverside" "Carbon monoxide" 0.379859193548387 60
+"2004" "9" "Riverside" "Carbon monoxide" 0.522614513274336 58
+"2004" "10" "Riverside" "Carbon monoxide" 0.674180577777778 62
+"2004" "11" "Riverside" "Carbon monoxide" 0.610121930693069 65
+"2004" "12" "Riverside" "Carbon monoxide" 0.60532964516129 94
+"2005" "1" "Riverside" "Carbon monoxide" 0.528767754098361 67
+"2005" "2" "Riverside" "Carbon monoxide" 0.421858135135135 73
+"2005" "3" "Riverside" "Carbon monoxide" 0.454606333333333 90
+"2005" "4" "Riverside" "Carbon monoxide" 0.39379905 72
+"2005" "5" "Riverside" "Carbon monoxide" 0.333251048387097 90
+"2005" "6" "Riverside" "Carbon monoxide" 0.296479908333333 60
+"2005" "7" "Riverside" "Carbon monoxide" 0.355313443548387 67
+"2005" "8" "Riverside" "Carbon monoxide" 0.345620048387097 74
+"2005" "9" "Riverside" "Carbon monoxide" 0.390831183333333 64
+"2005" "10" "Riverside" "Carbon monoxide" 0.448409129032258 78
+"2005" "11" "Riverside" "Carbon monoxide" 0.6132794 62
+"2005" "12" "Riverside" "Carbon monoxide" 0.717119830645161 135
+"2006" "1" "Riverside" "Carbon monoxide" 0.470390776859504 106
+"2006" "2" "Riverside" "Carbon monoxide" 0.575266482142857 99
+"2006" "3" "Riverside" "Carbon monoxide" 0.401227846774194 71
+"2006" "4" "Riverside" "Carbon monoxide" 0.400478825 60
+"2006" "5" "Riverside" "Carbon monoxide" 0.450382798387097 83
+"2006" "6" "Riverside" "Carbon monoxide" 0.397919616666667 52
+"2006" "7" "Riverside" "Carbon monoxide" 0.357605524193548 69
+"2006" "8" "Riverside" "Carbon monoxide" 0.387544282258065 45
+"2006" "9" "Riverside" "Carbon monoxide" 0.337033916666667 63
+"2006" "10" "Riverside" "Carbon monoxide" 0.411828612903226 57
+"2006" "11" "Riverside" "Carbon monoxide" 0.624282633333333 79
+"2006" "12" "Riverside" "Carbon monoxide" 0.607268032258064 69
+"2007" "1" "Riverside" "Carbon monoxide" 0.538942927419355 105
+"2007" "2" "Riverside" "Carbon monoxide" 0.543706455357143 94
+"2007" "3" "Riverside" "Carbon monoxide" 0.490465821138211 103
+"2007" "4" "Riverside" "Carbon monoxide" 0.607813433333333 86
+"2007" "5" "Riverside" "Carbon monoxide" 0.354098024193548 92
+"2007" "6" "Riverside" "Carbon monoxide" 0.387554241666667 62
+"2007" "7" "Riverside" "Carbon monoxide" 0.335459459677419 68
+"2007" "8" "Riverside" "Carbon monoxide" 0.374815693548387 63
+"2007" "9" "Riverside" "Carbon monoxide" 0.352550672268908 54
+"2007" "10" "Riverside" "Carbon monoxide" 0.460176306451613 62
+"2007" "11" "Riverside" "Carbon monoxide" 0.629059616666667 79
+"2007" "12" "Riverside" "Carbon monoxide" 0.516706056451613 86
+"2008" "1" "Riverside" "Carbon monoxide" 0.475312774193548 88
+"2008" "2" "Riverside" "Carbon monoxide" 0.450697528735632 118
+"2008" "3" "Riverside" "Carbon monoxide" 0.38794361827957 108
+"2008" "4" "Riverside" "Carbon monoxide" 0.292760966666667 87
+"2008" "5" "Riverside" "Carbon monoxide" 0.255846467741935 75
+"2008" "6" "Riverside" "Carbon monoxide" 0.277403144444444 62
+"2008" "7" "Riverside" "Carbon monoxide" 0.236781833333333 59
+"2008" "8" "Riverside" "Carbon monoxide" 0.223526075268817 57
+"2008" "9" "Riverside" "Carbon monoxide" 0.334502179487179 56
+"2008" "10" "Riverside" "Carbon monoxide" 0.449448647398844 63
+"2008" "11" "Riverside" "Carbon monoxide" 0.467442955307263 70
+"2008" "12" "Riverside" "Carbon monoxide" 0.518298053763441 71
+"2009" "1" "Riverside" "Carbon monoxide" 0.369791731182796 82
+"2009" "2" "Riverside" "Carbon monoxide" 0.400266904761905 75
+"2009" "3" "Riverside" "Carbon monoxide" 0.34247523655914 85
+"2009" "4" "Riverside" "Carbon monoxide" 0.275352011111111 81
+"2009" "5" "Riverside" "Carbon monoxide" 0.273207376344086 80
+"2009" "6" "Riverside" "Carbon monoxide" 0.167831977777778 66
+"2009" "7" "Riverside" "Carbon monoxide" 0.204796476190476 52
+"2009" "8" "Riverside" "Carbon monoxide" 0.27030888172043 52
+"2009" "9" "Riverside" "Carbon monoxide" 0.306658290502793 58
+"2009" "10" "Riverside" "Carbon monoxide" 0.335233795698925 81
+"2009" "11" "Riverside" "Carbon monoxide" 0.4837453 59
+"2009" "12" "Riverside" "Carbon monoxide" 0.467477720430108 81
+"2010" "1" "Riverside" "Carbon monoxide" 0.486987344086022 88
+"2010" "2" "Riverside" "Carbon monoxide" 0.389279808383234 87
+"2010" "3" "Riverside" "Carbon monoxide" 0.305551448087432 89
+"2010" "4" "Riverside" "Carbon monoxide" 0.253061433333333 83
+"2010" "5" "Riverside" "Carbon monoxide" 0.220173844827586 79
+"2010" "6" "Riverside" "Carbon monoxide" 0.20247782122905 64
+"2010" "7" "Riverside" "Carbon monoxide" 0.243925069892473 65
+"2010" "8" "Riverside" "Carbon monoxide" 0.315127772972973 64
+"2010" "9" "Riverside" "Carbon monoxide" 0.389550188888889 64
+"2010" "10" "Riverside" "Carbon monoxide" 0.315634430107527 56
+"2010" "11" "Riverside" "Carbon monoxide" 0.393474516666667 68
+"2010" "12" "Riverside" "Carbon monoxide" 0.536036532258064 91
+"2011" "1" "Riverside" "Carbon monoxide" 0.415515377880184 84
+"2011" "2" "Riverside" "Carbon monoxide" 0.376027005649718 106
+"2011" "3" "Riverside" "Carbon monoxide" 0.355946726851852 107
+"2011" "4" "Riverside" "Carbon monoxide" 0.242055885714286 77
+"2011" "5" "Riverside" "Carbon monoxide" 0.241388885 75
+"2011" "6" "Riverside" "Carbon monoxide" 0.223952027777778 83
+"2011" "7" "Riverside" "Carbon monoxide" 0.220144392473118 71
+"2011" "8" "Riverside" "Carbon monoxide" 0.253112827956989 79
+"2011" "9" "Riverside" "Carbon monoxide" 0.280360183333333 80
+"2011" "10" "Riverside" "Carbon monoxide" 0.371625393063584 67
+"2011" "11" "Riverside" "Carbon monoxide" 0.372497195530726 70
+"2011" "12" "Riverside" "Carbon monoxide" 0.397701977900553 81
+"2012" "1" "Riverside" "Carbon monoxide" 0.405292360215054 103
+"2012" "2" "Riverside" "Carbon monoxide" 0.260071238372093 92
+"2012" "3" "Riverside" "Carbon monoxide" 0.236377778378378 87
+"2012" "4" "Riverside" "Carbon monoxide" 0.228904913333333 81
+"2012" "5" "Riverside" "Carbon monoxide" 0.215735166666667 96
+"2012" "6" "Riverside" "Carbon monoxide" 0.197407955555556 65
+"2012" "7" "Riverside" "Carbon monoxide" 0.209859123655914 67
+"2012" "8" "Riverside" "Carbon monoxide" 0.236522709677419 63
+"2012" "9" "Riverside" "Carbon monoxide" 0.288609166666667 72
+"2012" "10" "Riverside" "Carbon monoxide" 0.290847 61
+"2012" "11" "Riverside" "Carbon monoxide" 0.401919127777778 77
+"2012" "12" "Riverside" "Carbon monoxide" 0.377769850574713 82
+"2013" "1" "Riverside" "Carbon monoxide" 0.311784248587571 110
+"2013" "2" "Riverside" "Carbon monoxide" 0.31027425 107
+"2013" "3" "Riverside" "Carbon monoxide" 0.286033548913044 88
+"2013" "4" "Riverside" "Carbon monoxide" 0.204176988826816 87
+"2013" "5" "Riverside" "Carbon monoxide" 0.18159773655914 67
+"2013" "6" "Riverside" "Carbon monoxide" 0.219641766666667 68
+"2013" "7" "Riverside" "Carbon monoxide" 0.240906586021505 79
+"2013" "8" "Riverside" "Carbon monoxide" 0.255048650537634 88
+"2013" "9" "Riverside" "Carbon monoxide" 0.264570722222222 70
+"2013" "10" "Riverside" "Carbon monoxide" 0.317525147435897 79
+"2013" "11" "Riverside" "Carbon monoxide" 0.377969677777778 71
+"2013" "12" "Riverside" "Carbon monoxide" 0.407307456989247 84
+"2014" "1" "Riverside" "Carbon monoxide" 0.464544451612903 120
+"2014" "2" "Riverside" "Carbon monoxide" 0.360630261904762 95
+"2014" "3" "Riverside" "Carbon monoxide" 0.276953440860215 97
+"2014" "4" "Riverside" "Carbon monoxide" 0.25173991011236 75
+"2014" "5" "Riverside" "Carbon monoxide" 0.224554839779006 76
+"2014" "6" "Riverside" "Carbon monoxide" 0.1791289 63
+"2014" "7" "Riverside" "Carbon monoxide" 0.167366838709677 65
+"2014" "8" "Riverside" "Carbon monoxide" 0.190175370967742 53
+"2014" "9" "Riverside" "Carbon monoxide" 0.227926219653179 74
+"2014" "10" "Riverside" "Carbon monoxide" 0.32797761827957 73
+"2014" "11" "Riverside" "Carbon monoxide" 0.309423905555556 72
+"2014" "12" "Riverside" "Carbon monoxide" 0.418298446236559 91
+"2015" "1" "Riverside" "Carbon monoxide" 0.390085329032258 122
+"2015" "2" "Riverside" "Carbon monoxide" 0.332184614285714 101
+"2015" "3" "Riverside" "Carbon monoxide" 0.249289909090909 98
+"2015" "4" "Riverside" "Carbon monoxide" 0.188709202702703 107
+"2015" "5" "Riverside" "Carbon monoxide" 0.117143401315789 87
+"2015" "6" "Riverside" "Carbon monoxide" 0.154726913333333 89
+"2015" "7" "Riverside" "Carbon monoxide" 0.113951541935484 76
+"2015" "8" "Riverside" "Carbon monoxide" 0.174055548387097 67
+"2015" "9" "Riverside" "Carbon monoxide" 0.19141748 58
+"2015" "10" "Riverside" "Carbon monoxide" 0.234434701298701 75
+"2015" "11" "Riverside" "Carbon monoxide" 0.277975406666667 79
+"2015" "12" "Riverside" "Carbon monoxide" 0.375795161290323 83
+"2016" "1" "Riverside" "Carbon monoxide" 0.338301890322581 107
+"2016" "2" "Riverside" "Carbon monoxide" 0.294213579310345 84
+"2016" "3" "Riverside" "Carbon monoxide" 0.238216815789474 130
+"2016" "4" "Riverside" "Carbon monoxide" 0.21073686 96
+"2016" "5" "Riverside" "Carbon monoxide" 0.141683625 90
+"2016" "6" "Riverside" "Carbon monoxide" 0.183912466666667 50
+"2016" "7" "Riverside" "Carbon monoxide" 0.115221425806452 70
+"2016" "8" "Riverside" "Carbon monoxide" 0.144933735483871 67
+"2016" "9" "Riverside" "Carbon monoxide" 0.165230700680272 57
+"2016" "10" "Riverside" "Carbon monoxide" 0.249663920634921 87
+"2016" "11" "Riverside" "Carbon monoxide" 0.360915466019417 86
+"2016" "12" "Riverside" "Carbon monoxide" 0.240952316666667 81
+"2017" "1" "Riverside" "Carbon monoxide" 0.147410735483871 104
+"2017" "2" "Riverside" "Carbon monoxide" 0.249624121428571 98
+"2017" "3" "Riverside" "Carbon monoxide" 0.256466858064516 97
+"2017" "4" "Riverside" "Carbon monoxide" 0.203072653333333 82
+"2017" "5" "Riverside" "Carbon monoxide" 0.183910793548387 83
+"2017" "6" "Riverside" "Carbon monoxide" 0.203552784722222 88
+"2017" "7" "Riverside" "Carbon monoxide" 0.185607851612903 76
+"2017" "8" "Riverside" "Carbon monoxide" 0.219446374193548 60
+"2017" "9" "Riverside" "Carbon monoxide" 0.211231926666667 76
+"2017" "10" "Riverside" "Carbon monoxide" 0.269059883870968 63
+"2017" "11" "Riverside" "Carbon monoxide" 0.36978446 68
+"2017" "12" "Riverside" "Carbon monoxide" 0.427173348387097 89
+"2018" "1" "Riverside" "Carbon monoxide" 0.390741716129032 159
+"2018" "2" "Riverside" "Carbon monoxide" 0.326083285714286 105
+"2018" "3" "Riverside" "Carbon monoxide" 0.272221909677419 110
+"2018" "4" "Riverside" "Carbon monoxide" 0.207420682758621 99
+"2018" "5" "Riverside" "Carbon monoxide" 0.142550520547945 89
+"2018" "6" "Riverside" "Carbon monoxide" 0.160127561538462 77
+"2018" "7" "Riverside" "Carbon monoxide" 0.200648721854305 89
+"2018" "8" "Riverside" "Carbon monoxide" 0.264097217105263 73
+"2018" "9" "Riverside" "Carbon monoxide" 0.282270813333333 69
+"2018" "10" "Riverside" "Carbon monoxide" 0.280804625 87
+"2018" "11" "Riverside" "Carbon monoxide" 0.353228793333333 89
+"2018" "12" "Riverside" "Carbon monoxide" 0.420333890322581 100
+"2004" "1" "Orange" "Carbon monoxide" 0.987719282258064 110
+"2004" "2" "Orange" "Carbon monoxide" 0.723789163793103 70
+"2004" "3" "Orange" "Carbon monoxide" 0.557373016129032 91
+"2004" "4" "Orange" "Carbon monoxide" 0.375093875 78
+"2004" "5" "Orange" "Carbon monoxide" 0.289287967741935 72
+"2004" "6" "Orange" "Carbon monoxide" 0.214649923728814 57
+"2004" "7" "Orange" "Carbon monoxide" 0.220895830645161 55
+"2004" "8" "Orange" "Carbon monoxide" 0.232169108333333 60
+"2004" "9" "Orange" "Carbon monoxide" 0.3849372 70
+"2004" "10" "Orange" "Carbon monoxide" 0.437457911290323 50
+"2004" "11" "Orange" "Carbon monoxide" 0.707490175 73
+"2004" "12" "Orange" "Carbon monoxide" 0.846465008064516 80
+"2005" "1" "Orange" "Carbon monoxide" 0.749862137096774 112
+"2005" "2" "Orange" "Carbon monoxide" 0.440751594594595 88
+"2005" "3" "Orange" "Carbon monoxide" 0.33727360483871 79
+"2005" "4" "Orange" "Carbon monoxide" 0.326874233333333 79
+"2005" "5" "Orange" "Carbon monoxide" 0.229928919354839 73
+"2005" "6" "Orange" "Carbon monoxide" 0.19104355 71
+"2005" "7" "Orange" "Carbon monoxide" 0.178409774193548 59
+"2005" "8" "Orange" "Carbon monoxide" 0.200861919354839 62
+"2005" "9" "Orange" "Carbon monoxide" 0.318342758333333 68
+"2005" "10" "Orange" "Carbon monoxide" 0.423879669354839 56
+"2005" "11" "Orange" "Carbon monoxide" 0.740907613445378 67
+"2005" "12" "Orange" "Carbon monoxide" 0.834330715447154 93
+"2006" "1" "Orange" "Carbon monoxide" 0.666521532258065 114
+"2006" "2" "Orange" "Carbon monoxide" 0.695794732142857 72
+"2006" "3" "Orange" "Carbon monoxide" 0.365370629032258 89
+"2006" "4" "Orange" "Carbon monoxide" 0.283835658333333 84
+"2006" "5" "Orange" "Carbon monoxide" 0.243205346774194 71
+"2006" "6" "Orange" "Carbon monoxide" 0.228412391666667 57
+"2006" "7" "Orange" "Carbon monoxide" 0.18022625 66
+"2006" "8" "Orange" "Carbon monoxide" 0.197340540322581 73
+"2006" "9" "Orange" "Carbon monoxide" 0.297693170940171 58
+"2006" "10" "Orange" "Carbon monoxide" 0.415509798387097 70
+"2006" "11" "Orange" "Carbon monoxide" 0.667364633333333 64
+"2006" "12" "Orange" "Carbon monoxide" 0.829572556451613 74
+"2007" "1" "Orange" "Carbon monoxide" 0.594831227642276 93
+"2007" "2" "Orange" "Carbon monoxide" 0.557330794642857 95
+"2007" "3" "Orange" "Carbon monoxide" 0.370523459677419 81
+"2007" "4" "Orange" "Carbon monoxide" 0.264201083333333 76
+"2007" "5" "Orange" "Carbon monoxide" 0.197689699186992 86
+"2007" "6" "Orange" "Carbon monoxide" 0.208365333333333 70
+"2007" "7" "Orange" "Carbon monoxide" 0.1181245 63
+"2007" "8" "Orange" "Carbon monoxide" 0.153994694915254 59
+"2007" "9" "Orange" "Carbon monoxide" 0.217184377192982 59
+"2007" "10" "Orange" "Carbon monoxide" 0.52296441322314 73
+"2007" "11" "Orange" "Carbon monoxide" 0.601362008333333 79
+"2007" "12" "Orange" "Carbon monoxide" 0.664435338709677 73
+"2008" "1" "Orange" "Carbon monoxide" 0.586710846774193 105
+"2008" "2" "Orange" "Carbon monoxide" 0.550389482758621 143
+"2008" "3" "Orange" "Carbon monoxide" 0.388251290322581 115
+"2008" "4" "Orange" "Carbon monoxide" 0.321114808333333 87
+"2008" "5" "Orange" "Carbon monoxide" 0.229719814516129 79
+"2008" "6" "Orange" "Carbon monoxide" 0.240806483333333 77
+"2008" "7" "Orange" "Carbon monoxide" 0.247548467741935 67
+"2008" "8" "Orange" "Carbon monoxide" 0.157887764227642 59
+"2008" "9" "Orange" "Carbon monoxide" 0.271187958333333 57
+"2008" "10" "Orange" "Carbon monoxide" 0.461739911290323 69
+"2008" "11" "Orange" "Carbon monoxide" 0.606689275 78
+"2008" "12" "Orange" "Carbon monoxide" 0.603471 65
+"2009" "1" "Orange" "Carbon monoxide" 0.633133596774194 92
+"2009" "2" "Orange" "Carbon monoxide" 0.482308723214286 74
+"2009" "3" "Orange" "Carbon monoxide" 0.343020258064516 96
+"2009" "4" "Orange" "Carbon monoxide" 0.262358991666667 79
+"2009" "5" "Orange" "Carbon monoxide" 0.149957782258065 76
+"2009" "6" "Orange" "Carbon monoxide" 0.130396282051282 67
+"2009" "7" "Orange" "Carbon monoxide" 0.159318629032258 69
+"2009" "8" "Orange" "Carbon monoxide" 0.251137217741935 71
+"2009" "9" "Orange" "Carbon monoxide" 0.264901521367521 53
+"2009" "10" "Orange" "Carbon monoxide" 0.348822758064516 73
+"2009" "11" "Orange" "Carbon monoxide" 0.513258641666667 67
+"2009" "12" "Orange" "Carbon monoxide" 0.562875459677419 88
+"2010" "1" "Orange" "Carbon monoxide" 0.600612612903226 98
+"2010" "2" "Orange" "Carbon monoxide" 0.351157589285714 91
+"2010" "3" "Orange" "Carbon monoxide" 0.271188024390244 96
+"2010" "4" "Orange" "Carbon monoxide" 0.3043789 87
+"2010" "5" "Orange" "Carbon monoxide" 0.24554860483871 74
+"2010" "6" "Orange" "Carbon monoxide" 0.220801241666667 82
+"2010" "7" "Orange" "Carbon monoxide" 0.221624 84
+"2010" "8" "Orange" "Carbon monoxide" 0.263529588709677 74
+"2010" "9" "Orange" "Carbon monoxide" 0.343455146551724 61
+"2010" "10" "Orange" "Carbon monoxide" 0.276719478632479 71
+"2010" "11" "Orange" "Carbon monoxide" 0.479935925 67
+"2010" "12" "Orange" "Carbon monoxide" 0.553839346774194 82
+"2011" "1" "Orange" "Carbon monoxide" 0.600108830645161 89
+"2011" "2" "Orange" "Carbon monoxide" 0.379622821428571 101
+"2011" "3" "Orange" "Carbon monoxide" 0.321767556451613 108
+"2011" "4" "Orange" "Carbon monoxide" 0.219407887755102 92
+"2011" "5" "Orange" "Carbon monoxide" 0.164172548387097 73
+"2011" "6" "Orange" "Carbon monoxide" 0.128117641666667 67
+"2011" "7" "Orange" "Carbon monoxide" 0.107162911290323 64
+"2011" "8" "Orange" "Carbon monoxide" 0.14504593442623 78
+"2011" "9" "Orange" "Carbon monoxide" 0.211999752212389 65
+"2011" "10" "Orange" "Carbon monoxide" 0.364693303278689 88
+"2011" "11" "Orange" "Carbon monoxide" 0.470384166666667 75
+"2011" "12" "Orange" "Carbon monoxide" 0.552936060869565 96
+"2012" "1" "Orange" "Carbon monoxide" 0.620702423728814 89
+"2012" "2" "Orange" "Carbon monoxide" 0.356380827586207 88
+"2012" "3" "Orange" "Carbon monoxide" 0.311364422764228 83
+"2012" "4" "Orange" "Carbon monoxide" 0.292171958333333 87
+"2012" "5" "Orange" "Carbon monoxide" 0.222182120967742 85
+"2012" "6" "Orange" "Carbon monoxide" 0.1920134 54
+"2012" "7" "Orange" "Carbon monoxide" 0.197411532258065 64
+"2012" "8" "Orange" "Carbon monoxide" 0.214597935483871 70
+"2012" "9" "Orange" "Carbon monoxide" 0.303246166666667 66
+"2012" "10" "Orange" "Carbon monoxide" 0.338960983870968 75
+"2012" "11" "Orange" "Carbon monoxide" 0.435939941666667 85
+"2012" "12" "Orange" "Carbon monoxide" 0.469057508064516 88
+"2013" "1" "Orange" "Carbon monoxide" 0.565355290322581 110
+"2013" "2" "Orange" "Carbon monoxide" 0.424416053571429 120
+"2013" "3" "Orange" "Carbon monoxide" 0.297700370967742 97
+"2013" "4" "Orange" "Carbon monoxide" 0.224382925 93
+"2013" "5" "Orange" "Carbon monoxide" 0.201695819672131 72
+"2013" "6" "Orange" "Carbon monoxide" 0.162527222222222 73
+"2013" "7" "Orange" "Carbon monoxide" 0.162756548387097 74
+"2013" "8" "Orange" "Carbon monoxide" 0.176077232758621 64
+"2013" "9" "Orange" "Carbon monoxide" 0.214636141666667 86
+"2013" "10" "Orange" "Carbon monoxide" 0.277084637096774 78
+"2013" "11" "Orange" "Carbon monoxide" 0.42577461682243 68
+"2013" "12" "Orange" "Carbon monoxide" 0.550879223140496 88
+"2014" "1" "Orange" "Carbon monoxide" 0.560989201612903 104
+"2014" "2" "Orange" "Carbon monoxide" 0.314940517857143 97
+"2014" "3" "Orange" "Carbon monoxide" 0.182311846774194 83
+"2014" "4" "Orange" "Carbon monoxide" 0.151417091666667 84
+"2014" "5" "Orange" "Carbon monoxide" 0.150884709677419 62
+"2014" "6" "Orange" "Carbon monoxide" 0.0877869 77
+"2014" "7" "Orange" "Carbon monoxide" 0.0624737903225806 85
+"2014" "8" "Orange" "Carbon monoxide" 0.0917813790322581 55
+"2014" "9" "Orange" "Carbon monoxide" 0.1931696 59
+"2014" "10" "Orange" "Carbon monoxide" 0.324318427419355 52
+"2014" "11" "Orange" "Carbon monoxide" 0.432969728813559 72
+"2014" "12" "Orange" "Carbon monoxide" 0.492455717741935 90
+"2015" "1" "Orange" "Carbon monoxide" 0.627308367741935 107
+"2015" "2" "Orange" "Carbon monoxide" 0.495284135714286 99
+"2015" "3" "Orange" "Carbon monoxide" 0.428725632258065 84
+"2015" "4" "Orange" "Carbon monoxide" 0.34800486 96
+"2015" "5" "Orange" "Carbon monoxide" 0.300809961290323 73
+"2015" "6" "Orange" "Carbon monoxide" 0.265281006666667 86
+"2015" "7" "Orange" "Carbon monoxide" 0.233688032258065 76
+"2015" "8" "Orange" "Carbon monoxide" 0.305916875816993 72
+"2015" "9" "Orange" "Carbon monoxide" 0.307829526666667 57
+"2015" "10" "Orange" "Carbon monoxide" 0.408459387096774 72
+"2015" "11" "Orange" "Carbon monoxide" 0.489279913333333 69
+"2015" "12" "Orange" "Carbon monoxide" 0.626276696774194 107
+"2016" "1" "Orange" "Carbon monoxide" 0.513535483870968 101
+"2016" "2" "Orange" "Carbon monoxide" 0.528273993103448 104
+"2016" "3" "Orange" "Carbon monoxide" 0.348579741721854 99
+"2016" "4" "Orange" "Carbon monoxide" 0.321251344594595 82
+"2016" "5" "Orange" "Carbon monoxide" 0.246265238709677 72
+"2016" "6" "Orange" "Carbon monoxide" 0.305478913333333 64
+"2016" "7" "Orange" "Carbon monoxide" 0.29883296124031 82
+"2016" "8" "Orange" "Carbon monoxide" 0.30034344516129 67
+"2016" "9" "Orange" "Carbon monoxide" 0.388474973333333 62
+"2016" "10" "Orange" "Carbon monoxide" 0.531517470967742 62
+"2016" "11" "Orange" "Carbon monoxide" 0.57260236 73
+"2016" "12" "Orange" "Carbon monoxide" 0.559139516129032 84
+"2017" "1" "Orange" "Carbon monoxide" 0.491104561290323 122
+"2017" "2" "Orange" "Carbon monoxide" 0.435897857142857 115
+"2017" "3" "Orange" "Carbon monoxide" 0.479474548387097 124
+"2017" "4" "Orange" "Carbon monoxide" 0.334418833333333 95
+"2017" "5" "Orange" "Carbon monoxide" 0.29216935483871 83
+"2017" "6" "Orange" "Carbon monoxide" 0.2930331 80
+"2017" "7" "Orange" "Carbon monoxide" 0.313571524193548 73
+"2017" "8" "Orange" "Carbon monoxide" 0.357288370967742 70
+"2017" "9" "Orange" "Carbon monoxide" 0.404790658333333 70
+"2017" "10" "Orange" "Carbon monoxide" 0.463556717741935 64
+"2017" "11" "Orange" "Carbon monoxide" 0.583981043859649 65
+"2017" "12" "Orange" "Carbon monoxide" 0.783760555555556 90
+"2018" "1" "Orange" "Carbon monoxide" 0.733410215053763 141
+"2018" "2" "Orange" "Carbon monoxide" 0.609582583333333 100
+"2018" "3" "Orange" "Carbon monoxide" 0.354948911290323 106
+"2018" "4" "Orange" "Carbon monoxide" 0.32893095 97
+"2018" "5" "Orange" "Carbon monoxide" 0.276942741935484 77
+"2018" "6" "Orange" "Carbon monoxide" 0.221095066666667 66
+"2018" "7" "Orange" "Carbon monoxide" 0.264429966101695 57
+"2018" "8" "Orange" "Carbon monoxide" 0.314350188034188 80
+"2018" "9" "Orange" "Carbon monoxide" 0.357134948275862 60
+"2018" "10" "Orange" "Carbon monoxide" 0.363506491071429 68
+"2018" "11" "Orange" "Carbon monoxide" 0.435653871287129 66
+"2018" "12" "Orange" "Carbon monoxide" 0.577045157894737 81
+"2004" "1" "San Bernardino" "Carbon monoxide" 0.795492790322581 129
+"2004" "2" "San Bernardino" "Carbon monoxide" 0.492143844827586 77
+"2004" "3" "San Bernardino" "Carbon monoxide" 0.550597758064516 84
+"2004" "4" "San Bernardino" "Carbon monoxide" 0.3892423 80
+"2004" "5" "San Bernardino" "Carbon monoxide" 0.334399495934959 67
+"2004" "6" "San Bernardino" "Carbon monoxide" 0.35712692173913 59
+"2004" "7" "San Bernardino" "Carbon monoxide" 0.321851983870968 52
+"2004" "8" "San Bernardino" "Carbon monoxide" 0.371117669354839 61
+"2004" "9" "San Bernardino" "Carbon monoxide" 0.395110769230769 52
+"2004" "10" "San Bernardino" "Carbon monoxide" 0.473809451612903 53
+"2004" "11" "San Bernardino" "Carbon monoxide" 0.488316630252101 71
+"2004" "12" "San Bernardino" "Carbon monoxide" 0.531614935483871 74
+"2005" "1" "San Bernardino" "Carbon monoxide" 0.497958306451613 83
+"2005" "2" "San Bernardino" "Carbon monoxide" 0.439288899082569 86
+"2005" "3" "San Bernardino" "Carbon monoxide" 0.341843991596639 75
+"2005" "4" "San Bernardino" "Carbon monoxide" 0.334276991666667 61
+"2005" "5" "San Bernardino" "Carbon monoxide" 0.36769864516129 85
+"2005" "6" "San Bernardino" "Carbon monoxide" 0.301747408333333 60
+"2005" "7" "San Bernardino" "Carbon monoxide" 0.440917157024793 55
+"2005" "8" "San Bernardino" "Carbon monoxide" 0.427014491803279 56
+"2005" "9" "San Bernardino" "Carbon monoxide" 0.400268166666667 52
+"2005" "10" "San Bernardino" "Carbon monoxide" 0.45347560483871 59
+"2005" "11" "San Bernardino" "Carbon monoxide" 0.540362333333333 64
+"2005" "12" "San Bernardino" "Carbon monoxide" 0.653665975806452 114
+"2006" "1" "San Bernardino" "Carbon monoxide" 0.495314081967213 84
+"2006" "2" "San Bernardino" "Carbon monoxide" 0.538667491071429 88
+"2006" "3" "San Bernardino" "Carbon monoxide" 0.451857766129032 80
+"2006" "4" "San Bernardino" "Carbon monoxide" 0.362239766666667 68
+"2006" "5" "San Bernardino" "Carbon monoxide" 0.341045967741935 78
+"2006" "6" "San Bernardino" "Carbon monoxide" 0.37068349137931 55
+"2006" "7" "San Bernardino" "Carbon monoxide" 0.340492453703704 78
+"2006" "8" "San Bernardino" "Carbon monoxide" 0.32360389516129 75
+"2006" "9" "San Bernardino" "Carbon monoxide" 0.344818883333333 48
+"2006" "10" "San Bernardino" "Carbon monoxide" 0.359753096774194 73
+"2006" "11" "San Bernardino" "Carbon monoxide" 0.500224866666667 65
+"2006" "12" "San Bernardino" "Carbon monoxide" 0.566365821138211 68
+"2007" "1" "San Bernardino" "Carbon monoxide" 0.404234024193548 71
+"2007" "2" "San Bernardino" "Carbon monoxide" 0.392906125 82
+"2007" "3" "San Bernardino" "Carbon monoxide" 0.350402443548387 78
+"2007" "4" "San Bernardino" "Carbon monoxide" 0.330722983333333 64
+"2007" "5" "San Bernardino" "Carbon monoxide" 0.305705918032787 66
+"2007" "6" "San Bernardino" "Carbon monoxide" 0.321587816666667 58
+"2007" "7" "San Bernardino" "Carbon monoxide" 0.300025959016393 57
+"2007" "8" "San Bernardino" "Carbon monoxide" 0.308211911290323 61
+"2007" "9" "San Bernardino" "Carbon monoxide" 0.259201625 57
+"2007" "10" "San Bernardino" "Carbon monoxide" 0.374699088709677 51
+"2007" "11" "San Bernardino" "Carbon monoxide" 0.464175825 54
+"2007" "12" "San Bernardino" "Carbon monoxide" 0.371227588709677 65
+"2008" "1" "San Bernardino" "Carbon monoxide" 0.395322078947368 104
+"2008" "2" "San Bernardino" "Carbon monoxide" 0.355434662068966 100
+"2008" "3" "San Bernardino" "Carbon monoxide" 0.373298103225806 114
+"2008" "4" "San Bernardino" "Carbon monoxide" 0.24992766 62
+"2008" "5" "San Bernardino" "Carbon monoxide" 0.238584819354839 64
+"2008" "6" "San Bernardino" "Carbon monoxide" 0.289612513333333 55
+"2008" "7" "San Bernardino" "Carbon monoxide" 0.324491174193548 79
+"2008" "8" "San Bernardino" "Carbon monoxide" 0.282424707792208 54
+"2008" "9" "San Bernardino" "Carbon monoxide" 0.305059673333333 60
+"2008" "10" "San Bernardino" "Carbon monoxide" 0.320963812903226 52
+"2008" "11" "San Bernardino" "Carbon monoxide" 0.364339673333333 67
+"2008" "12" "San Bernardino" "Carbon monoxide" 0.402593077419355 72
+"2009" "1" "San Bernardino" "Carbon monoxide" 0.417394909677419 74
+"2009" "2" "San Bernardino" "Carbon monoxide" 0.307060728571429 83
+"2009" "3" "San Bernardino" "Carbon monoxide" 0.3374902 78
+"2009" "4" "San Bernardino" "Carbon monoxide" 0.313465913333333 61
+"2009" "5" "San Bernardino" "Carbon monoxide" 0.244436258064516 70
+"2009" "6" "San Bernardino" "Carbon monoxide" 0.20984298 64
+"2009" "7" "San Bernardino" "Carbon monoxide" 0.234312064516129 61
+"2009" "8" "San Bernardino" "Carbon monoxide" 0.28685224516129 76
+"2009" "9" "San Bernardino" "Carbon monoxide" 0.314387106666667 60
+"2009" "10" "San Bernardino" "Carbon monoxide" 0.293591658064516 69
+"2009" "11" "San Bernardino" "Carbon monoxide" 0.365131006666667 77
+"2009" "12" "San Bernardino" "Carbon monoxide" 0.366649418300654 68
+"2010" "1" "San Bernardino" "Carbon monoxide" 0.434837658064516 79
+"2010" "2" "San Bernardino" "Carbon monoxide" 0.327438738095238 68
+"2010" "3" "San Bernardino" "Carbon monoxide" 0.225773861538462 84
+"2010" "4" "San Bernardino" "Carbon monoxide" 0.221557713333333 85
+"2010" "5" "San Bernardino" "Carbon monoxide" 0.271057278911565 85
+"2010" "6" "San Bernardino" "Carbon monoxide" 0.312893065693431 51
+"2010" "7" "San Bernardino" "Carbon monoxide" 0.264258286764706 74
+"2010" "8" "San Bernardino" "Carbon monoxide" 0.274046064516129 68
+"2010" "9" "San Bernardino" "Carbon monoxide" 0.449849626666667 63
+"2010" "10" "San Bernardino" "Carbon monoxide" 0.361839493150685 57
+"2010" "11" "San Bernardino" "Carbon monoxide" 0.396843133333333 66
+"2010" "12" "San Bernardino" "Carbon monoxide" 0.463617109677419 63
+"2011" "1" "San Bernardino" "Carbon monoxide" 0.370678870967742 69
+"2011" "2" "San Bernardino" "Carbon monoxide" 0.306664528571429 112
+"2011" "3" "San Bernardino" "Carbon monoxide" 0.310730882352941 91
+"2011" "4" "San Bernardino" "Carbon monoxide" 0.247907724637681 66
+"2011" "5" "San Bernardino" "Carbon monoxide" 0.321923183673469 68
+"2011" "6" "San Bernardino" "Carbon monoxide" 0.32758606 77
+"2011" "7" "San Bernardino" "Carbon monoxide" 0.259681768211921 76
+"2011" "8" "San Bernardino" "Carbon monoxide" 0.279659458064516 59
+"2011" "9" "San Bernardino" "Carbon monoxide" 0.33415546 42
+"2011" "10" "San Bernardino" "Carbon monoxide" 0.427160825806452 59
+"2011" "11" "San Bernardino" "Carbon monoxide" 0.516916766666667 63
+"2011" "12" "San Bernardino" "Carbon monoxide" 0.556292761290323 72
+"2012" "1" "San Bernardino" "Carbon monoxide" 0.547446806451613 84
+"2012" "2" "San Bernardino" "Carbon monoxide" 0.297607895104895 77
+"2012" "3" "San Bernardino" "Carbon monoxide" 0.297782633333333 91
+"2012" "4" "San Bernardino" "Carbon monoxide" 0.250321113333333 92
+"2012" "5" "San Bernardino" "Carbon monoxide" 0.234110677419355 59
+"2012" "6" "San Bernardino" "Carbon monoxide" 0.246843559440559 78
+"2012" "7" "San Bernardino" "Carbon monoxide" 0.263526277419355 78
+"2012" "8" "San Bernardino" "Carbon monoxide" 0.285144453333333 73
+"2012" "9" "San Bernardino" "Carbon monoxide" 0.2942129 89
+"2012" "10" "San Bernardino" "Carbon monoxide" 0.285886651612903 72
+"2012" "11" "San Bernardino" "Carbon monoxide" 0.351905213333333 62
+"2012" "12" "San Bernardino" "Carbon monoxide" 0.311726793548387 72
+"2013" "1" "San Bernardino" "Carbon monoxide" 0.298862072580645 87
+"2013" "2" "San Bernardino" "Carbon monoxide" 0.30417715 90
+"2013" "3" "San Bernardino" "Carbon monoxide" 0.341762980645161 95
+"2013" "4" "San Bernardino" "Carbon monoxide" 0.23531798 67
+"2013" "5" "San Bernardino" "Carbon monoxide" 0.198244039473684 74
+"2013" "6" "San Bernardino" "Carbon monoxide" 0.22018180952381 56
+"2013" "7" "San Bernardino" "Carbon monoxide" 0.280980581699346 70
+"2013" "8" "San Bernardino" "Carbon monoxide" 0.276620090322581 71
+"2013" "9" "San Bernardino" "Carbon monoxide" 0.252611046666667 68
+"2013" "10" "San Bernardino" "Carbon monoxide" 0.270717548387097 73
+"2013" "11" "San Bernardino" "Carbon monoxide" 0.32052193877551 77
+"2013" "12" "San Bernardino" "Carbon monoxide" 0.375737658064516 91
+"2014" "1" "San Bernardino" "Carbon monoxide" 0.425905954545455 90
+"2014" "2" "San Bernardino" "Carbon monoxide" 0.309120470149254 71
+"2014" "3" "San Bernardino" "Carbon monoxide" 0.260426111111111 83
+"2014" "4" "San Bernardino" "Carbon monoxide" 0.320951233333333 80
+"2014" "5" "San Bernardino" "Carbon monoxide" 0.296076756578947 81
+"2014" "6" "San Bernardino" "Carbon monoxide" 0.327244822695035 55
+"2014" "7" "San Bernardino" "Carbon monoxide" 0.30781164516129 75
+"2014" "8" "San Bernardino" "Carbon monoxide" 0.303682348387097 76
+"2014" "9" "San Bernardino" "Carbon monoxide" 0.310885335616438 75
+"2014" "10" "San Bernardino" "Carbon monoxide" 0.647532863636364 70
+"2014" "11" "San Bernardino" "Carbon monoxide" 0.413805623287671 54
+"2014" "12" "San Bernardino" "Carbon monoxide" 0.457839926470588 66
+"2015" "1" "San Bernardino" "Carbon monoxide" 0.595708403225806 99
+"2015" "2" "San Bernardino" "Carbon monoxide" 0.529189571428571 99
+"2015" "3" "San Bernardino" "Carbon monoxide" 0.407826349462366 105
+"2015" "4" "San Bernardino" "Carbon monoxide" 0.338679689655172 91
+"2015" "5" "San Bernardino" "Carbon monoxide" 0.269489569892473 67
+"2015" "6" "San Bernardino" "Carbon monoxide" 0.304930689265537 77
+"2015" "7" "San Bernardino" "Carbon monoxide" 0.266192885869565 65
+"2015" "8" "San Bernardino" "Carbon monoxide" 0.374937195530726 69
+"2015" "9" "San Bernardino" "Carbon monoxide" 0.334521634285714 75
+"2015" "10" "San Bernardino" "Carbon monoxide" 0.354333468926554 76
+"2015" "11" "San Bernardino" "Carbon monoxide" 0.39918981547619 61
+"2015" "12" "San Bernardino" "Carbon monoxide" 0.486268301075269 70
+"2016" "1" "San Bernardino" "Carbon monoxide" 0.459569887096774 93
+"2016" "2" "San Bernardino" "Carbon monoxide" 0.422834316091954 102
+"2016" "3" "San Bernardino" "Carbon monoxide" 0.361284801075269 98
+"2016" "4" "San Bernardino" "Carbon monoxide" 0.313737111111111 73
+"2016" "5" "San Bernardino" "Carbon monoxide" 0.302477822580645 57
+"2016" "6" "San Bernardino" "Carbon monoxide" 0.338763045454545 79
+"2016" "7" "San Bernardino" "Carbon monoxide" 0.341946591397849 71
+"2016" "8" "San Bernardino" "Carbon monoxide" 0.397233564516129 73
+"2016" "9" "San Bernardino" "Carbon monoxide" 0.367788933333333 77
+"2016" "10" "San Bernardino" "Carbon monoxide" 0.407952972677596 73
+"2016" "11" "San Bernardino" "Carbon monoxide" 0.440986441860465 59
+"2016" "12" "San Bernardino" "Carbon monoxide" 0.46519226344086 87
+"2017" "1" "San Bernardino" "Carbon monoxide" 0.391635741935484 113
+"2017" "2" "San Bernardino" "Carbon monoxide" 0.41199718452381 87
+"2017" "3" "San Bernardino" "Carbon monoxide" 0.35267404494382 94
+"2017" "4" "San Bernardino" "Carbon monoxide" 0.318504972067039 75
+"2017" "5" "San Bernardino" "Carbon monoxide" 0.316713209677419 97
+"2017" "6" "San Bernardino" "Carbon monoxide" 0.3544367 75
+"2017" "7" "San Bernardino" "Carbon monoxide" 0.348005520930233 69
+"2017" "8" "San Bernardino" "Carbon monoxide" 0.332777281105991 82
+"2017" "9" "San Bernardino" "Carbon monoxide" 0.323609304761905 63
+"2017" "10" "San Bernardino" "Carbon monoxide" 0.403388952606635 61
+"2017" "11" "San Bernardino" "Carbon monoxide" 0.457933838095238 62
+"2017" "12" "San Bernardino" "Carbon monoxide" 0.487658088785047 94
+"2018" "1" "San Bernardino" "Carbon monoxide" 0.47145873655914 122
+"2018" "2" "San Bernardino" "Carbon monoxide" 0.384497125 100
+"2018" "3" "San Bernardino" "Carbon monoxide" 0.28335114516129 93
+"2018" "4" "San Bernardino" "Carbon monoxide" 0.273934357541899 83
+"2018" "5" "San Bernardino" "Carbon monoxide" 0.224292365168539 76
+"2018" "6" "San Bernardino" "Carbon monoxide" 0.249704203703704 65
+"2018" "7" "San Bernardino" "Carbon monoxide" 0.255640451086957 55
+"2018" "8" "San Bernardino" "Carbon monoxide" 0.263470801075269 79
+"2018" "9" "San Bernardino" "Carbon monoxide" 0.31501293258427 53
+"2018" "10" "San Bernardino" "Carbon monoxide" 0.300576994623656 65
+"2018" "11" "San Bernardino" "Carbon monoxide" 0.37791209039548 64
+"2018" "12" "San Bernardino" "Carbon monoxide" 0.43226676344086 82
+"2004" "1" "Sacramento" "Carbon monoxide" 0.612020509677419 58
+"2004" "2" "Sacramento" "Carbon monoxide" 0.559147006896552 72
+"2004" "3" "Sacramento" "Carbon monoxide" 0.584929167741935 64
+"2004" "4" "Sacramento" "Carbon monoxide" 0.437170733333333 43
+"2004" "5" "Sacramento" "Carbon monoxide" 0.447610025806452 38
+"2004" "6" "Sacramento" "Carbon monoxide" 0.497003027027027 38
+"2004" "7" "Sacramento" "Carbon monoxide" 0.336457054421769 39
+"2004" "8" "Sacramento" "Carbon monoxide" 0.396051275862069 53
+"2004" "9" "Sacramento" "Carbon monoxide" 0.527294466666667 44
+"2004" "10" "Sacramento" "Carbon monoxide" 0.654511548387097 45
+"2004" "11" "Sacramento" "Carbon monoxide" 0.690636383561644 37
+"2004" "12" "Sacramento" "Carbon monoxide" 0.697895638709677 59
+"2005" "1" "Sacramento" "Carbon monoxide" 0.600278367741935 44
+"2005" "2" "Sacramento" "Carbon monoxide" 0.576786 64
+"2005" "3" "Sacramento" "Carbon monoxide" 0.491572716129032 61
+"2005" "4" "Sacramento" "Carbon monoxide" 0.377731493333333 50
+"2005" "5" "Sacramento" "Carbon monoxide" 0.403069129032258 69
+"2005" "6" "Sacramento" "Carbon monoxide" 0.417810881118881 37
+"2005" "7" "Sacramento" "Carbon monoxide" 0.448422083870968 31
+"2005" "8" "Sacramento" "Carbon monoxide" 0.399971961290323 42
+"2005" "9" "Sacramento" "Carbon monoxide" 0.422508446666667 39
+"2005" "10" "Sacramento" "Carbon monoxide" 0.527440483870968 42
+"2005" "11" "Sacramento" "Carbon monoxide" 0.843620618055556 40
+"2005" "12" "Sacramento" "Carbon monoxide" 0.786122438709677 54
+"2006" "1" "Sacramento" "Carbon monoxide" 0.596852903225806 77
+"2006" "2" "Sacramento" "Carbon monoxide" 0.711240071428571 51
+"2006" "3" "Sacramento" "Carbon monoxide" 0.400616467741935 64
+"2006" "4" "Sacramento" "Carbon monoxide" 0.385790533333333 64
+"2006" "5" "Sacramento" "Carbon monoxide" 0.355263975806452 43
+"2006" "6" "Sacramento" "Carbon monoxide" 0.359793591666667 41
+"2006" "7" "Sacramento" "Carbon monoxide" 0.382225887096774 41
+"2006" "8" "Sacramento" "Carbon monoxide" 0.457821256198347 40
+"2006" "9" "Sacramento" "Carbon monoxide" 0.500937051282051 46
+"2006" "10" "Sacramento" "Carbon monoxide" 0.635417056451613 48
+"2006" "11" "Sacramento" "Carbon monoxide" 0.607729525 50
+"2006" "12" "Sacramento" "Carbon monoxide" 0.864441943089431 45
+"2007" "1" "Sacramento" "Carbon monoxide" 0.815157260162602 55
+"2007" "2" "Sacramento" "Carbon monoxide" 0.569188741071429 56
+"2007" "3" "Sacramento" "Carbon monoxide" 0.504746653225806 42
+"2007" "4" "Sacramento" "Carbon monoxide" 0.379917958333333 41
+"2007" "5" "Sacramento" "Carbon monoxide" 0.355371620967742 46
+"2007" "6" "Sacramento" "Carbon monoxide" 0.336229760683761 32
+"2007" "7" "Sacramento" "Carbon monoxide" 0.359558161290323 41
+"2007" "8" "Sacramento" "Carbon monoxide" 0.339170483870968 42
+"2007" "9" "Sacramento" "Carbon monoxide" 0.411988354166667 30
+"2007" "10" "Sacramento" "Carbon monoxide" 0.496600776859504 38
+"2007" "11" "Sacramento" "Carbon monoxide" 0.679269782608696 31
+"2007" "12" "Sacramento" "Carbon monoxide" 0.500342885245902 50
+"2008" "1" "Sacramento" "Carbon monoxide" 0.516932419354839 55
+"2008" "2" "Sacramento" "Carbon monoxide" 0.521494922413793 69
+"2008" "3" "Sacramento" "Carbon monoxide" 0.461024194915254 57
+"2008" "4" "Sacramento" "Carbon monoxide" 0.364194441666667 44
+"2008" "5" "Sacramento" "Carbon monoxide" 0.295385798387097 36
+"2008" "6" "Sacramento" "Carbon monoxide" 0.391856593220339 42
+"2008" "7" "Sacramento" "Carbon monoxide" 0.446538418032787 39
+"2008" "8" "Sacramento" "Carbon monoxide" 0.354437920454545 52
+"2008" "9" "Sacramento" "Carbon monoxide" 0.469402183333333 32
+"2008" "10" "Sacramento" "Carbon monoxide" 0.623977113924051 34
+"2008" "11" "Sacramento" "Carbon monoxide" 0.709757583333333 38
+"2008" "12" "Sacramento" "Carbon monoxide" 0.53696593220339 45
+"2009" "1" "Sacramento" "Carbon monoxide" 0.708822129032258 56
+"2009" "2" "Sacramento" "Carbon monoxide" 0.458370419642857 42
+"2009" "3" "Sacramento" "Carbon monoxide" 0.383618564516129 39
+"2009" "4" "Sacramento" "Carbon monoxide" 0.378770458333333 57
+"2009" "5" "Sacramento" "Carbon monoxide" 0.321324217741935 49
+"2009" "6" "Sacramento" "Carbon monoxide" 0.289471308333333 32
+"2009" "7" "Sacramento" "Carbon monoxide" 0.28129164516129 37
+"2009" "8" "Sacramento" "Carbon monoxide" 0.322155169354839 34
+"2009" "9" "Sacramento" "Carbon monoxide" 0.3450523 36
+"2009" "10" "Sacramento" "Carbon monoxide" 0.417699790322581 47
+"2009" "11" "Sacramento" "Carbon monoxide" 0.628187691666667 45
+"2009" "12" "Sacramento" "Carbon monoxide" 0.634379764227642 44
+"2010" "1" "Sacramento" "Carbon monoxide" 0.443658438016529 74
+"2010" "2" "Sacramento" "Carbon monoxide" 0.421101678571429 64
+"2010" "3" "Sacramento" "Carbon monoxide" 0.293617219512195 73
+"2010" "4" "Sacramento" "Carbon monoxide" 0.277168042016807 51
+"2010" "5" "Sacramento" "Carbon monoxide" 0.244145887096774 65
+"2010" "6" "Sacramento" "Carbon monoxide" 0.231951433333333 34
+"2010" "7" "Sacramento" "Carbon monoxide" 0.267720008196721 41
+"2010" "8" "Sacramento" "Carbon monoxide" 0.309364233870968 41
+"2010" "9" "Sacramento" "Carbon monoxide" 0.377797391666667 42
+"2010" "10" "Sacramento" "Carbon monoxide" 0.348249483870968 49
+"2010" "11" "Sacramento" "Carbon monoxide" 0.455507940677966 43
+"2010" "12" "Sacramento" "Carbon monoxide" 0.441199870967742 61
+"2011" "1" "Sacramento" "Carbon monoxide" 0.475188629032258 54
+"2011" "2" "Sacramento" "Carbon monoxide" 0.413988696428571 66
+"2011" "3" "Sacramento" "Carbon monoxide" 0.299767798387097 61
+"2011" "4" "Sacramento" "Carbon monoxide" 0.262477383333333 49
+"2011" "5" "Sacramento" "Carbon monoxide" 0.251264975806452 55
+"2011" "6" "Sacramento" "Carbon monoxide" 0.284962725 41
+"2011" "7" "Sacramento" "Carbon monoxide" 0.280009580645161 52
+"2011" "8" "Sacramento" "Carbon monoxide" 0.28354910483871 31
+"2011" "9" "Sacramento" "Carbon monoxide" 0.351854034482759 42
+"2011" "10" "Sacramento" "Carbon monoxide" 0.413503821138211 43
+"2011" "11" "Sacramento" "Carbon monoxide" 0.46330915 44
+"2011" "12" "Sacramento" "Carbon monoxide" 0.744378573770492 46
+"2012" "1" "Sacramento" "Carbon monoxide" 0.685293134831461 53
+"2012" "2" "Sacramento" "Carbon monoxide" 0.392130405405405 52
+"2012" "3" "Sacramento" "Carbon monoxide" 0.329357024193548 65
+"2012" "4" "Sacramento" "Carbon monoxide" 0.300921333333333 65
+"2012" "5" "Sacramento" "Carbon monoxide" 0.259523393442623 37
+"2012" "6" "Sacramento" "Carbon monoxide" 0.221584533333333 37
+"2012" "7" "Sacramento" "Carbon monoxide" 0.255335967741936 33
+"2012" "8" "Sacramento" "Carbon monoxide" 0.282297951612903 38
+"2012" "9" "Sacramento" "Carbon monoxide" 0.315529391666667 47
+"2012" "10" "Sacramento" "Carbon monoxide" 0.381697637096774 38
+"2012" "11" "Sacramento" "Carbon monoxide" 0.516280477876106 42
+"2012" "12" "Sacramento" "Carbon monoxide" 0.451440266129032 46
+"2013" "1" "Sacramento" "Carbon monoxide" 0.669755588709677 78
+"2013" "2" "Sacramento" "Carbon monoxide" 0.477685133928571 65
+"2013" "3" "Sacramento" "Carbon monoxide" 0.311482532258064 73
+"2013" "4" "Sacramento" "Carbon monoxide" 0.251492541666667 51
+"2013" "5" "Sacramento" "Carbon monoxide" 0.277348669354839 56
+"2013" "6" "Sacramento" "Carbon monoxide" 0.2104442 47
+"2013" "7" "Sacramento" "Carbon monoxide" 0.204376790909091 39
+"2013" "8" "Sacramento" "Carbon monoxide" 0.23021718699187 37
+"2013" "9" "Sacramento" "Carbon monoxide" 0.232353050847458 41
+"2013" "10" "Sacramento" "Carbon monoxide" 0.370821639175258 55
+"2013" "11" "Sacramento" "Carbon monoxide" 0.489508641666667 44
+"2013" "12" "Sacramento" "Carbon monoxide" 0.660789314516129 55
+"2014" "1" "Sacramento" "Carbon monoxide" 0.640077766129032 65
+"2014" "2" "Sacramento" "Carbon monoxide" 0.344310517857143 52
+"2014" "3" "Sacramento" "Carbon monoxide" 0.290517903225806 48
+"2014" "4" "Sacramento" "Carbon monoxide" 0.274361216666667 60
+"2014" "5" "Sacramento" "Carbon monoxide" 0.186891983870968 57
+"2014" "6" "Sacramento" "Carbon monoxide" 0.217642316666667 50
+"2014" "7" "Sacramento" "Carbon monoxide" 0.196137285714286 38
+"2014" "8" "Sacramento" "Carbon monoxide" 0.18998786440678 51
+"2014" "9" "Sacramento" "Carbon monoxide" 0.220595816666667 35
+"2014" "10" "Sacramento" "Carbon monoxide" 0.312262524193548 61
+"2014" "11" "Sacramento" "Carbon monoxide" 0.500627875 45
+"2014" "12" "Sacramento" "Carbon monoxide" 0.333718936363636 43
+"2015" "1" "Sacramento" "Carbon monoxide" 0.402643559139785 77
+"2015" "2" "Sacramento" "Carbon monoxide" 0.336591756756757 61
+"2015" "3" "Sacramento" "Carbon monoxide" 0.305170048387097 69
+"2015" "4" "Sacramento" "Carbon monoxide" 0.22406655 54
+"2015" "5" "Sacramento" "Carbon monoxide" 0.190245413793103 61
+"2015" "6" "Sacramento" "Carbon monoxide" 0.187717741573034 49
+"2015" "7" "Sacramento" "Carbon monoxide" 0.19505135483871 48
+"2015" "8" "Sacramento" "Carbon monoxide" 0.197269139784946 33
+"2015" "9" "Sacramento" "Carbon monoxide" 0.240471606741573 36
+"2015" "10" "Sacramento" "Carbon monoxide" 0.299296756756757 36
+"2015" "11" "Sacramento" "Carbon monoxide" 0.359053125 48
+"2015" "12" "Sacramento" "Carbon monoxide" 0.357064629032258 59
+"2016" "1" "Sacramento" "Carbon monoxide" 0.523838578512397 58
+"2016" "2" "Sacramento" "Carbon monoxide" 0.659485022988506 60
+"2016" "3" "Sacramento" "Carbon monoxide" 0.456029989583333 73
+"2016" "4" "Sacramento" "Carbon monoxide" 0.278372495798319 62
+"2016" "5" "Sacramento" "Carbon monoxide" 0.246308733870968 35
+"2016" "6" "Sacramento" "Carbon monoxide" 0.2486766 32
+"2016" "7" "Sacramento" "Carbon monoxide" 0.235121016260163 41
+"2016" "8" "Sacramento" "Carbon monoxide" 0.265182451612903 34
+"2016" "9" "Sacramento" "Carbon monoxide" 0.3486582 50
+"2016" "10" "Sacramento" "Carbon monoxide" 0.40199089516129 38
+"2016" "11" "Sacramento" "Carbon monoxide" 0.399322783333333 44
+"2016" "12" "Sacramento" "Carbon monoxide" 0.499673225806452 52
+"2017" "1" "Sacramento" "Carbon monoxide" 0.349302729508197 75
+"2017" "2" "Sacramento" "Carbon monoxide" 0.315261875 54
+"2017" "3" "Sacramento" "Carbon monoxide" 0.368413778688525 48
+"2017" "4" "Sacramento" "Carbon monoxide" 0.268946396039604 56
+"2017" "5" "Sacramento" "Carbon monoxide" 0.198853552845528 52
+"2017" "6" "Sacramento" "Carbon monoxide" 0.212485717647059 52
+"2017" "7" "Sacramento" "Carbon monoxide" 0.201453114285714 51
+"2017" "8" "Sacramento" "Carbon monoxide" 0.247735604938272 30
+"2017" "9" "Sacramento" "Carbon monoxide" 0.302106333333333 36
+"2017" "10" "Sacramento" "Carbon monoxide" 0.396476986666667 40
+"2017" "11" "Sacramento" "Carbon monoxide" 0.380569544444444 44
+"2017" "12" "Sacramento" "Carbon monoxide" 0.603401193548387 62
+"2018" "1" "Sacramento" "Carbon monoxide" 0.429390973333333 73
+"2018" "2" "Sacramento" "Carbon monoxide" 0.367411256410256 55
+"2018" "3" "Sacramento" "Carbon monoxide" 0.300553033707865 69
+"2018" "4" "Sacramento" "Carbon monoxide" 0.243993933333333 46
+"2018" "5" "Sacramento" "Carbon monoxide" 0.229510108695652 45
+"2018" "6" "Sacramento" "Carbon monoxide" 0.239660055555556 48
+"2018" "7" "Sacramento" "Carbon monoxide" 0.247604204301075 37
+"2018" "8" "Sacramento" "Carbon monoxide" 0.330238086021505 37
+"2018" "9" "Sacramento" "Carbon monoxide" 0.291616411111111 45
+"2018" "10" "Sacramento" "Carbon monoxide" 0.326312827956989 37
+"2018" "11" "Sacramento" "Carbon monoxide" 0.780145709302326 48
+"2018" "12" "Sacramento" "Carbon monoxide" 0.374379703296703 57
+"2004" "1" "Alameda" "Carbon monoxide" 0.625266279569892 46
+"2004" "2" "Alameda" "Carbon monoxide" 0.557580068965517 37
+"2004" "3" "Alameda" "Carbon monoxide" 0.517219698924731 51
+"2004" "4" "Alameda" "Carbon monoxide" 0.404649159090909 46
+"2004" "5" "Alameda" "Carbon monoxide" 0.304656032967033 38
+"2004" "6" "Alameda" "Carbon monoxide" 0.273358322222222 31
+"2004" "7" "Alameda" "Carbon monoxide" 0.278626537634409 25
+"2004" "8" "Alameda" "Carbon monoxide" 0.31411752688172 30
+"2004" "9" "Alameda" "Carbon monoxide" 0.451792255555556 34
+"2004" "10" "Alameda" "Carbon monoxide" 0.441313860215054 36
+"2004" "11" "Alameda" "Carbon monoxide" 0.603087306818182 29
+"2004" "12" "Alameda" "Carbon monoxide" 0.664644075268817 37
+"2005" "1" "Alameda" "Carbon monoxide" 0.641169365591398 56
+"2005" "2" "Alameda" "Carbon monoxide" 0.508124190476191 45
+"2005" "3" "Alameda" "Carbon monoxide" 0.484367913043478 35
+"2005" "4" "Alameda" "Carbon monoxide" 0.480353477777778 38
+"2005" "5" "Alameda" "Carbon monoxide" 0.404326978494624 37
+"2005" "6" "Alameda" "Carbon monoxide" 0.362581688888889 43
+"2005" "7" "Alameda" "Carbon monoxide" 0.360535806451613 33
+"2005" "8" "Alameda" "Carbon monoxide" 0.410180010752688 28
+"2005" "9" "Alameda" "Carbon monoxide" 0.403666866666667 26
+"2005" "10" "Alameda" "Carbon monoxide" 0.513495462365591 33
+"2005" "11" "Alameda" "Carbon monoxide" 0.749907422222222 33
+"2005" "12" "Alameda" "Carbon monoxide" 0.606718483870968 49
+"2006" "1" "Alameda" "Carbon monoxide" 0.660654161290323 49
+"2006" "2" "Alameda" "Carbon monoxide" 0.605211553571429 40
+"2006" "3" "Alameda" "Carbon monoxide" 0.456678451612903 58
+"2006" "4" "Alameda" "Carbon monoxide" 0.395928883333333 38
+"2006" "5" "Alameda" "Carbon monoxide" 0.357277790322581 32
+"2006" "6" "Alameda" "Carbon monoxide" 0.351442316666667 31
+"2006" "7" "Alameda" "Carbon monoxide" 0.375483274193548 30
+"2006" "8" "Alameda" "Carbon monoxide" 0.375034483870968 25
+"2006" "9" "Alameda" "Carbon monoxide" 0.495442816666667 29
+"2006" "10" "Alameda" "Carbon monoxide" 0.486297532258064 29
+"2006" "11" "Alameda" "Carbon monoxide" 0.569184783333333 30
+"2006" "12" "Alameda" "Carbon monoxide" 0.724786274193548 34
+"2007" "1" "Alameda" "Carbon monoxide" 0.690529709677419 47
+"2007" "2" "Alameda" "Carbon monoxide" 0.464210803571429 37
+"2007" "3" "Alameda" "Carbon monoxide" 0.511870612903226 38
+"2007" "4" "Alameda" "Carbon monoxide" 0.410164833333333 47
+"2007" "5" "Alameda" "Carbon monoxide" 0.312323822580645 37
+"2007" "6" "Alameda" "Carbon monoxide" 0.31254795 30
+"2007" "7" "Alameda" "Carbon monoxide" 0.27213185483871 29
+"2007" "8" "Alameda" "Carbon monoxide" 0.289131774193548 27
+"2007" "9" "Alameda" "Carbon monoxide" 0.329253383333333 23
+"2007" "10" "Alameda" "Carbon monoxide" 0.430685 34
+"2007" "11" "Alameda" "Carbon monoxide" 0.556097166666667 40
+"2007" "12" "Alameda" "Carbon monoxide" 0.454575448275862 22
+"2008" "1" "Alameda" "Carbon monoxide" 0.436562024793388 39
+"2008" "2" "Alameda" "Carbon monoxide" 0.446392931034483 60
+"2008" "3" "Alameda" "Carbon monoxide" 0.346617838709677 47
+"2008" "4" "Alameda" "Carbon monoxide" 0.295219041666667 51
+"2008" "5" "Alameda" "Carbon monoxide" 0.235499796747967 42
+"2008" "6" "Alameda" "Carbon monoxide" 0.243699191666667 34
+"2008" "7" "Alameda" "Carbon monoxide" 0.209152629032258 28
+"2008" "8" "Alameda" "Carbon monoxide" 0.214597435483871 29
+"2008" "9" "Alameda" "Carbon monoxide" 0.304815266666667 23
+"2008" "10" "Alameda" "Carbon monoxide" 0.405536427419355 32
+"2008" "11" "Alameda" "Carbon monoxide" 0.432988275 26
+"2008" "12" "Alameda" "Carbon monoxide" 0.445436032258064 47
+"2009" "1" "Alameda" "Carbon monoxide" 0.521164419354839 44
+"2009" "2" "Alameda" "Carbon monoxide" 0.366234327586207 37
+"2009" "3" "Alameda" "Carbon monoxide" 0.254307916129032 29
+"2009" "4" "Alameda" "Carbon monoxide" 0.215022919463087 40
+"2009" "5" "Alameda" "Carbon monoxide" 0.194675201550388 37
+"2009" "6" "Alameda" "Carbon monoxide" 0.163722233333333 30
+"2009" "7" "Alameda" "Carbon monoxide" 0.153962926229508 45
+"2009" "8" "Alameda" "Carbon monoxide" 0.194257822580645 36
+"2009" "9" "Alameda" "Carbon monoxide" 0.239532783333333 25
+"2009" "10" "Alameda" "Carbon monoxide" 0.287832552845528 36
+"2009" "11" "Alameda" "Carbon monoxide" 0.407743583333333 34
+"2009" "12" "Alameda" "Carbon monoxide" 0.439582935483871 37
+"2010" "1" "Alameda" "Carbon monoxide" 0.418105943548387 41
+"2010" "2" "Alameda" "Carbon monoxide" 0.320563428571429 30
+"2010" "3" "Alameda" "Carbon monoxide" 0.290648225806452 43
+"2010" "4" "Alameda" "Carbon monoxide" 0.23811165 33
+"2010" "5" "Alameda" "Carbon monoxide" 0.203972266129032 39
+"2010" "6" "Alameda" "Carbon monoxide" 0.188589625 25
+"2010" "7" "Alameda" "Carbon monoxide" 0.157403556451613 27
+"2010" "8" "Alameda" "Carbon monoxide" 0.172618225806452 36
+"2010" "9" "Alameda" "Carbon monoxide" 0.261136075 29
+"2010" "10" "Alameda" "Carbon monoxide" 0.269036818181818 35
+"2010" "11" "Alameda" "Carbon monoxide" 0.382686333333333 30
+"2010" "12" "Alameda" "Carbon monoxide" 0.371253548387097 33
+"2011" "1" "Alameda" "Carbon monoxide" 0.449017209677419 41
+"2011" "2" "Alameda" "Carbon monoxide" 0.300222303571429 39
+"2011" "3" "Alameda" "Carbon monoxide" 0.179648177419355 42
+"2011" "4" "Alameda" "Carbon monoxide" 0.119929083333333 36
+"2011" "5" "Alameda" "Carbon monoxide" 0.111239177419355 32
+"2011" "6" "Alameda" "Carbon monoxide" 0.0881291666666667 41
+"2011" "7" "Alameda" "Carbon monoxide" 0.154301274193548 40
+"2011" "8" "Alameda" "Carbon monoxide" 0.320670596774194 33
+"2011" "9" "Alameda" "Carbon monoxide" 0.42857935 33
+"2011" "10" "Alameda" "Carbon monoxide" 0.491730016129032 33
+"2011" "11" "Alameda" "Carbon monoxide" 0.501869133333333 28
+"2011" "12" "Alameda" "Carbon monoxide" 0.73190314516129 36
+"2012" "1" "Alameda" "Carbon monoxide" 0.655809177419355 36
+"2012" "2" "Alameda" "Carbon monoxide" 0.472448810344828 56
+"2012" "3" "Alameda" "Carbon monoxide" 0.368523532258065 45
+"2012" "4" "Alameda" "Carbon monoxide" 0.317817766666667 29
+"2012" "5" "Alameda" "Carbon monoxide" 0.268021704918033 30
+"2012" "6" "Alameda" "Carbon monoxide" 0.241677033333333 35
+"2012" "7" "Alameda" "Carbon monoxide" 0.217566677419355 30
+"2012" "8" "Alameda" "Carbon monoxide" 0.26378814516129 37
+"2012" "9" "Alameda" "Carbon monoxide" 0.3110318 25
+"2012" "10" "Alameda" "Carbon monoxide" 0.370174870967742 28
+"2012" "11" "Alameda" "Carbon monoxide" 0.497368033333333 28
+"2012" "12" "Alameda" "Carbon monoxide" 0.530608435483871 46
+"2013" "1" "Alameda" "Carbon monoxide" 0.655587193548387 53
+"2013" "2" "Alameda" "Carbon monoxide" 0.453370464285714 34
+"2013" "3" "Alameda" "Carbon monoxide" 0.316128483870968 62
+"2013" "4" "Alameda" "Carbon monoxide" 0.28269695 44
+"2013" "5" "Alameda" "Carbon monoxide" 0.281712387096774 38
+"2013" "6" "Alameda" "Carbon monoxide" 0.227386266666667 28
+"2013" "7" "Alameda" "Carbon monoxide" 0.188289903225806 36
+"2013" "8" "Alameda" "Carbon monoxide" 0.209015016129032 36
+"2013" "9" "Alameda" "Carbon monoxide" 0.261782266666667 25
+"2013" "10" "Alameda" "Carbon monoxide" 0.424804096774194 24
+"2013" "11" "Alameda" "Carbon monoxide" 0.510434166666667 40
+"2013" "12" "Alameda" "Carbon monoxide" 0.847439951612903 34
+"2014" "1" "Alameda" "Carbon monoxide" 0.722712516129032 52
+"2014" "2" "Alameda" "Carbon monoxide" 0.430693071428571 39
+"2014" "3" "Alameda" "Carbon monoxide" 0.398470097826087 39
+"2014" "4" "Alameda" "Carbon monoxide" 0.360953522222222 29
+"2014" "5" "Alameda" "Carbon monoxide" 0.331061150537634 33
+"2014" "6" "Alameda" "Carbon monoxide" 0.290755566666667 31
+"2014" "7" "Alameda" "Carbon monoxide" 0.281828483870968 33
+"2014" "8" "Alameda" "Carbon monoxide" 0.306610623655914 33
+"2014" "9" "Alameda" "Carbon monoxide" 0.353374188888889 27
+"2014" "10" "Alameda" "Carbon monoxide" 0.479343903225806 38
+"2014" "11" "Alameda" "Carbon monoxide" 0.548327888888889 29
+"2014" "12" "Alameda" "Carbon monoxide" 0.504675172043011 35
+"2015" "1" "Alameda" "Carbon monoxide" 0.718539397849462 59
+"2015" "2" "Alameda" "Carbon monoxide" 0.527362273809524 43
+"2015" "3" "Alameda" "Carbon monoxide" 0.427628849462366 40
+"2015" "4" "Alameda" "Carbon monoxide" 0.345626377777778 46
+"2015" "5" "Alameda" "Carbon monoxide" 0.304418129032258 52
+"2015" "6" "Alameda" "Carbon monoxide" 0.309923422222222 39
+"2015" "7" "Alameda" "Carbon monoxide" 0.265689784946237 29
+"2015" "8" "Alameda" "Carbon monoxide" 0.317920075268817 29
+"2015" "9" "Alameda" "Carbon monoxide" 0.380540422222222 27
+"2015" "10" "Alameda" "Carbon monoxide" 0.459355946236559 31
+"2015" "11" "Alameda" "Carbon monoxide" 0.528699288888889 24
+"2015" "12" "Alameda" "Carbon monoxide" 0.540137150537634 47
+"2016" "1" "Alameda" "Carbon monoxide" 0.461196924731183 48
+"2016" "2" "Alameda" "Carbon monoxide" 0.532555436781609 35
+"2016" "3" "Alameda" "Carbon monoxide" 0.379456539325843 40
+"2016" "4" "Alameda" "Carbon monoxide" 0.375829677777778 38
+"2016" "5" "Alameda" "Carbon monoxide" 0.304783569892473 24
+"2016" "6" "Alameda" "Carbon monoxide" 0.301122222222222 31
+"2016" "7" "Alameda" "Carbon monoxide" 0.342939008196721 34
+"2016" "8" "Alameda" "Carbon monoxide" 0.383214406504065 27
+"2016" "9" "Alameda" "Carbon monoxide" 0.457959341666667 24
+"2016" "10" "Alameda" "Carbon monoxide" 0.484713596774194 38
+"2016" "11" "Alameda" "Carbon monoxide" 0.561146860869565 33
+"2016" "12" "Alameda" "Carbon monoxide" 0.589986297520661 44
+"2017" "1" "Alameda" "Carbon monoxide" 0.539827508064516 66
+"2017" "2" "Alameda" "Carbon monoxide" 0.505802372727273 38
+"2017" "3" "Alameda" "Carbon monoxide" 0.519626967741936 38
+"2017" "4" "Alameda" "Carbon monoxide" 0.44009537815126 34
+"2017" "5" "Alameda" "Carbon monoxide" 0.45273225203252 32
+"2017" "6" "Alameda" "Carbon monoxide" 0.390617277310924 27
+"2017" "7" "Alameda" "Carbon monoxide" 0.419214927419355 38
+"2017" "8" "Alameda" "Carbon monoxide" 0.413397056451613 28
+"2017" "9" "Alameda" "Carbon monoxide" 0.550537991596639 35
+"2017" "10" "Alameda" "Carbon monoxide" 0.579112685483871 26
+"2017" "11" "Alameda" "Carbon monoxide" 0.630732266666667 29
+"2017" "12" "Alameda" "Carbon monoxide" 0.769916669354839 37
+"2018" "1" "Alameda" "Carbon monoxide" 0.613532032258065 54
+"2018" "2" "Alameda" "Carbon monoxide" 0.542625875 35
+"2018" "3" "Alameda" "Carbon monoxide" 0.469866411290323 33
+"2018" "4" "Alameda" "Carbon monoxide" 0.421417293333333 34
+"2018" "5" "Alameda" "Carbon monoxide" 0.354045490322581 34
+"2018" "6" "Alameda" "Carbon monoxide" 0.39216646 38
+"2018" "7" "Alameda" "Carbon monoxide" 0.36940704516129 37
+"2018" "8" "Alameda" "Carbon monoxide" 0.44484115483871 30
+"2018" "9" "Alameda" "Carbon monoxide" 0.444983653333333 31
+"2018" "10" "Alameda" "Carbon monoxide" 0.4873052 31
+"2018" "11" "Alameda" "Carbon monoxide" 0.859520946666667 28
+"2018" "12" "Alameda" "Carbon monoxide" 0.564940509677419 28
+"2004" "1" "Santa Clara" "Carbon monoxide" 0.818393806451613 44
+"2004" "2" "Santa Clara" "Carbon monoxide" 0.586725103448276 47
+"2004" "3" "Santa Clara" "Carbon monoxide" 0.617148322580645 40
+"2004" "4" "Santa Clara" "Carbon monoxide" 0.477464933333333 43
+"2004" "5" "Santa Clara" "Carbon monoxide" 0.524581032258065 28
+"2004" "6" "Santa Clara" "Carbon monoxide" 0.436159266666667 30
+"2004" "7" "Santa Clara" "Carbon monoxide" 0.46301464516129 19
+"2004" "8" "Santa Clara" "Carbon monoxide" 0.460111451612903 46
+"2004" "9" "Santa Clara" "Carbon monoxide" 0.532848 28
+"2004" "10" "Santa Clara" "Carbon monoxide" 0.637191806451613 40
+"2004" "11" "Santa Clara" "Carbon monoxide" 0.909323333333333 29
+"2004" "12" "Santa Clara" "Carbon monoxide" 1.11442274193548 44
+"2005" "1" "Santa Clara" "Carbon monoxide" 1.10115332258065 44
+"2005" "2" "Santa Clara" "Carbon monoxide" 0.902375071428571 46
+"2005" "3" "Santa Clara" "Carbon monoxide" 0.544155161290323 47
+"2005" "4" "Santa Clara" "Carbon monoxide" 0.5619206 42
+"2005" "5" "Santa Clara" "Carbon monoxide" 0.365515225806452 34
+"2005" "6" "Santa Clara" "Carbon monoxide" 0.527228433333333 43
+"2005" "7" "Santa Clara" "Carbon monoxide" 0.249431322580645 35
+"2005" "8" "Santa Clara" "Carbon monoxide" 0.360869548387097 39
+"2005" "9" "Santa Clara" "Carbon monoxide" 0.662118033333333 28
+"2005" "10" "Santa Clara" "Carbon monoxide" 0.75450564516129 40
+"2005" "11" "Santa Clara" "Carbon monoxide" 1.13527193333333 35
+"2005" "12" "Santa Clara" "Carbon monoxide" 0.944289967741936 54
+"2006" "1" "Santa Clara" "Carbon monoxide" 0.950429322580645 47
+"2006" "2" "Santa Clara" "Carbon monoxide" 0.650161321428571 33
+"2006" "3" "Santa Clara" "Carbon monoxide" 0.313039870967742 37
+"2006" "4" "Santa Clara" "Carbon monoxide" 0.2875625 38
+"2006" "5" "Santa Clara" "Carbon monoxide" 0.259750037037037 45
+"2006" "6" "Santa Clara" "Carbon monoxide" 0.216173133333333 23
+"2006" "7" "Santa Clara" "Carbon monoxide" 0.241604928571429 34
+"2006" "8" "Santa Clara" "Carbon monoxide" 0.243056272727273 32
+"2006" "9" "Santa Clara" "Carbon monoxide" 0.368679291666667 29
+"2006" "10" "Santa Clara" "Carbon monoxide" 0.551917548387097 31
+"2006" "11" "Santa Clara" "Carbon monoxide" 0.5747015 31
+"2006" "12" "Santa Clara" "Carbon monoxide" 0.834892129032258 46
+"2007" "1" "Santa Clara" "Carbon monoxide" 0.826535677419355 52
+"2007" "2" "Santa Clara" "Carbon monoxide" 0.432013678571429 42
+"2007" "3" "Santa Clara" "Carbon monoxide" 0.413356548387097 51
+"2007" "4" "Santa Clara" "Carbon monoxide" 0.336907533333333 38
+"2007" "5" "Santa Clara" "Carbon monoxide" 0.304754516129032 37
+"2007" "6" "Santa Clara" "Carbon monoxide" 0.272019 39
+"2007" "7" "Santa Clara" "Carbon monoxide" 0.232248967741935 24
+"2007" "8" "Santa Clara" "Carbon monoxide" 0.264401064516129 27
+"2007" "9" "Santa Clara" "Carbon monoxide" 0.326970933333333 34
+"2007" "10" "Santa Clara" "Carbon monoxide" 0.474362483870968 25
+"2007" "11" "Santa Clara" "Carbon monoxide" 0.801499633333333 41
+"2007" "12" "Santa Clara" "Carbon monoxide" 0.632898193548387 43
+"2008" "1" "Santa Clara" "Carbon monoxide" 0.644391387096774 49
+"2008" "2" "Santa Clara" "Carbon monoxide" 0.597598689655172 50
+"2008" "3" "Santa Clara" "Carbon monoxide" 0.425539967741935 46
+"2008" "4" "Santa Clara" "Carbon monoxide" 0.3314329 47
+"2008" "5" "Santa Clara" "Carbon monoxide" 0.275735612903226 44
+"2008" "6" "Santa Clara" "Carbon monoxide" 0.297259133333333 30
+"2008" "7" "Santa Clara" "Carbon monoxide" 0.261975206896552 28
+"2008" "8" "Santa Clara" "Carbon monoxide" 0.259428 32
+"2008" "9" "Santa Clara" "Carbon monoxide" 0.365500733333333 37
+"2008" "10" "Santa Clara" "Carbon monoxide" 0.561828193548387 33
+"2008" "11" "Santa Clara" "Carbon monoxide" 0.632164733333333 29
+"2008" "12" "Santa Clara" "Carbon monoxide" 0.761947677419355 26
+"2009" "1" "Santa Clara" "Carbon monoxide" 0.868536387096774 46
+"2009" "2" "Santa Clara" "Carbon monoxide" 0.456503714285714 42
+"2009" "3" "Santa Clara" "Carbon monoxide" 0.341855806451613 41
+"2009" "4" "Santa Clara" "Carbon monoxide" 0.289843633333333 43
+"2009" "5" "Santa Clara" "Carbon monoxide" 0.235297677419355 39
+"2009" "6" "Santa Clara" "Carbon monoxide" 0.206502333333333 35
+"2009" "7" "Santa Clara" "Carbon monoxide" 0.210145709677419 30
+"2009" "8" "Santa Clara" "Carbon monoxide" 0.254889290322581 30
+"2009" "9" "Santa Clara" "Carbon monoxide" 0.325341111111111 18
+"2009" "10" "Santa Clara" "Carbon monoxide" 0.351014580645161 39
+"2009" "11" "Santa Clara" "Carbon monoxide" 0.659023833333333 31
+"2009" "12" "Santa Clara" "Carbon monoxide" 0.619569387096774 41
+"2010" "1" "Santa Clara" "Carbon monoxide" 0.594477870967742 64
+"2010" "2" "Santa Clara" "Carbon monoxide" 0.416095642857143 41
+"2010" "3" "Santa Clara" "Carbon monoxide" 0.367290387096774 41
+"2010" "4" "Santa Clara" "Carbon monoxide" 0.300196333333333 40
+"2010" "5" "Santa Clara" "Carbon monoxide" 0.231207258064516 40
+"2010" "6" "Santa Clara" "Carbon monoxide" 0.184970233333333 37
+"2010" "7" "Santa Clara" "Carbon monoxide" 0.185510774193548 22
+"2010" "8" "Santa Clara" "Carbon monoxide" 0.225299516129032 24
+"2010" "9" "Santa Clara" "Carbon monoxide" 0.313770733333333 22
+"2010" "10" "Santa Clara" "Carbon monoxide" 0.365847580645161 39
+"2010" "11" "Santa Clara" "Carbon monoxide" 0.450578610169492 34
+"2010" "12" "Santa Clara" "Carbon monoxide" 0.460886806451613 41
+"2011" "1" "Santa Clara" "Carbon monoxide" 0.662275105263158 46
+"2011" "2" "Santa Clara" "Carbon monoxide" 0.440557811320755 45
+"2011" "3" "Santa Clara" "Carbon monoxide" 0.299955933333333 38
+"2011" "4" "Santa Clara" "Carbon monoxide" 0.146117183333333 39
+"2011" "5" "Santa Clara" "Carbon monoxide" 0.263354096774194 45
+"2011" "6" "Santa Clara" "Carbon monoxide" 0.26473395 28
+"2011" "7" "Santa Clara" "Carbon monoxide" 0.271051193548387 31
+"2011" "8" "Santa Clara" "Carbon monoxide" 0.299801 26
+"2011" "9" "Santa Clara" "Carbon monoxide" 0.364748216666667 27
+"2011" "10" "Santa Clara" "Carbon monoxide" 0.384488467741936 28
+"2011" "11" "Santa Clara" "Carbon monoxide" 0.416022915254237 32
+"2011" "12" "Santa Clara" "Carbon monoxide" 0.618353935483871 42
+"2012" "1" "Santa Clara" "Carbon monoxide" 0.562393661290323 46
+"2012" "2" "Santa Clara" "Carbon monoxide" 0.413096862068966 48
+"2012" "3" "Santa Clara" "Carbon monoxide" 0.31760335483871 47
+"2012" "4" "Santa Clara" "Carbon monoxide" 0.332475633333333 49
+"2012" "5" "Santa Clara" "Carbon monoxide" 0.267945112903226 43
+"2012" "6" "Santa Clara" "Carbon monoxide" 0.2544353 33
+"2012" "7" "Santa Clara" "Carbon monoxide" 0.304228935483871 37
+"2012" "8" "Santa Clara" "Carbon monoxide" 0.281463467741935 27
+"2012" "9" "Santa Clara" "Carbon monoxide" 0.350010333333333 18
+"2012" "10" "Santa Clara" "Carbon monoxide" 0.340485193548387 25
+"2012" "11" "Santa Clara" "Carbon monoxide" 0.493504789473684 40
+"2012" "12" "Santa Clara" "Carbon monoxide" 0.421320370967742 38
+"2013" "1" "Santa Clara" "Carbon monoxide" 0.620338919354839 53
+"2013" "2" "Santa Clara" "Carbon monoxide" 0.427010535714286 48
+"2013" "3" "Santa Clara" "Carbon monoxide" 0.332353338709677 39
+"2013" "4" "Santa Clara" "Carbon monoxide" 0.300596833333333 39
+"2013" "5" "Santa Clara" "Carbon monoxide" 0.278203661290323 29
+"2013" "6" "Santa Clara" "Carbon monoxide" 0.264853783333333 35
+"2013" "7" "Santa Clara" "Carbon monoxide" 0.297437790322581 29
+"2013" "8" "Santa Clara" "Carbon monoxide" 0.285739274193548 32
+"2013" "9" "Santa Clara" "Carbon monoxide" 0.325628383333333 23
+"2013" "10" "Santa Clara" "Carbon monoxide" 0.462028112903226 35
+"2013" "11" "Santa Clara" "Carbon monoxide" 0.505712216666667 33
+"2013" "12" "Santa Clara" "Carbon monoxide" 0.693526419354839 45
+"2014" "1" "Santa Clara" "Carbon monoxide" 0.88835935483871 61
+"2014" "2" "Santa Clara" "Carbon monoxide" 0.335133928571429 36
+"2014" "3" "Santa Clara" "Carbon monoxide" 0.302722806451613 39
+"2014" "4" "Santa Clara" "Carbon monoxide" 0.265543333333333 38
+"2014" "5" "Santa Clara" "Carbon monoxide" 0.226253096774194 32
+"2014" "6" "Santa Clara" "Carbon monoxide" 0.205375966666667 21
+"2014" "7" "Santa Clara" "Carbon monoxide" 0.185929870967742 30
+"2014" "8" "Santa Clara" "Carbon monoxide" 0.198859774193548 32
+"2014" "9" "Santa Clara" "Carbon monoxide" 0.429848933333333 26
+"2014" "10" "Santa Clara" "Carbon monoxide" 0.581315338709677 26
+"2014" "11" "Santa Clara" "Carbon monoxide" 0.669853433333333 26
+"2014" "12" "Santa Clara" "Carbon monoxide" 0.517747370967742 40
+"2015" "1" "Santa Clara" "Carbon monoxide" 0.901866790322581 47
+"2015" "2" "Santa Clara" "Carbon monoxide" 0.606626892857143 51
+"2015" "3" "Santa Clara" "Carbon monoxide" 0.499759483870968 44
+"2015" "4" "Santa Clara" "Carbon monoxide" 0.42098865 32
+"2015" "5" "Santa Clara" "Carbon monoxide" 0.345584661290323 30
+"2015" "6" "Santa Clara" "Carbon monoxide" 0.364380883333333 25
+"2015" "7" "Santa Clara" "Carbon monoxide" 0.356758016129032 29
+"2015" "8" "Santa Clara" "Carbon monoxide" 0.418640403225806 25
+"2015" "9" "Santa Clara" "Carbon monoxide" 0.46201485 31
+"2015" "10" "Santa Clara" "Carbon monoxide" 0.556200737704918 24
+"2015" "11" "Santa Clara" "Carbon monoxide" 0.680347694915254 31
+"2015" "12" "Santa Clara" "Carbon monoxide" 0.615920241935484 40
+"2016" "1" "Santa Clara" "Carbon monoxide" 0.573535661290323 45
+"2016" "2" "Santa Clara" "Carbon monoxide" 0.648397517241379 44
+"2016" "3" "Santa Clara" "Carbon monoxide" 0.415802838709677 38
+"2016" "4" "Santa Clara" "Carbon monoxide" 0.4099074 22
+"2016" "5" "Santa Clara" "Carbon monoxide" 0.366974048387097 26
+"2016" "6" "Santa Clara" "Carbon monoxide" 0.346849183333333 32
+"2016" "7" "Santa Clara" "Carbon monoxide" 0.341540725806452 30
+"2016" "8" "Santa Clara" "Carbon monoxide" 0.352211193548387 24
+"2016" "9" "Santa Clara" "Carbon monoxide" 0.4607063 21
+"2016" "10" "Santa Clara" "Carbon monoxide" 0.454675258064516 32
+"2016" "11" "Santa Clara" "Carbon monoxide" 0.582245466666667 40
+"2016" "12" "Santa Clara" "Carbon monoxide" 0.631073387096774 56
+"2017" "1" "Santa Clara" "Carbon monoxide" 0.579922919354839 40
+"2017" "2" "Santa Clara" "Carbon monoxide" 0.417112321428571 32
+"2017" "3" "Santa Clara" "Carbon monoxide" 0.466726306451613 48
+"2017" "4" "Santa Clara" "Carbon monoxide" 0.389748033333333 39
+"2017" "5" "Santa Clara" "Carbon monoxide" 0.373743979591837 16
+"2017" "6" "Santa Clara" "Carbon monoxide" 0.3549544 33
+"2017" "7" "Santa Clara" "Carbon monoxide" 0.341092193548387 26
+"2017" "8" "Santa Clara" "Carbon monoxide" 0.396182129032258 28
+"2017" "9" "Santa Clara" "Carbon monoxide" 0.475376383333333 18
+"2017" "10" "Santa Clara" "Carbon monoxide" 0.626329677419355 37
+"2017" "11" "Santa Clara" "Carbon monoxide" 0.5696385 29
+"2017" "12" "Santa Clara" "Carbon monoxide" 0.933315032258065 38
+"2018" "1" "Santa Clara" "Carbon monoxide" 0.642504064516129 50
+"2018" "2" "Santa Clara" "Carbon monoxide" 0.585317410714286 37
+"2018" "3" "Santa Clara" "Carbon monoxide" 0.461558451612903 38
+"2018" "4" "Santa Clara" "Carbon monoxide" 0.33804475 38
+"2018" "5" "Santa Clara" "Carbon monoxide" 0.310950790322581 28
+"2018" "6" "Santa Clara" "Carbon monoxide" 0.320060983333333 23
+"2018" "7" "Santa Clara" "Carbon monoxide" 0.332856951612903 23
+"2018" "8" "Santa Clara" "Carbon monoxide" 0.410001870967742 27
+"2018" "9" "Santa Clara" "Carbon monoxide" 0.430820116666667 25
+"2018" "10" "Santa Clara" "Carbon monoxide" 0.490492596774194 31
+"2018" "11" "Santa Clara" "Carbon monoxide" 0.890338016666667 26
+"2018" "12" "Santa Clara" "Carbon monoxide" 0.606009338709677 32
