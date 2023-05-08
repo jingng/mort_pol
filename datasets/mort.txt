@@ -1,0 +1,1441 @@
+"Year" "Month" "County" "Count"
+2004 1 "Alameda" 46
+2004 2 "Alameda" 37
+2004 3 "Alameda" 51
+2004 4 "Alameda" 46
+2004 5 "Alameda" 38
+2004 6 "Alameda" 31
+2004 7 "Alameda" 25
+2004 8 "Alameda" 30
+2004 9 "Alameda" 34
+2004 10 "Alameda" 36
+2004 11 "Alameda" 29
+2004 12 "Alameda" 37
+2004 1 "Los Angeles" 331
+2004 2 "Los Angeles" 306
+2004 3 "Los Angeles" 250
+2004 4 "Los Angeles" 253
+2004 5 "Los Angeles" 249
+2004 6 "Los Angeles" 183
+2004 7 "Los Angeles" 169
+2004 8 "Los Angeles" 201
+2004 9 "Los Angeles" 206
+2004 10 "Los Angeles" 204
+2004 11 "Los Angeles" 227
+2004 12 "Los Angeles" 247
+2004 1 "Orange" 110
+2004 2 "Orange" 70
+2004 3 "Orange" 91
+2004 4 "Orange" 78
+2004 5 "Orange" 72
+2004 6 "Orange" 57
+2004 7 "Orange" 55
+2004 8 "Orange" 60
+2004 9 "Orange" 70
+2004 10 "Orange" 50
+2004 11 "Orange" 73
+2004 12 "Orange" 80
+2004 1 "Riverside" 100
+2004 2 "Riverside" 100
+2004 3 "Riverside" 88
+2004 4 "Riverside" 78
+2004 5 "Riverside" 65
+2004 6 "Riverside" 60
+2004 7 "Riverside" 72
+2004 8 "Riverside" 60
+2004 9 "Riverside" 58
+2004 10 "Riverside" 62
+2004 11 "Riverside" 65
+2004 12 "Riverside" 94
+2004 1 "Sacramento" 58
+2004 2 "Sacramento" 72
+2004 3 "Sacramento" 64
+2004 4 "Sacramento" 43
+2004 5 "Sacramento" 38
+2004 6 "Sacramento" 38
+2004 7 "Sacramento" 39
+2004 8 "Sacramento" 53
+2004 9 "Sacramento" 44
+2004 10 "Sacramento" 45
+2004 11 "Sacramento" 37
+2004 12 "Sacramento" 59
+2004 1 "San Bernardino" 129
+2004 2 "San Bernardino" 77
+2004 3 "San Bernardino" 84
+2004 4 "San Bernardino" 80
+2004 5 "San Bernardino" 67
+2004 6 "San Bernardino" 59
+2004 7 "San Bernardino" 52
+2004 8 "San Bernardino" 61
+2004 9 "San Bernardino" 52
+2004 10 "San Bernardino" 53
+2004 11 "San Bernardino" 71
+2004 12 "San Bernardino" 74
+2004 1 "San Diego" 149
+2004 2 "San Diego" 113
+2004 3 "San Diego" 116
+2004 4 "San Diego" 99
+2004 5 "San Diego" 73
+2004 6 "San Diego" 67
+2004 7 "San Diego" 67
+2004 8 "San Diego" 72
+2004 9 "San Diego" 57
+2004 10 "San Diego" 70
+2004 11 "San Diego" 85
+2004 12 "San Diego" 104
+2004 1 "Santa Clara" 44
+2004 2 "Santa Clara" 47
+2004 3 "Santa Clara" 40
+2004 4 "Santa Clara" 43
+2004 5 "Santa Clara" 28
+2004 6 "Santa Clara" 30
+2004 7 "Santa Clara" 19
+2004 8 "Santa Clara" 46
+2004 9 "Santa Clara" 28
+2004 10 "Santa Clara" 40
+2004 11 "Santa Clara" 29
+2004 12 "Santa Clara" 44
+2005 1 "Alameda" 56
+2005 2 "Alameda" 45
+2005 3 "Alameda" 35
+2005 4 "Alameda" 38
+2005 5 "Alameda" 37
+2005 6 "Alameda" 43
+2005 7 "Alameda" 33
+2005 8 "Alameda" 28
+2005 9 "Alameda" 26
+2005 10 "Alameda" 33
+2005 11 "Alameda" 33
+2005 12 "Alameda" 49
+2005 1 "Los Angeles" 281
+2005 2 "Los Angeles" 288
+2005 3 "Los Angeles" 280
+2005 4 "Los Angeles" 242
+2005 5 "Los Angeles" 269
+2005 6 "Los Angeles" 213
+2005 7 "Los Angeles" 211
+2005 8 "Los Angeles" 204
+2005 9 "Los Angeles" 176
+2005 10 "Los Angeles" 215
+2005 11 "Los Angeles" 232
+2005 12 "Los Angeles" 382
+2005 1 "Orange" 112
+2005 2 "Orange" 88
+2005 3 "Orange" 79
+2005 4 "Orange" 79
+2005 5 "Orange" 73
+2005 6 "Orange" 71
+2005 7 "Orange" 59
+2005 8 "Orange" 62
+2005 9 "Orange" 68
+2005 10 "Orange" 56
+2005 11 "Orange" 67
+2005 12 "Orange" 93
+2005 1 "Riverside" 67
+2005 2 "Riverside" 73
+2005 3 "Riverside" 90
+2005 4 "Riverside" 72
+2005 5 "Riverside" 90
+2005 6 "Riverside" 60
+2005 7 "Riverside" 67
+2005 8 "Riverside" 74
+2005 9 "Riverside" 64
+2005 10 "Riverside" 78
+2005 11 "Riverside" 62
+2005 12 "Riverside" 135
+2005 1 "Sacramento" 44
+2005 2 "Sacramento" 64
+2005 3 "Sacramento" 61
+2005 4 "Sacramento" 50
+2005 5 "Sacramento" 69
+2005 6 "Sacramento" 37
+2005 7 "Sacramento" 31
+2005 8 "Sacramento" 42
+2005 9 "Sacramento" 39
+2005 10 "Sacramento" 42
+2005 11 "Sacramento" 40
+2005 12 "Sacramento" 54
+2005 1 "San Bernardino" 83
+2005 2 "San Bernardino" 86
+2005 3 "San Bernardino" 75
+2005 4 "San Bernardino" 61
+2005 5 "San Bernardino" 85
+2005 6 "San Bernardino" 60
+2005 7 "San Bernardino" 55
+2005 8 "San Bernardino" 56
+2005 9 "San Bernardino" 52
+2005 10 "San Bernardino" 59
+2005 11 "San Bernardino" 64
+2005 12 "San Bernardino" 114
+2005 1 "San Diego" 115
+2005 2 "San Diego" 90
+2005 3 "San Diego" 107
+2005 4 "San Diego" 90
+2005 5 "San Diego" 106
+2005 6 "San Diego" 81
+2005 7 "San Diego" 81
+2005 8 "San Diego" 97
+2005 9 "San Diego" 67
+2005 10 "San Diego" 85
+2005 11 "San Diego" 93
+2005 12 "San Diego" 130
+2005 1 "Santa Clara" 44
+2005 2 "Santa Clara" 46
+2005 3 "Santa Clara" 47
+2005 4 "Santa Clara" 42
+2005 5 "Santa Clara" 34
+2005 6 "Santa Clara" 43
+2005 7 "Santa Clara" 35
+2005 8 "Santa Clara" 39
+2005 9 "Santa Clara" 28
+2005 10 "Santa Clara" 40
+2005 11 "Santa Clara" 35
+2005 12 "Santa Clara" 54
+2006 1 "Alameda" 49
+2006 2 "Alameda" 40
+2006 3 "Alameda" 58
+2006 4 "Alameda" 38
+2006 5 "Alameda" 32
+2006 6 "Alameda" 31
+2006 7 "Alameda" 30
+2006 8 "Alameda" 25
+2006 9 "Alameda" 29
+2006 10 "Alameda" 29
+2006 11 "Alameda" 30
+2006 12 "Alameda" 34
+2006 1 "Los Angeles" 345
+2006 2 "Los Angeles" 266
+2006 3 "Los Angeles" 280
+2006 4 "Los Angeles" 258
+2006 5 "Los Angeles" 240
+2006 6 "Los Angeles" 202
+2006 7 "Los Angeles" 244
+2006 8 "Los Angeles" 186
+2006 9 "Los Angeles" 202
+2006 10 "Los Angeles" 188
+2006 11 "Los Angeles" 219
+2006 12 "Los Angeles" 258
+2006 1 "Orange" 114
+2006 2 "Orange" 72
+2006 3 "Orange" 89
+2006 4 "Orange" 84
+2006 5 "Orange" 71
+2006 6 "Orange" 57
+2006 7 "Orange" 66
+2006 8 "Orange" 73
+2006 9 "Orange" 58
+2006 10 "Orange" 70
+2006 11 "Orange" 64
+2006 12 "Orange" 74
+2006 1 "Riverside" 106
+2006 2 "Riverside" 99
+2006 3 "Riverside" 71
+2006 4 "Riverside" 60
+2006 5 "Riverside" 83
+2006 6 "Riverside" 52
+2006 7 "Riverside" 69
+2006 8 "Riverside" 45
+2006 9 "Riverside" 63
+2006 10 "Riverside" 57
+2006 11 "Riverside" 79
+2006 12 "Riverside" 69
+2006 1 "Sacramento" 77
+2006 2 "Sacramento" 51
+2006 3 "Sacramento" 64
+2006 4 "Sacramento" 64
+2006 5 "Sacramento" 43
+2006 6 "Sacramento" 41
+2006 7 "Sacramento" 41
+2006 8 "Sacramento" 40
+2006 9 "Sacramento" 46
+2006 10 "Sacramento" 48
+2006 11 "Sacramento" 50
+2006 12 "Sacramento" 45
+2006 1 "San Bernardino" 84
+2006 2 "San Bernardino" 88
+2006 3 "San Bernardino" 80
+2006 4 "San Bernardino" 68
+2006 5 "San Bernardino" 78
+2006 6 "San Bernardino" 55
+2006 7 "San Bernardino" 78
+2006 8 "San Bernardino" 75
+2006 9 "San Bernardino" 48
+2006 10 "San Bernardino" 73
+2006 11 "San Bernardino" 65
+2006 12 "San Bernardino" 68
+2006 1 "San Diego" 100
+2006 2 "San Diego" 118
+2006 3 "San Diego" 89
+2006 4 "San Diego" 109
+2006 5 "San Diego" 92
+2006 6 "San Diego" 90
+2006 7 "San Diego" 83
+2006 8 "San Diego" 82
+2006 9 "San Diego" 71
+2006 10 "San Diego" 88
+2006 11 "San Diego" 74
+2006 12 "San Diego" 76
+2006 1 "Santa Clara" 47
+2006 2 "Santa Clara" 33
+2006 3 "Santa Clara" 37
+2006 4 "Santa Clara" 38
+2006 5 "Santa Clara" 45
+2006 6 "Santa Clara" 23
+2006 7 "Santa Clara" 34
+2006 8 "Santa Clara" 32
+2006 9 "Santa Clara" 29
+2006 10 "Santa Clara" 31
+2006 11 "Santa Clara" 31
+2006 12 "Santa Clara" 46
+2007 1 "Alameda" 47
+2007 2 "Alameda" 37
+2007 3 "Alameda" 38
+2007 4 "Alameda" 47
+2007 5 "Alameda" 37
+2007 6 "Alameda" 30
+2007 7 "Alameda" 29
+2007 8 "Alameda" 27
+2007 9 "Alameda" 23
+2007 10 "Alameda" 34
+2007 11 "Alameda" 40
+2007 12 "Alameda" 22
+2007 1 "Los Angeles" 258
+2007 2 "Los Angeles" 286
+2007 3 "Los Angeles" 297
+2007 4 "Los Angeles" 245
+2007 5 "Los Angeles" 227
+2007 6 "Los Angeles" 225
+2007 7 "Los Angeles" 210
+2007 8 "Los Angeles" 200
+2007 9 "Los Angeles" 204
+2007 10 "Los Angeles" 213
+2007 11 "Los Angeles" 215
+2007 12 "Los Angeles" 230
+2007 1 "Orange" 93
+2007 2 "Orange" 95
+2007 3 "Orange" 81
+2007 4 "Orange" 76
+2007 5 "Orange" 86
+2007 6 "Orange" 70
+2007 7 "Orange" 63
+2007 8 "Orange" 59
+2007 9 "Orange" 59
+2007 10 "Orange" 73
+2007 11 "Orange" 79
+2007 12 "Orange" 73
+2007 1 "Riverside" 105
+2007 2 "Riverside" 94
+2007 3 "Riverside" 103
+2007 4 "Riverside" 86
+2007 5 "Riverside" 92
+2007 6 "Riverside" 62
+2007 7 "Riverside" 68
+2007 8 "Riverside" 63
+2007 9 "Riverside" 54
+2007 10 "Riverside" 62
+2007 11 "Riverside" 79
+2007 12 "Riverside" 86
+2007 1 "Sacramento" 55
+2007 2 "Sacramento" 56
+2007 3 "Sacramento" 42
+2007 4 "Sacramento" 41
+2007 5 "Sacramento" 46
+2007 6 "Sacramento" 32
+2007 7 "Sacramento" 41
+2007 8 "Sacramento" 42
+2007 9 "Sacramento" 30
+2007 10 "Sacramento" 38
+2007 11 "Sacramento" 31
+2007 12 "Sacramento" 50
+2007 1 "San Bernardino" 71
+2007 2 "San Bernardino" 82
+2007 3 "San Bernardino" 78
+2007 4 "San Bernardino" 64
+2007 5 "San Bernardino" 66
+2007 6 "San Bernardino" 58
+2007 7 "San Bernardino" 57
+2007 8 "San Bernardino" 61
+2007 9 "San Bernardino" 57
+2007 10 "San Bernardino" 51
+2007 11 "San Bernardino" 54
+2007 12 "San Bernardino" 65
+2007 1 "San Diego" 120
+2007 2 "San Diego" 91
+2007 3 "San Diego" 99
+2007 4 "San Diego" 106
+2007 5 "San Diego" 80
+2007 6 "San Diego" 81
+2007 7 "San Diego" 68
+2007 8 "San Diego" 82
+2007 9 "San Diego" 70
+2007 10 "San Diego" 83
+2007 11 "San Diego" 89
+2007 12 "San Diego" 66
+2007 1 "Santa Clara" 52
+2007 2 "Santa Clara" 42
+2007 3 "Santa Clara" 51
+2007 4 "Santa Clara" 38
+2007 5 "Santa Clara" 37
+2007 6 "Santa Clara" 39
+2007 7 "Santa Clara" 24
+2007 8 "Santa Clara" 27
+2007 9 "Santa Clara" 34
+2007 10 "Santa Clara" 25
+2007 11 "Santa Clara" 41
+2007 12 "Santa Clara" 43
+2008 1 "Alameda" 39
+2008 2 "Alameda" 60
+2008 3 "Alameda" 47
+2008 4 "Alameda" 51
+2008 5 "Alameda" 42
+2008 6 "Alameda" 34
+2008 7 "Alameda" 28
+2008 8 "Alameda" 29
+2008 9 "Alameda" 23
+2008 10 "Alameda" 32
+2008 11 "Alameda" 26
+2008 12 "Alameda" 47
+2008 1 "Los Angeles" 326
+2008 2 "Los Angeles" 357
+2008 3 "Los Angeles" 317
+2008 4 "Los Angeles" 286
+2008 5 "Los Angeles" 257
+2008 6 "Los Angeles" 241
+2008 7 "Los Angeles" 229
+2008 8 "Los Angeles" 220
+2008 9 "Los Angeles" 192
+2008 10 "Los Angeles" 198
+2008 11 "Los Angeles" 220
+2008 12 "Los Angeles" 239
+2008 1 "Orange" 105
+2008 2 "Orange" 143
+2008 3 "Orange" 115
+2008 4 "Orange" 87
+2008 5 "Orange" 79
+2008 6 "Orange" 77
+2008 7 "Orange" 67
+2008 8 "Orange" 59
+2008 9 "Orange" 57
+2008 10 "Orange" 69
+2008 11 "Orange" 78
+2008 12 "Orange" 65
+2008 1 "Riverside" 88
+2008 2 "Riverside" 118
+2008 3 "Riverside" 108
+2008 4 "Riverside" 87
+2008 5 "Riverside" 75
+2008 6 "Riverside" 62
+2008 7 "Riverside" 59
+2008 8 "Riverside" 57
+2008 9 "Riverside" 56
+2008 10 "Riverside" 63
+2008 11 "Riverside" 70
+2008 12 "Riverside" 71
+2008 1 "Sacramento" 55
+2008 2 "Sacramento" 69
+2008 3 "Sacramento" 57
+2008 4 "Sacramento" 44
+2008 5 "Sacramento" 36
+2008 6 "Sacramento" 42
+2008 7 "Sacramento" 39
+2008 8 "Sacramento" 52
+2008 9 "Sacramento" 32
+2008 10 "Sacramento" 34
+2008 11 "Sacramento" 38
+2008 12 "Sacramento" 45
+2008 1 "San Bernardino" 104
+2008 2 "San Bernardino" 100
+2008 3 "San Bernardino" 114
+2008 4 "San Bernardino" 62
+2008 5 "San Bernardino" 64
+2008 6 "San Bernardino" 55
+2008 7 "San Bernardino" 79
+2008 8 "San Bernardino" 54
+2008 9 "San Bernardino" 60
+2008 10 "San Bernardino" 52
+2008 11 "San Bernardino" 67
+2008 12 "San Bernardino" 72
+2008 1 "San Diego" 108
+2008 2 "San Diego" 113
+2008 3 "San Diego" 137
+2008 4 "San Diego" 111
+2008 5 "San Diego" 75
+2008 6 "San Diego" 67
+2008 7 "San Diego" 86
+2008 8 "San Diego" 79
+2008 9 "San Diego" 72
+2008 10 "San Diego" 70
+2008 11 "San Diego" 63
+2008 12 "San Diego" 86
+2008 1 "Santa Clara" 49
+2008 2 "Santa Clara" 50
+2008 3 "Santa Clara" 46
+2008 4 "Santa Clara" 47
+2008 5 "Santa Clara" 44
+2008 6 "Santa Clara" 30
+2008 7 "Santa Clara" 28
+2008 8 "Santa Clara" 32
+2008 9 "Santa Clara" 37
+2008 10 "Santa Clara" 33
+2008 11 "Santa Clara" 29
+2008 12 "Santa Clara" 26
+2009 1 "Alameda" 44
+2009 2 "Alameda" 37
+2009 3 "Alameda" 29
+2009 4 "Alameda" 40
+2009 5 "Alameda" 37
+2009 6 "Alameda" 30
+2009 7 "Alameda" 45
+2009 8 "Alameda" 36
+2009 9 "Alameda" 25
+2009 10 "Alameda" 36
+2009 11 "Alameda" 34
+2009 12 "Alameda" 37
+2009 1 "Los Angeles" 280
+2009 2 "Los Angeles" 283
+2009 3 "Los Angeles" 291
+2009 4 "Los Angeles" 270
+2009 5 "Los Angeles" 257
+2009 6 "Los Angeles" 261
+2009 7 "Los Angeles" 226
+2009 8 "Los Angeles" 216
+2009 9 "Los Angeles" 196
+2009 10 "Los Angeles" 286
+2009 11 "Los Angeles" 254
+2009 12 "Los Angeles" 263
+2009 1 "Orange" 92
+2009 2 "Orange" 74
+2009 3 "Orange" 96
+2009 4 "Orange" 79
+2009 5 "Orange" 76
+2009 6 "Orange" 67
+2009 7 "Orange" 69
+2009 8 "Orange" 71
+2009 9 "Orange" 53
+2009 10 "Orange" 73
+2009 11 "Orange" 67
+2009 12 "Orange" 88
+2009 1 "Riverside" 82
+2009 2 "Riverside" 75
+2009 3 "Riverside" 85
+2009 4 "Riverside" 81
+2009 5 "Riverside" 80
+2009 6 "Riverside" 66
+2009 7 "Riverside" 52
+2009 8 "Riverside" 52
+2009 9 "Riverside" 58
+2009 10 "Riverside" 81
+2009 11 "Riverside" 59
+2009 12 "Riverside" 81
+2009 1 "Sacramento" 56
+2009 2 "Sacramento" 42
+2009 3 "Sacramento" 39
+2009 4 "Sacramento" 57
+2009 5 "Sacramento" 49
+2009 6 "Sacramento" 32
+2009 7 "Sacramento" 37
+2009 8 "Sacramento" 34
+2009 9 "Sacramento" 36
+2009 10 "Sacramento" 47
+2009 11 "Sacramento" 45
+2009 12 "Sacramento" 44
+2009 1 "San Bernardino" 74
+2009 2 "San Bernardino" 83
+2009 3 "San Bernardino" 78
+2009 4 "San Bernardino" 61
+2009 5 "San Bernardino" 70
+2009 6 "San Bernardino" 64
+2009 7 "San Bernardino" 61
+2009 8 "San Bernardino" 76
+2009 9 "San Bernardino" 60
+2009 10 "San Bernardino" 69
+2009 11 "San Bernardino" 77
+2009 12 "San Bernardino" 68
+2009 1 "San Diego" 88
+2009 2 "San Diego" 81
+2009 3 "San Diego" 121
+2009 4 "San Diego" 93
+2009 5 "San Diego" 77
+2009 6 "San Diego" 69
+2009 7 "San Diego" 70
+2009 8 "San Diego" 70
+2009 9 "San Diego" 62
+2009 10 "San Diego" 69
+2009 11 "San Diego" 98
+2009 12 "San Diego" 81
+2009 1 "Santa Clara" 46
+2009 2 "Santa Clara" 42
+2009 3 "Santa Clara" 41
+2009 4 "Santa Clara" 43
+2009 5 "Santa Clara" 39
+2009 6 "Santa Clara" 35
+2009 7 "Santa Clara" 30
+2009 8 "Santa Clara" 30
+2009 9 "Santa Clara" 18
+2009 10 "Santa Clara" 39
+2009 11 "Santa Clara" 31
+2009 12 "Santa Clara" 41
+2010 1 "Alameda" 41
+2010 2 "Alameda" 30
+2010 3 "Alameda" 43
+2010 4 "Alameda" 33
+2010 5 "Alameda" 39
+2010 6 "Alameda" 25
+2010 7 "Alameda" 27
+2010 8 "Alameda" 36
+2010 9 "Alameda" 29
+2010 10 "Alameda" 35
+2010 11 "Alameda" 30
+2010 12 "Alameda" 33
+2010 1 "Los Angeles" 273
+2010 2 "Los Angeles" 262
+2010 3 "Los Angeles" 291
+2010 4 "Los Angeles" 244
+2010 5 "Los Angeles" 253
+2010 6 "Los Angeles" 179
+2010 7 "Los Angeles" 206
+2010 8 "Los Angeles" 226
+2010 9 "Los Angeles" 218
+2010 10 "Los Angeles" 190
+2010 11 "Los Angeles" 230
+2010 12 "Los Angeles" 231
+2010 1 "Orange" 98
+2010 2 "Orange" 91
+2010 3 "Orange" 96
+2010 4 "Orange" 87
+2010 5 "Orange" 74
+2010 6 "Orange" 82
+2010 7 "Orange" 84
+2010 8 "Orange" 74
+2010 9 "Orange" 61
+2010 10 "Orange" 71
+2010 11 "Orange" 67
+2010 12 "Orange" 82
+2010 1 "Riverside" 88
+2010 2 "Riverside" 87
+2010 3 "Riverside" 89
+2010 4 "Riverside" 83
+2010 5 "Riverside" 79
+2010 6 "Riverside" 64
+2010 7 "Riverside" 65
+2010 8 "Riverside" 64
+2010 9 "Riverside" 64
+2010 10 "Riverside" 56
+2010 11 "Riverside" 68
+2010 12 "Riverside" 91
+2010 1 "Sacramento" 74
+2010 2 "Sacramento" 64
+2010 3 "Sacramento" 73
+2010 4 "Sacramento" 51
+2010 5 "Sacramento" 65
+2010 6 "Sacramento" 34
+2010 7 "Sacramento" 41
+2010 8 "Sacramento" 41
+2010 9 "Sacramento" 42
+2010 10 "Sacramento" 49
+2010 11 "Sacramento" 43
+2010 12 "Sacramento" 61
+2010 1 "San Bernardino" 79
+2010 2 "San Bernardino" 68
+2010 3 "San Bernardino" 84
+2010 4 "San Bernardino" 85
+2010 5 "San Bernardino" 85
+2010 6 "San Bernardino" 51
+2010 7 "San Bernardino" 74
+2010 8 "San Bernardino" 68
+2010 9 "San Bernardino" 63
+2010 10 "San Bernardino" 57
+2010 11 "San Bernardino" 66
+2010 12 "San Bernardino" 63
+2010 1 "San Diego" 115
+2010 2 "San Diego" 95
+2010 3 "San Diego" 121
+2010 4 "San Diego" 108
+2010 5 "San Diego" 98
+2010 6 "San Diego" 83
+2010 7 "San Diego" 88
+2010 8 "San Diego" 81
+2010 9 "San Diego" 68
+2010 10 "San Diego" 75
+2010 11 "San Diego" 65
+2010 12 "San Diego" 97
+2010 1 "Santa Clara" 64
+2010 2 "Santa Clara" 41
+2010 3 "Santa Clara" 41
+2010 4 "Santa Clara" 40
+2010 5 "Santa Clara" 40
+2010 6 "Santa Clara" 37
+2010 7 "Santa Clara" 22
+2010 8 "Santa Clara" 24
+2010 9 "Santa Clara" 22
+2010 10 "Santa Clara" 39
+2010 11 "Santa Clara" 34
+2010 12 "Santa Clara" 41
+2011 1 "Alameda" 41
+2011 2 "Alameda" 39
+2011 3 "Alameda" 42
+2011 4 "Alameda" 36
+2011 5 "Alameda" 32
+2011 6 "Alameda" 41
+2011 7 "Alameda" 40
+2011 8 "Alameda" 33
+2011 9 "Alameda" 33
+2011 10 "Alameda" 33
+2011 11 "Alameda" 28
+2011 12 "Alameda" 36
+2011 1 "Los Angeles" 304
+2011 2 "Los Angeles" 282
+2011 3 "Los Angeles" 336
+2011 4 "Los Angeles" 307
+2011 5 "Los Angeles" 254
+2011 6 "Los Angeles" 223
+2011 7 "Los Angeles" 229
+2011 8 "Los Angeles" 227
+2011 9 "Los Angeles" 175
+2011 10 "Los Angeles" 237
+2011 11 "Los Angeles" 227
+2011 12 "Los Angeles" 281
+2011 1 "Orange" 89
+2011 2 "Orange" 101
+2011 3 "Orange" 108
+2011 4 "Orange" 92
+2011 5 "Orange" 73
+2011 6 "Orange" 67
+2011 7 "Orange" 64
+2011 8 "Orange" 78
+2011 9 "Orange" 65
+2011 10 "Orange" 88
+2011 11 "Orange" 75
+2011 12 "Orange" 96
+2011 1 "Riverside" 84
+2011 2 "Riverside" 106
+2011 3 "Riverside" 107
+2011 4 "Riverside" 77
+2011 5 "Riverside" 75
+2011 6 "Riverside" 83
+2011 7 "Riverside" 71
+2011 8 "Riverside" 79
+2011 9 "Riverside" 80
+2011 10 "Riverside" 67
+2011 11 "Riverside" 70
+2011 12 "Riverside" 81
+2011 1 "Sacramento" 54
+2011 2 "Sacramento" 66
+2011 3 "Sacramento" 61
+2011 4 "Sacramento" 49
+2011 5 "Sacramento" 55
+2011 6 "Sacramento" 41
+2011 7 "Sacramento" 52
+2011 8 "Sacramento" 31
+2011 9 "Sacramento" 42
+2011 10 "Sacramento" 43
+2011 11 "Sacramento" 44
+2011 12 "Sacramento" 46
+2011 1 "San Bernardino" 69
+2011 2 "San Bernardino" 112
+2011 3 "San Bernardino" 91
+2011 4 "San Bernardino" 66
+2011 5 "San Bernardino" 68
+2011 6 "San Bernardino" 77
+2011 7 "San Bernardino" 76
+2011 8 "San Bernardino" 59
+2011 9 "San Bernardino" 42
+2011 10 "San Bernardino" 59
+2011 11 "San Bernardino" 63
+2011 12 "San Bernardino" 72
+2011 1 "San Diego" 134
+2011 2 "San Diego" 95
+2011 3 "San Diego" 123
+2011 4 "San Diego" 81
+2011 5 "San Diego" 84
+2011 6 "San Diego" 83
+2011 7 "San Diego" 78
+2011 8 "San Diego" 79
+2011 9 "San Diego" 72
+2011 10 "San Diego" 67
+2011 11 "San Diego" 61
+2011 12 "San Diego" 111
+2011 1 "Santa Clara" 46
+2011 2 "Santa Clara" 45
+2011 3 "Santa Clara" 38
+2011 4 "Santa Clara" 39
+2011 5 "Santa Clara" 45
+2011 6 "Santa Clara" 28
+2011 7 "Santa Clara" 31
+2011 8 "Santa Clara" 26
+2011 9 "Santa Clara" 27
+2011 10 "Santa Clara" 28
+2011 11 "Santa Clara" 32
+2011 12 "Santa Clara" 42
+2012 1 "Alameda" 36
+2012 2 "Alameda" 56
+2012 3 "Alameda" 45
+2012 4 "Alameda" 29
+2012 5 "Alameda" 30
+2012 6 "Alameda" 35
+2012 7 "Alameda" 30
+2012 8 "Alameda" 37
+2012 9 "Alameda" 25
+2012 10 "Alameda" 28
+2012 11 "Alameda" 28
+2012 12 "Alameda" 46
+2012 1 "Los Angeles" 258
+2012 2 "Los Angeles" 271
+2012 3 "Los Angeles" 291
+2012 4 "Los Angeles" 273
+2012 5 "Los Angeles" 230
+2012 6 "Los Angeles" 197
+2012 7 "Los Angeles" 225
+2012 8 "Los Angeles" 185
+2012 9 "Los Angeles" 193
+2012 10 "Los Angeles" 198
+2012 11 "Los Angeles" 220
+2012 12 "Los Angeles" 253
+2012 1 "Orange" 89
+2012 2 "Orange" 88
+2012 3 "Orange" 83
+2012 4 "Orange" 87
+2012 5 "Orange" 85
+2012 6 "Orange" 54
+2012 7 "Orange" 64
+2012 8 "Orange" 70
+2012 9 "Orange" 66
+2012 10 "Orange" 75
+2012 11 "Orange" 85
+2012 12 "Orange" 88
+2012 1 "Riverside" 103
+2012 2 "Riverside" 92
+2012 3 "Riverside" 87
+2012 4 "Riverside" 81
+2012 5 "Riverside" 96
+2012 6 "Riverside" 65
+2012 7 "Riverside" 67
+2012 8 "Riverside" 63
+2012 9 "Riverside" 72
+2012 10 "Riverside" 61
+2012 11 "Riverside" 77
+2012 12 "Riverside" 82
+2012 1 "Sacramento" 53
+2012 2 "Sacramento" 52
+2012 3 "Sacramento" 65
+2012 4 "Sacramento" 65
+2012 5 "Sacramento" 37
+2012 6 "Sacramento" 37
+2012 7 "Sacramento" 33
+2012 8 "Sacramento" 38
+2012 9 "Sacramento" 47
+2012 10 "Sacramento" 38
+2012 11 "Sacramento" 42
+2012 12 "Sacramento" 46
+2012 1 "San Bernardino" 84
+2012 2 "San Bernardino" 77
+2012 3 "San Bernardino" 91
+2012 4 "San Bernardino" 92
+2012 5 "San Bernardino" 59
+2012 6 "San Bernardino" 78
+2012 7 "San Bernardino" 78
+2012 8 "San Bernardino" 73
+2012 9 "San Bernardino" 89
+2012 10 "San Bernardino" 72
+2012 11 "San Bernardino" 62
+2012 12 "San Bernardino" 72
+2012 1 "San Diego" 116
+2012 2 "San Diego" 78
+2012 3 "San Diego" 102
+2012 4 "San Diego" 92
+2012 5 "San Diego" 93
+2012 6 "San Diego" 84
+2012 7 "San Diego" 61
+2012 8 "San Diego" 80
+2012 9 "San Diego" 68
+2012 10 "San Diego" 89
+2012 11 "San Diego" 72
+2012 12 "San Diego" 113
+2012 1 "Santa Clara" 46
+2012 2 "Santa Clara" 48
+2012 3 "Santa Clara" 47
+2012 4 "Santa Clara" 49
+2012 5 "Santa Clara" 43
+2012 6 "Santa Clara" 33
+2012 7 "Santa Clara" 37
+2012 8 "Santa Clara" 27
+2012 9 "Santa Clara" 18
+2012 10 "Santa Clara" 25
+2012 11 "Santa Clara" 40
+2012 12 "Santa Clara" 38
+2013 1 "Alameda" 53
+2013 2 "Alameda" 34
+2013 3 "Alameda" 62
+2013 4 "Alameda" 44
+2013 5 "Alameda" 38
+2013 6 "Alameda" 28
+2013 7 "Alameda" 36
+2013 8 "Alameda" 36
+2013 9 "Alameda" 25
+2013 10 "Alameda" 24
+2013 11 "Alameda" 40
+2013 12 "Alameda" 34
+2013 1 "Los Angeles" 360
+2013 2 "Los Angeles" 351
+2013 3 "Los Angeles" 284
+2013 4 "Los Angeles" 264
+2013 5 "Los Angeles" 215
+2013 6 "Los Angeles" 215
+2013 7 "Los Angeles" 223
+2013 8 "Los Angeles" 196
+2013 9 "Los Angeles" 184
+2013 10 "Los Angeles" 214
+2013 11 "Los Angeles" 248
+2013 12 "Los Angeles" 256
+2013 1 "Orange" 110
+2013 2 "Orange" 120
+2013 3 "Orange" 97
+2013 4 "Orange" 93
+2013 5 "Orange" 72
+2013 6 "Orange" 73
+2013 7 "Orange" 74
+2013 8 "Orange" 64
+2013 9 "Orange" 86
+2013 10 "Orange" 78
+2013 11 "Orange" 68
+2013 12 "Orange" 88
+2013 1 "Riverside" 110
+2013 2 "Riverside" 107
+2013 3 "Riverside" 88
+2013 4 "Riverside" 87
+2013 5 "Riverside" 67
+2013 6 "Riverside" 68
+2013 7 "Riverside" 79
+2013 8 "Riverside" 88
+2013 9 "Riverside" 70
+2013 10 "Riverside" 79
+2013 11 "Riverside" 71
+2013 12 "Riverside" 84
+2013 1 "Sacramento" 78
+2013 2 "Sacramento" 65
+2013 3 "Sacramento" 73
+2013 4 "Sacramento" 51
+2013 5 "Sacramento" 56
+2013 6 "Sacramento" 47
+2013 7 "Sacramento" 39
+2013 8 "Sacramento" 37
+2013 9 "Sacramento" 41
+2013 10 "Sacramento" 55
+2013 11 "Sacramento" 44
+2013 12 "Sacramento" 55
+2013 1 "San Bernardino" 87
+2013 2 "San Bernardino" 90
+2013 3 "San Bernardino" 95
+2013 4 "San Bernardino" 67
+2013 5 "San Bernardino" 74
+2013 6 "San Bernardino" 56
+2013 7 "San Bernardino" 70
+2013 8 "San Bernardino" 71
+2013 9 "San Bernardino" 68
+2013 10 "San Bernardino" 73
+2013 11 "San Bernardino" 77
+2013 12 "San Bernardino" 91
+2013 1 "San Diego" 123
+2013 2 "San Diego" 112
+2013 3 "San Diego" 119
+2013 4 "San Diego" 100
+2013 5 "San Diego" 89
+2013 6 "San Diego" 74
+2013 7 "San Diego" 77
+2013 8 "San Diego" 71
+2013 9 "San Diego" 87
+2013 10 "San Diego" 80
+2013 11 "San Diego" 88
+2013 12 "San Diego" 94
+2013 1 "Santa Clara" 53
+2013 2 "Santa Clara" 48
+2013 3 "Santa Clara" 39
+2013 4 "Santa Clara" 39
+2013 5 "Santa Clara" 29
+2013 6 "Santa Clara" 35
+2013 7 "Santa Clara" 29
+2013 8 "Santa Clara" 32
+2013 9 "Santa Clara" 23
+2013 10 "Santa Clara" 35
+2013 11 "Santa Clara" 33
+2013 12 "Santa Clara" 45
+2014 1 "Alameda" 52
+2014 2 "Alameda" 39
+2014 3 "Alameda" 39
+2014 4 "Alameda" 29
+2014 5 "Alameda" 33
+2014 6 "Alameda" 31
+2014 7 "Alameda" 33
+2014 8 "Alameda" 33
+2014 9 "Alameda" 27
+2014 10 "Alameda" 38
+2014 11 "Alameda" 29
+2014 12 "Alameda" 35
+2014 1 "Los Angeles" 316
+2014 2 "Los Angeles" 253
+2014 3 "Los Angeles" 256
+2014 4 "Los Angeles" 234
+2014 5 "Los Angeles" 221
+2014 6 "Los Angeles" 220
+2014 7 "Los Angeles" 197
+2014 8 "Los Angeles" 232
+2014 9 "Los Angeles" 213
+2014 10 "Los Angeles" 197
+2014 11 "Los Angeles" 211
+2014 12 "Los Angeles" 278
+2014 1 "Orange" 104
+2014 2 "Orange" 97
+2014 3 "Orange" 83
+2014 4 "Orange" 84
+2014 5 "Orange" 62
+2014 6 "Orange" 77
+2014 7 "Orange" 85
+2014 8 "Orange" 55
+2014 9 "Orange" 59
+2014 10 "Orange" 52
+2014 11 "Orange" 72
+2014 12 "Orange" 90
+2014 1 "Riverside" 120
+2014 2 "Riverside" 95
+2014 3 "Riverside" 97
+2014 4 "Riverside" 75
+2014 5 "Riverside" 76
+2014 6 "Riverside" 63
+2014 7 "Riverside" 65
+2014 8 "Riverside" 53
+2014 9 "Riverside" 74
+2014 10 "Riverside" 73
+2014 11 "Riverside" 72
+2014 12 "Riverside" 91
+2014 1 "Sacramento" 65
+2014 2 "Sacramento" 52
+2014 3 "Sacramento" 48
+2014 4 "Sacramento" 60
+2014 5 "Sacramento" 57
+2014 6 "Sacramento" 50
+2014 7 "Sacramento" 38
+2014 8 "Sacramento" 51
+2014 9 "Sacramento" 35
+2014 10 "Sacramento" 61
+2014 11 "Sacramento" 45
+2014 12 "Sacramento" 43
+2014 1 "San Bernardino" 90
+2014 2 "San Bernardino" 71
+2014 3 "San Bernardino" 83
+2014 4 "San Bernardino" 80
+2014 5 "San Bernardino" 81
+2014 6 "San Bernardino" 55
+2014 7 "San Bernardino" 75
+2014 8 "San Bernardino" 76
+2014 9 "San Bernardino" 75
+2014 10 "San Bernardino" 70
+2014 11 "San Bernardino" 54
+2014 12 "San Bernardino" 66
+2014 1 "San Diego" 109
+2014 2 "San Diego" 79
+2014 3 "San Diego" 100
+2014 4 "San Diego" 87
+2014 5 "San Diego" 98
+2014 6 "San Diego" 89
+2014 7 "San Diego" 82
+2014 8 "San Diego" 75
+2014 9 "San Diego" 64
+2014 10 "San Diego" 75
+2014 11 "San Diego" 82
+2014 12 "San Diego" 66
+2014 1 "Santa Clara" 61
+2014 2 "Santa Clara" 36
+2014 3 "Santa Clara" 39
+2014 4 "Santa Clara" 38
+2014 5 "Santa Clara" 32
+2014 6 "Santa Clara" 21
+2014 7 "Santa Clara" 30
+2014 8 "Santa Clara" 32
+2014 9 "Santa Clara" 26
+2014 10 "Santa Clara" 26
+2014 11 "Santa Clara" 26
+2014 12 "Santa Clara" 40
+2015 1 "Alameda" 59
+2015 2 "Alameda" 43
+2015 3 "Alameda" 40
+2015 4 "Alameda" 46
+2015 5 "Alameda" 52
+2015 6 "Alameda" 39
+2015 7 "Alameda" 29
+2015 8 "Alameda" 29
+2015 9 "Alameda" 27
+2015 10 "Alameda" 31
+2015 11 "Alameda" 24
+2015 12 "Alameda" 47
+2015 1 "Los Angeles" 358
+2015 2 "Los Angeles" 284
+2015 3 "Los Angeles" 297
+2015 4 "Los Angeles" 254
+2015 5 "Los Angeles" 276
+2015 6 "Los Angeles" 212
+2015 7 "Los Angeles" 205
+2015 8 "Los Angeles" 220
+2015 9 "Los Angeles" 220
+2015 10 "Los Angeles" 207
+2015 11 "Los Angeles" 226
+2015 12 "Los Angeles" 280
+2015 1 "Orange" 107
+2015 2 "Orange" 99
+2015 3 "Orange" 84
+2015 4 "Orange" 96
+2015 5 "Orange" 73
+2015 6 "Orange" 86
+2015 7 "Orange" 76
+2015 8 "Orange" 72
+2015 9 "Orange" 57
+2015 10 "Orange" 72
+2015 11 "Orange" 69
+2015 12 "Orange" 107
+2015 1 "Riverside" 122
+2015 2 "Riverside" 101
+2015 3 "Riverside" 98
+2015 4 "Riverside" 107
+2015 5 "Riverside" 87
+2015 6 "Riverside" 89
+2015 7 "Riverside" 76
+2015 8 "Riverside" 67
+2015 9 "Riverside" 58
+2015 10 "Riverside" 75
+2015 11 "Riverside" 79
+2015 12 "Riverside" 83
+2015 1 "Sacramento" 77
+2015 2 "Sacramento" 61
+2015 3 "Sacramento" 69
+2015 4 "Sacramento" 54
+2015 5 "Sacramento" 61
+2015 6 "Sacramento" 49
+2015 7 "Sacramento" 48
+2015 8 "Sacramento" 33
+2015 9 "Sacramento" 36
+2015 10 "Sacramento" 36
+2015 11 "Sacramento" 48
+2015 12 "Sacramento" 59
+2015 1 "San Bernardino" 99
+2015 2 "San Bernardino" 99
+2015 3 "San Bernardino" 105
+2015 4 "San Bernardino" 91
+2015 5 "San Bernardino" 67
+2015 6 "San Bernardino" 77
+2015 7 "San Bernardino" 65
+2015 8 "San Bernardino" 69
+2015 9 "San Bernardino" 75
+2015 10 "San Bernardino" 76
+2015 11 "San Bernardino" 61
+2015 12 "San Bernardino" 70
+2015 1 "San Diego" 123
+2015 2 "San Diego" 109
+2015 3 "San Diego" 96
+2015 4 "San Diego" 86
+2015 5 "San Diego" 69
+2015 6 "San Diego" 79
+2015 7 "San Diego" 73
+2015 8 "San Diego" 81
+2015 9 "San Diego" 70
+2015 10 "San Diego" 67
+2015 11 "San Diego" 73
+2015 12 "San Diego" 98
+2015 1 "Santa Clara" 47
+2015 2 "Santa Clara" 51
+2015 3 "Santa Clara" 44
+2015 4 "Santa Clara" 32
+2015 5 "Santa Clara" 30
+2015 6 "Santa Clara" 25
+2015 7 "Santa Clara" 29
+2015 8 "Santa Clara" 25
+2015 9 "Santa Clara" 31
+2015 10 "Santa Clara" 24
+2015 11 "Santa Clara" 31
+2015 12 "Santa Clara" 40
+2016 1 "Alameda" 48
+2016 2 "Alameda" 35
+2016 3 "Alameda" 40
+2016 4 "Alameda" 38
+2016 5 "Alameda" 24
+2016 6 "Alameda" 31
+2016 7 "Alameda" 34
+2016 8 "Alameda" 27
+2016 9 "Alameda" 24
+2016 10 "Alameda" 38
+2016 11 "Alameda" 33
+2016 12 "Alameda" 44
+2016 1 "Los Angeles" 326
+2016 2 "Los Angeles" 351
+2016 3 "Los Angeles" 344
+2016 4 "Los Angeles" 281
+2016 5 "Los Angeles" 252
+2016 6 "Los Angeles" 223
+2016 7 "Los Angeles" 225
+2016 8 "Los Angeles" 227
+2016 9 "Los Angeles" 199
+2016 10 "Los Angeles" 241
+2016 11 "Los Angeles" 227
+2016 12 "Los Angeles" 283
+2016 1 "Orange" 101
+2016 2 "Orange" 104
+2016 3 "Orange" 99
+2016 4 "Orange" 82
+2016 5 "Orange" 72
+2016 6 "Orange" 64
+2016 7 "Orange" 82
+2016 8 "Orange" 67
+2016 9 "Orange" 62
+2016 10 "Orange" 62
+2016 11 "Orange" 73
+2016 12 "Orange" 84
+2016 1 "Riverside" 107
+2016 2 "Riverside" 84
+2016 3 "Riverside" 130
+2016 4 "Riverside" 96
+2016 5 "Riverside" 90
+2016 6 "Riverside" 50
+2016 7 "Riverside" 70
+2016 8 "Riverside" 67
+2016 9 "Riverside" 57
+2016 10 "Riverside" 87
+2016 11 "Riverside" 86
+2016 12 "Riverside" 81
+2016 1 "Sacramento" 58
+2016 2 "Sacramento" 60
+2016 3 "Sacramento" 73
+2016 4 "Sacramento" 62
+2016 5 "Sacramento" 35
+2016 6 "Sacramento" 32
+2016 7 "Sacramento" 41
+2016 8 "Sacramento" 34
+2016 9 "Sacramento" 50
+2016 10 "Sacramento" 38
+2016 11 "Sacramento" 44
+2016 12 "Sacramento" 52
+2016 1 "San Bernardino" 93
+2016 2 "San Bernardino" 102
+2016 3 "San Bernardino" 98
+2016 4 "San Bernardino" 73
+2016 5 "San Bernardino" 57
+2016 6 "San Bernardino" 79
+2016 7 "San Bernardino" 71
+2016 8 "San Bernardino" 73
+2016 9 "San Bernardino" 77
+2016 10 "San Bernardino" 73
+2016 11 "San Bernardino" 59
+2016 12 "San Bernardino" 87
+2016 1 "San Diego" 111
+2016 2 "San Diego" 105
+2016 3 "San Diego" 111
+2016 4 "San Diego" 85
+2016 5 "San Diego" 98
+2016 6 "San Diego" 65
+2016 7 "San Diego" 76
+2016 8 "San Diego" 63
+2016 9 "San Diego" 89
+2016 10 "San Diego" 71
+2016 11 "San Diego" 92
+2016 12 "San Diego" 99
+2016 1 "Santa Clara" 45
+2016 2 "Santa Clara" 44
+2016 3 "Santa Clara" 38
+2016 4 "Santa Clara" 22
+2016 5 "Santa Clara" 26
+2016 6 "Santa Clara" 32
+2016 7 "Santa Clara" 30
+2016 8 "Santa Clara" 24
+2016 9 "Santa Clara" 21
+2016 10 "Santa Clara" 32
+2016 11 "Santa Clara" 40
+2016 12 "Santa Clara" 56
+2017 1 "Alameda" 66
+2017 2 "Alameda" 38
+2017 3 "Alameda" 38
+2017 4 "Alameda" 34
+2017 5 "Alameda" 32
+2017 6 "Alameda" 27
+2017 7 "Alameda" 38
+2017 8 "Alameda" 28
+2017 9 "Alameda" 35
+2017 10 "Alameda" 26
+2017 11 "Alameda" 29
+2017 12 "Alameda" 37
+2017 1 "Los Angeles" 365
+2017 2 "Los Angeles" 287
+2017 3 "Los Angeles" 283
+2017 4 "Los Angeles" 290
+2017 5 "Los Angeles" 264
+2017 6 "Los Angeles" 222
+2017 7 "Los Angeles" 227
+2017 8 "Los Angeles" 222
+2017 9 "Los Angeles" 226
+2017 10 "Los Angeles" 224
+2017 11 "Los Angeles" 222
+2017 12 "Los Angeles" 297
+2017 1 "Orange" 122
+2017 2 "Orange" 115
+2017 3 "Orange" 124
+2017 4 "Orange" 95
+2017 5 "Orange" 83
+2017 6 "Orange" 80
+2017 7 "Orange" 73
+2017 8 "Orange" 70
+2017 9 "Orange" 70
+2017 10 "Orange" 64
+2017 11 "Orange" 65
+2017 12 "Orange" 90
+2017 1 "Riverside" 104
+2017 2 "Riverside" 98
+2017 3 "Riverside" 97
+2017 4 "Riverside" 82
+2017 5 "Riverside" 83
+2017 6 "Riverside" 88
+2017 7 "Riverside" 76
+2017 8 "Riverside" 60
+2017 9 "Riverside" 76
+2017 10 "Riverside" 63
+2017 11 "Riverside" 68
+2017 12 "Riverside" 89
+2017 1 "Sacramento" 75
+2017 2 "Sacramento" 54
+2017 3 "Sacramento" 48
+2017 4 "Sacramento" 56
+2017 5 "Sacramento" 52
+2017 6 "Sacramento" 52
+2017 7 "Sacramento" 51
+2017 8 "Sacramento" 30
+2017 9 "Sacramento" 36
+2017 10 "Sacramento" 40
+2017 11 "Sacramento" 44
+2017 12 "Sacramento" 62
+2017 1 "San Bernardino" 113
+2017 2 "San Bernardino" 87
+2017 3 "San Bernardino" 94
+2017 4 "San Bernardino" 75
+2017 5 "San Bernardino" 97
+2017 6 "San Bernardino" 75
+2017 7 "San Bernardino" 69
+2017 8 "San Bernardino" 82
+2017 9 "San Bernardino" 63
+2017 10 "San Bernardino" 61
+2017 11 "San Bernardino" 62
+2017 12 "San Bernardino" 94
+2017 1 "San Diego" 89
+2017 2 "San Diego" 97
+2017 3 "San Diego" 104
+2017 4 "San Diego" 94
+2017 5 "San Diego" 101
+2017 6 "San Diego" 87
+2017 7 "San Diego" 71
+2017 8 "San Diego" 67
+2017 9 "San Diego" 65
+2017 10 "San Diego" 72
+2017 11 "San Diego" 80
+2017 12 "San Diego" 115
+2017 1 "Santa Clara" 40
+2017 2 "Santa Clara" 32
+2017 3 "Santa Clara" 48
+2017 4 "Santa Clara" 39
+2017 5 "Santa Clara" 16
+2017 6 "Santa Clara" 33
+2017 7 "Santa Clara" 26
+2017 8 "Santa Clara" 28
+2017 9 "Santa Clara" 18
+2017 10 "Santa Clara" 37
+2017 11 "Santa Clara" 29
+2017 12 "Santa Clara" 38
+2018 1 "Alameda" 54
+2018 2 "Alameda" 35
+2018 3 "Alameda" 33
+2018 4 "Alameda" 34
+2018 5 "Alameda" 34
+2018 6 "Alameda" 38
+2018 7 "Alameda" 37
+2018 8 "Alameda" 30
+2018 9 "Alameda" 31
+2018 10 "Alameda" 31
+2018 11 "Alameda" 28
+2018 12 "Alameda" 28
+2018 1 "Los Angeles" 395
+2018 2 "Los Angeles" 305
+2018 3 "Los Angeles" 323
+2018 4 "Los Angeles" 248
+2018 5 "Los Angeles" 240
+2018 6 "Los Angeles" 214
+2018 7 "Los Angeles" 240
+2018 8 "Los Angeles" 219
+2018 9 "Los Angeles" 198
+2018 10 "Los Angeles" 223
+2018 11 "Los Angeles" 227
+2018 12 "Los Angeles" 277
+2018 1 "Orange" 141
+2018 2 "Orange" 100
+2018 3 "Orange" 106
+2018 4 "Orange" 97
+2018 5 "Orange" 77
+2018 6 "Orange" 66
+2018 7 "Orange" 57
+2018 8 "Orange" 80
+2018 9 "Orange" 60
+2018 10 "Orange" 68
+2018 11 "Orange" 66
+2018 12 "Orange" 81
+2018 1 "Riverside" 159
+2018 2 "Riverside" 105
+2018 3 "Riverside" 110
+2018 4 "Riverside" 99
+2018 5 "Riverside" 89
+2018 6 "Riverside" 77
+2018 7 "Riverside" 89
+2018 8 "Riverside" 73
+2018 9 "Riverside" 69
+2018 10 "Riverside" 87
+2018 11 "Riverside" 89
+2018 12 "Riverside" 100
+2018 1 "Sacramento" 73
+2018 2 "Sacramento" 55
+2018 3 "Sacramento" 69
+2018 4 "Sacramento" 46
+2018 5 "Sacramento" 45
+2018 6 "Sacramento" 48
+2018 7 "Sacramento" 37
+2018 8 "Sacramento" 37
+2018 9 "Sacramento" 45
+2018 10 "Sacramento" 37
+2018 11 "Sacramento" 48
+2018 12 "Sacramento" 57
+2018 1 "San Bernardino" 122
+2018 2 "San Bernardino" 100
+2018 3 "San Bernardino" 93
+2018 4 "San Bernardino" 83
+2018 5 "San Bernardino" 76
+2018 6 "San Bernardino" 65
+2018 7 "San Bernardino" 55
+2018 8 "San Bernardino" 79
+2018 9 "San Bernardino" 53
+2018 10 "San Bernardino" 65
+2018 11 "San Bernardino" 64
+2018 12 "San Bernardino" 82
+2018 1 "San Diego" 123
+2018 2 "San Diego" 94
+2018 3 "San Diego" 90
+2018 4 "San Diego" 90
+2018 5 "San Diego" 98
+2018 6 "San Diego" 76
+2018 7 "San Diego" 83
+2018 8 "San Diego" 73
+2018 9 "San Diego" 72
+2018 10 "San Diego" 69
+2018 11 "San Diego" 72
+2018 12 "San Diego" 92
+2018 1 "Santa Clara" 50
+2018 2 "Santa Clara" 37
+2018 3 "Santa Clara" 38
+2018 4 "Santa Clara" 38
+2018 5 "Santa Clara" 28
+2018 6 "Santa Clara" 23
+2018 7 "Santa Clara" 23
+2018 8 "Santa Clara" 27
+2018 9 "Santa Clara" 25
+2018 10 "Santa Clara" 31
+2018 11 "Santa Clara" 26
+2018 12 "Santa Clara" 32
