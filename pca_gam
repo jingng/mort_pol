@@ -1,0 +1,35 @@
+# GAM - PCA
+library(mgcv)
+
+merge1 <- merge(x=nit_merged_df, y=pm_merged_df, by= c("Year", "Month", "County"))
+merge2 <- merge(x=merge1, y=co_merged_df, by=c("Year", "Month", "County"))
+datafr <- subset(merge2, select=c("Year","Month","County","P_Mean.x","P_Mean.y", "P_Mean"))
+
+mort <- merge(x=df_fil, y=datafr, by=c("Year", "Month", "County"))
+mort <- subset(mort, select=c("Year", "Month", "County", "Count"))
+mort$Month <- as.numeric(mort$Month)
+mort <- mort[order(mort$Year, mort$Month, mort$County),]
+
+datafr$Month <- as.numeric(datafr$Month)
+datafr <- datafr[order(datafr$Year, datafr$Month, datafr$County),]
+colnames(datafr)<-c("Year","Month","County","Nit","Pm","Co")
+
+pollutants <- datafr[c("Nit","Pm","Co")]
+
+pollutants.cov <- cov(pollutants)
+pollutants.eigen <- eigen(pollutants.cov)
+vectors <- -pollutants.eigen$vectors[,1:2]
+row.names(vectors) <- c("Nit","Pm","Co")
+colnames(vectors) <- c("PC1", "PC2")
+
+# Matrix multiplication
+
+pc1 <- as.matrix(pollutants) %*% vectors[,1]
+pc2 <- as.matrix(pollutants) %*% vectors[,2]
+
+st <- apply(pollutants, 2, scale)
+pca <- prcomp(st, center=T, scale=T)
+
+pcs <- as.data.frame(pca$x)
+
+pca_gam <- gam(mort$Count~pcs$PC1+pcs$PC2+pcs$PC3, family=poisson(link=log))
