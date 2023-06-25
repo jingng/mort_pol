@@ -32,4 +32,21 @@ pca <- prcomp(st, center=T, scale=T)
 
 pcs <- as.data.frame(pca$x)
 
-pca_gam <- gam(mort$Count~pcs$PC1+pcs$PC2+pcs$PC3, family=poisson(link=log))
+gam1 <- gam(mort$Count ~ pcs$PC1+pcs$PC2+pcs$PC3, family=poisson(link=log))
+gam2 <- gam(Count ~ s(Year)+s(Month)+ 
+            pcs$PC1+pcs$PC2+pcs$PC3, 
+            data=mort,
+            family=poisson(link=log))
+
+gam3 <- gam(Count ~ s(Year)+s(Month)+ 
+            County + pcs$PC1+pcs$PC2+pcs$PC3, 
+            data=mort,
+            family=poisson(link=log))
+gam4 <- gam(Count ~ s(Year,k=3, by=as.factor(County))+s(Month, k=12)+
+            County+ pcs$PC1+pcs$PC2+pcs$PC3, 
+            data=mort,
+            family=poisson(link=log))
+# assessing model
+
+#aic
+aic <- AIC(gam1,gam2,gam3, gam4)
